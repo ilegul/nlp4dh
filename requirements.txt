@@ -1,0 +1,39 @@
+# ── Clinical NLP pipeline — Python 3.10 ─────────────────────────────────────────────────────
+# Pinned to the versions the notebook was developed and run against.
+#
+# PyTorch is the CUDA 12.1 build (for the GTX 1650). The +cu121 wheels are NOT on PyPI, so the
+# PyTorch wheel index below is required. On a CPU-only machine, drop the "+cu121" suffix and the
+# --extra-index-url line and install the plain CPU build instead (the notebook runs on CPU too,
+# only slower).
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.5.1+cu121
+
+# ── NLP / ML ────────────────────────────────────────────────────────────────────────────────
+transformers==5.6.2
+sentence-transformers==5.6.0
+gliner==0.2.27
+spacy==3.8.14
+scikit-learn==1.7.2
+
+# ── Knowledge graph & data ──────────────────────────────────────────────────────────────────
+rdflib==7.6.0
+pandas==2.3.1
+numpy==2.2.6
+pyarrow==24.0.0          # pandas Parquet engine (cached intermediates)
+
+# ── Visualisation ───────────────────────────────────────────────────────────────────────────
+matplotlib==3.10.9
+networkx==3.3
+
+# ── Local LLM client (the Ollama *server* is installed separately — see README) ─────────────
+ollama==0.6.1
+
+# ── Notebook runtime ────────────────────────────────────────────────────────────────────────
+notebook==6.4.12
+ipykernel==6.15.0
+
+# ── NOT installable via pip — see README.md "Setup" ─────────────────────────────────────────
+#   python -m spacy download it_core_news_lg
+#   ollama pull qwen2.5:3b-instruct
+#   HF models auto-download on first use: intfloat/multilingual-e5-small,
+#     urchade/gliner_multi-v2.1, MoritzLaurer/mDeBERTa-v3-base-mnli-xnli

@@ -1,0 +1,22 @@
+encOid,reportOid,reason,source_text
+10219677,25955408,explicit_no_therapy,Nessuna terapia domiciliare.
+10216104,25888645,explicit_no_therapy,Nessuna terapia domiciliare.
+10211365,25879257,unresolved,Laevolac eps
+10190890,25832445,non_drug_therapy,"Ossigeno, Cannula nasale, continuo, Oss.=1 l/min, Aria=0 l/min, % oss.=0 %"
+10198916,25824358,explicit_no_therapy,Nessuna terapia domiciliare.
+10083510,25450605,ambiguous_product_name,Depakin
+10158675,25752267,unresolved,Nevanac
+10173075,25741797,explicit_no_therapy,Nessuna terapia domiciliare.
+10166480,25738966,ambiguous_product_name,Humalog
+10126600,25593500,missing_colon_or_non_standard_list,"inegy, pantorc 20 , diuresix 1 cp, eutirox 50 mcg, cardicor 2,5 mg, aprovel 300 mg flutiformo 1 puff"
+10142581,25646093,unresolved,Perindopril krka
+10152471,25671082,unresolved,Esapent
+10149591,25661503,explicit_no_therapy,Nessuna terapia domiciliare.
+10131992,25605531,ambiguous_product_name,Humalog
+10115152,25559193,ambiguous_product_name,Coumadin
+10110774,25541535,unresolved,Furosemide (Lasix cpr. divisibili 500 mg)
+10075109,25479952,missing_colon_or_non_standard_list,enantone fl sc sec schema domiciliare
+10070376,25400061,non_drug_therapy,Simeox a cicli
+9920559,25385973,unresolved,Propafenone eg
+9992853,25112801,ambiguous_product_name,Humalog
+10065697,25380312,explicit_no_therapy,Nessuna terapia domiciliare.

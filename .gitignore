@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Raw source dumps under data/external: large original downloads that exceed GitHub's file-size
+# limits. The pipeline only reads the normalized/ versions; provenance is documented in each
+# resource's manifest.json.
+data/external/*/raw/

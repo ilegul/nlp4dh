@@ -1,0 +1,30 @@
+{
+  "resource": "aifa",
+  "status": "AVAILABLE",
+  "source_url": "https://www.aifa.gov.it/liste-dei-farmaci",
+  "download_urls": {
+    "confezioni_fornitura.csv": "https://drive.aifa.gov.it/farmaci/confezioni_fornitura.csv",
+    "PA_confezioni.csv": "https://drive.aifa.gov.it/farmaci/PA_confezioni.csv",
+    "atc.csv": "https://drive.aifa.gov.it/farmaci/atc.csv"
+  },
+  "retrieval_timestamp": "2026-06-26T17:56:48.838528+00:00",
+  "version": "2026-06-26",
+  "format": "AIFA official CSV",
+  "raw_files": {
+    "confezioni_fornitura.csv": "C:\\Users\\ileni\\nlp4dh\\data\\external\\aifa\\raw\\confezioni_fornitura.csv",
+    "PA_confezioni.csv": "C:\\Users\\ileni\\nlp4dh\\data\\external\\aifa\\raw\\PA_confezioni.csv",
+    "atc.csv": "C:\\Users\\ileni\\nlp4dh\\data\\external\\aifa\\raw\\atc.csv"
+  },
+  "sha256": {
+    "confezioni_fornitura.csv": "cd2dd11cb2a997ebdc67a2ebb6b97ee8eececbb4bdf597d694bc2d9061251f4a",
+    "PA_confezioni.csv": "958d7d78819bd38e75be429d5bad5175e49ff4e1f779b8b1843859b74bd80208",
+    "atc.csv": "d9f65fba5ff4ab2394294779c5c166f0ba6b6ec154f0d57bc72c4d1e30eb49a8"
+  },
+  "normalized_paths": [
+    "C:\\Users\\ileni\\nlp4dh\\data\\external\\aifa\\normalized\\medications.csv",
+    "C:\\Users\\ileni\\nlp4dh\\data\\external\\aifa\\normalized\\aifa_confezioni.parquet",
+    "C:\\Users\\ileni\\nlp4dh\\data\\external\\aifa\\normalized\\aifa_principi_attivi.parquet",
+    "C:\\Users\\ileni\\nlp4dh\\data\\external\\aifa\\normalized\\aifa_atc.parquet"
+  ],
+  "record_count": 14976
+}

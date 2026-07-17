@@ -1,0 +1,785 @@
+normalized_brand,brand_example,ingredient_label,active_ingredients,observation_count,total_brand_observations,relative_frequency,rank,is_unique_top_candidate
+2 5 mg,2.5 mg,Enalapril,"[""Enalapril""]",1,1,1.0,1,True
+abesart,Abesart,Irbesartan,"[""Irbesartan""]",2,2,1.0,1,True
+abigerd,Abigerd,Esomeprazolo,"[""Esomeprazolo""]",7,7,1.0,1,True
+abis,Abis,Amlodipina,"[""Amlodipina""]",2,2,1.0,1,True
+absorcol,Absorcol,Ezetimibe,"[""Ezetimibe""]",1,1,1.0,1,True
+acarden,Acarden,Carvedilolo,"[""Carvedilolo""]",1,1,1.0,1,True
+aciclin,Aciclin,Aciclovir,"[""Aciclovir""]",1,1,1.0,1,True
+acido acetils au,Acido acetils au,Acido acetilsalicilico,"[""Acido acetilsalicilico""]",13,13,1.0,1,True
+acido acetils eg,Acido acetils eg,Acido acetilsalicilico,"[""Acido acetilsalicilico""]",81,81,1.0,1,True
+acido acetils san,Acido acetils san,Acido acetilsalicilico,"[""Acido acetilsalicilico""]",4,4,1.0,1,True
+acido acetils te,Acido acetils te,Acido acetilsalicilico,"[""Acido acetilsalicilico""]",5,5,1.0,1,True
+acido val s val eg,Acido val s val eg,Acido valproico/sodio valproato,"[""Acido valproico"", ""sodio valproato""]",1,1,1.0,1,True
+actos,Actos,Pioglitazone,"[""Pioglitazone""]",2,2,1.0,1,True
+adempas,Adempas,Riociguat,"[""Riociguat""]",7,7,1.0,1,True
+adenuric,Adenuric,Febuxostat,"[""Febuxostat""]",9,9,1.0,1,True
+adoport,Adoport,Tacrolimus,"[""Tacrolimus""]",2,2,1.0,1,True
+adrovance,Adrovance,Acido alendronico/colecalciferolo,"[""Acido alendronico"", ""colecalciferolo""]",1,1,1.0,1,True
+aircort,Aircort,Budesonide,"[""Budesonide""]",2,2,1.0,1,True
+albital,Albital,Albumina umana,"[""Albumina umana""]",1,1,1.0,1,True
+aldactone,Aldactone,Spironolattone,"[""Spironolattone""]",37,37,1.0,1,True
+alendronato alm,Alendronato alm,Acido alendronico,"[""Acido alendronico""]",2,2,1.0,1,True
+alfuzosina eg,Alfuzosina eg,Alfuzosina,"[""Alfuzosina""]",1,1,1.0,1,True
+alfuzosina san,Alfuzosina san,Alfuzosina,"[""Alfuzosina""]",5,5,1.0,1,True
+alfuzosina zen,Alfuzosina zen,Alfuzosina,"[""Alfuzosina""]",1,1,1.0,1,True
+algidrin,Algidrin,Ibuprofene,"[""Ibuprofene""]",6,6,1.0,1,True
+aliflus,Aliflus,Salmeterolo/fluticasone,"[""Salmeterolo"", ""fluticasone""]",1,1,1.0,1,True
+alikres,Alikres,Duloxetina,"[""Duloxetina""]",1,1,1.0,1,True
+allopurinolo acc,Allopurinolo acc,Allopurinolo,"[""Allopurinolo""]",35,35,1.0,1,True
+allopurinolo doc,Allopurinolo doc,Allopurinolo,"[""Allopurinolo""]",4,4,1.0,1,True
+allopurinolo teva,Allopurinolo teva,Allopurinolo,"[""Allopurinolo""]",10,10,1.0,1,True
+almarytm,Almarytm,Flecainide,"[""Flecainide""]",13,13,1.0,1,True
+alprazolam au,Alprazolam au,Alprazolam,"[""Alprazolam""]",2,2,1.0,1,True
+alprazolam auro,Alprazolam auro,Alprazolam,"[""Alprazolam""]",2,2,1.0,1,True
+alvesco,Alvesco,Ciclesonide,"[""Ciclesonide""]",1,1,1.0,1,True
+ambrisentan med,Ambrisentan med,Ambrisentan,"[""Ambrisentan""]",2,2,1.0,1,True
+amiodar,Amiodar,Amiodarone,"[""Amiodarone""]",1,1,1.0,1,True
+amiodarone auro,Amiodarone auro,Amiodarone,"[""Amiodarone""]",18,18,1.0,1,True
+amiodarone my,Amiodarone my,Amiodarone,"[""Amiodarone""]",1,1,1.0,1,True
+amisitela,Amisitela,Ezetimibe/simvastatina,"[""Ezetimibe"", ""simvastatina""]",2,2,1.0,1,True
+amlodipina abc,Amlodipina abc,Amlodipina,"[""Amlodipina""]",2,2,1.0,1,True
+amoxicillina auro,Amoxicillina auro,Amoxicillina,"[""Amoxicillina""]",1,1,1.0,1,True
+ampicillina bioph,Ampicillina bioph,Ampicillina,"[""Ampicillina""]",1,1,1.0,1,True
+anadir,Anadir,Omeprazolo,"[""Omeprazolo""]",2,2,1.0,1,True
+anastrozolo sand,Anastrozolo sand,Anastrozolo,"[""Anastrozolo""]",1,1,1.0,1,True
+ancilleg,Ancilleg,Ezetimibe/atorvastatina,"[""Ezetimibe"", ""atorvastatina""]",8,8,1.0,1,True
+angeliq,Angeliq,Estradiolo/drospirenone,"[""Estradiolo"", ""drospirenone""]",1,1,1.0,1,True
+annister,Annister,Colecalciferolo,"[""Colecalciferolo""]",1,1,1.0,1,True
+annova,Annova,Colecalciferolo,"[""Colecalciferolo""]",2,2,1.0,1,True
+anoro ellipta,Anoro ellipta,Umeclidinio/vilanterolo,"[""Umeclidinio"", ""vilanterolo""]",3,3,1.0,1,True
+ansimar,Ansimar,Doxofillina,"[""Doxofillina""]",6,6,1.0,1,True
+ansiolin,Ansiolin,Diazepam,"[""Diazepam""]",2,2,1.0,1,True
+antepsin,Antepsin,Sucralfato,"[""Sucralfato""]",3,3,1.0,1,True
+antra,Antra,Omeprazolo,"[""Omeprazolo""]",1,1,1.0,1,True
+antunes,Antunes,Tamsulosina,"[""Tamsulosina""]",3,3,1.0,1,True
+apidra,Apidra,Insulina glulisina,"[""Insulina glulisina""]",5,5,1.0,1,True
+aplactin,Aplactin,Pravastatina,"[""Pravastatina""]",1,1,1.0,1,True
+aponil,Aponil,Lacidipina,"[""Lacidipina""]",1,1,1.0,1,True
+aprovel,Aprovel,Irbesartan,"[""Irbesartan""]",5,5,1.0,1,True
+arava,Arava,Leflunomide,"[""Leflunomide""]",1,1,1.0,1,True
+argonal,Argonal,Mesalazina,"[""Mesalazina""]",2,2,1.0,1,True
+aripiprazolo acc,Aripiprazolo acc,Aripiprazolo,"[""Aripiprazolo""]",1,1,1.0,1,True
+arixtra,Arixtra,Fondaparinux,"[""Fondaparinux""]",6,6,1.0,1,True
+asacol,Asacol,Mesalazina,"[""Mesalazina""]",2,2,1.0,1,True
+aspirinetta,Aspirinetta,Acido acetilsalicilico,"[""Acido acetilsalicilico""]",2,2,1.0,1,True
+asterid,Asterid,Finasteride,"[""Finasteride""]",1,1,1.0,1,True
+atarax,Atarax,Idroxizina,"[""Idroxizina""]",2,2,1.0,1,True
+atenololo clor doc,Atenololo clor doc,Atenololo/clortalidone,"[""Atenololo"", ""clortalidone""]",1,1,1.0,1,True
+atenololo hex,Atenololo hex,Atenololo,"[""Atenololo""]",8,8,1.0,1,True
+atoris,Atoris,Atorvastatina,"[""Atorvastatina""]",2,2,1.0,1,True
+atorvastatina alm,Atorvastatina alm,Atorvastatina,"[""Atorvastatina""]",1,1,1.0,1,True
+atorvastatina sa,Atorvastatina sa,Atorvastatina,"[""Atorvastatina""]",31,31,1.0,1,True
+atover,Atover,Enalapril/lercanidipina,"[""Enalapril"", ""lercanidipina""]",1,1,1.0,1,True
+augmentin,Augmentin,Amoxicillina/acido clavulanico,"[""Amoxicillina"", ""acido clavulanico""]",5,5,1.0,1,True
+aurozeb,Aurozeb,Rosuvastatina/ezetimibe,"[""Rosuvastatina"", ""ezetimibe""]",11,11,1.0,1,True
+averelix,Averelix,Clopidogrel,"[""Clopidogrel""]",1,1,1.0,1,True
+avodart,Avodart,Dutasteride,"[""Dutasteride""]",26,26,1.0,1,True
+awiqli,Awiqli,Insulina icodec,"[""Insulina icodec""]",2,2,1.0,1,True
+azalia,Azalia,Desogestrel,"[""Desogestrel""]",1,1,1.0,1,True
+azarga coll,Azarga coll.,Brinzolamide/timololo maleato,"[""Brinzolamide"", ""timololo maleato""]",2,3,0.6666666666666666,1,False
+azarga coll,Azarga coll.,Timololo/bimatoprost,"[""Timololo"", ""bimatoprost""]",1,3,0.3333333333333333,2,False
+azatioprina asp,Azatioprina asp,Azatioprina,"[""Azatioprina""]",2,2,1.0,1,True
+azilect,Azilect,Rasagilina,"[""Rasagilina""]",3,3,1.0,1,True
+bactrim,Bactrim,Trimetoprim/sulfametoxazolo,"[""Trimetoprim"", ""sulfametoxazolo""]",2,2,1.0,1,True
+balcoga,Balcoga,Sildenafil,"[""Sildenafil""]",1,1,1.0,1,True
+bassado,Bassado,Doxiciclina,"[""Doxiciclina""]",2,2,1.0,1,True
+beclometasone for my,Beclometasone for my,Beclometasone/formoterolo,"[""Beclometasone"", ""formoterolo""]",1,1,1.0,1,True
+becozym,Becozym,Tiamina nitrato/riboflavina/nicotinamide/piridossina cloridrato/calcio pantotenato/cianocobalamina/biotina,"[""Tiamina nitrato"", ""riboflavina"", ""nicotinamide"", ""piridossina cloridrato"", ""calcio pantotenato"", ""cianocobalamina"", ""biotina""]",2,2,1.0,1,True
+benerva,Benerva,Tiamina,"[""Tiamina""]",3,3,1.0,1,True
+benur,Benur,Doxazosina,"[""Doxazosina""]",1,1,1.0,1,True
+betabioptal coll,Betabioptal coll.,Betametasone/cloramfenicolo,"[""Betametasone"", ""cloramfenicolo""]",1,1,1.0,1,True
+bifril,Bifril,Zofenopril,"[""Zofenopril""]",2,2,1.0,1,True
+biktarvy,Biktarvy,Bictegravir/emtricitabina/tenofovir alafenamide,"[""Bictegravir"", ""emtricitabina"", ""tenofovir alafenamide""]",1,1,1.0,1,True
+bimadoc coll,Bimadoc coll.,Bimatoprost,"[""Bimatoprost""]",1,1,1.0,1,True
+bimanext coll,Bimanext coll.,Bimatoprost,"[""Bimatoprost""]",1,1,1.0,1,True
+binocrit,Binocrit,Epoetina alfa,"[""Epoetina alfa""]",11,11,1.0,1,True
+bisoprololo doc,Bisoprololo doc,Bisoprololo,"[""Bisoprololo""]",5,5,1.0,1,True
+bisoprololo san,Bisoprololo san,Bisoprololo,"[""Bisoprololo""]",89,89,1.0,1,True
+bivis,Bivis,Olmesartan medoxomil/amlodipina,"[""Olmesartan medoxomil"", ""amlodipina""]",4,4,1.0,1,True
+blopress,Blopress,Candesartan cilexetil,"[""Candesartan cilexetil""]",8,8,1.0,1,True
+borghes,Borghes,Rosuvastatina,"[""Rosuvastatina""]",5,5,1.0,1,True
+bosentan my,Bosentan my,Bosentan,"[""Bosentan""]",2,2,1.0,1,True
+botinero,Botinero,Perindopril/amlodipina,"[""Perindopril"", ""amlodipina""]",2,2,1.0,1,True
+bretaris genuair,Bretaris genuair,Aclidinio,"[""Aclidinio""]",3,3,1.0,1,True
+brilique,Brilique,Ticagrelor,"[""Ticagrelor""]",24,24,1.0,1,True
+brimica genuair,Brimica genuair,Aclidinio/formoterolo,"[""Aclidinio"", ""formoterolo""]",3,3,1.0,1,True
+brintellix,Brintellix,Vortioxetina,"[""Vortioxetina""]",8,8,1.0,1,True
+broncovaleas,Broncovaleas,Salbutamolo,"[""Salbutamolo""]",1,1,1.0,1,True
+brufen,Brufen,Ibuprofene,"[""Ibuprofene""]",10,10,1.0,1,True
+brufen grat per sol os,Brufen grat. per sol. os,Ibuprofene,"[""Ibuprofene""]",17,17,1.0,1,True
+bunamol,Bunamol,Buprenorfina/naloxone,"[""Buprenorfina"", ""naloxone""]",1,1,1.0,1,True
+busette,Busette,Buprenorfina,"[""Buprenorfina""]",1,1,1.0,1,True
+cacit 1000,Cacit 1000,Calcio carbonato,"[""Calcio carbonato""]",6,6,1.0,1,True
+cacit vit d3 grat per sol os,Cacit vit d3 grat. per sol. os,Calcio carbonato/colecalciferolo,"[""Calcio carbonato"", ""colecalciferolo""]",1,1,1.0,1,True
+calciodie,Calciodie,Calcio carbonato,"[""Calcio carbonato""]",2,2,1.0,1,True
+calciparina,Calciparina,Eparina calcica,"[""Eparina calcica""]",2,2,1.0,1,True
+calcitriolo my,Calcitriolo my,Calcitriolo,"[""Calcitriolo""]",7,7,1.0,1,True
+caravel,Caravel,Carvedilolo,"[""Carvedilolo""]",1,1,1.0,1,True
+carbolithium,Carbolithium,Litio,"[""Litio""]",1,1,1.0,1,True
+carbossimaltosio fe san dispers per infus,Carbossimaltosio fe san dispers. per infus.,Carbossimaltosio ferrico,"[""Carbossimaltosio ferrico""]",1,1,1.0,1,True
+cardicor,Cardicor,Bisoprololo,"[""Bisoprololo""]",71,71,1.0,1,True
+cardioaspirin,Cardioaspirin,Acido acetilsalicilico,"[""Acido acetilsalicilico""]",227,227,1.0,1,True
+cardioaspirina,Cardioaspirina,Acido acetilsalicilico,"[""Acido acetilsalicilico""]",1,1,1.0,1,True
+cardiospirin,Cardiospirin,Acido acetilsalicilico,"[""Acido acetilsalicilico""]",1,1,1.0,1,True
+cardiovasc,Cardiovasc,Lercanidipina,"[""Lercanidipina""]",1,1,1.0,1,True
+cardirene,Cardirene,Acido acetilsalicilico,"[""Acido acetilsalicilico""]",12,12,1.0,1,True
+cardol,Cardol,Olmesartan medoxomil,"[""Olmesartan medoxomil""]",2,2,1.0,1,True
+cardura,Cardura,Doxazosina,"[""Doxazosina""]",23,23,1.0,1,True
+carteol coll,Carteol coll.,Carteololo,"[""Carteololo""]",1,1,1.0,1,True
+carvedilolo,Carvedilolo,Carvedilolo,"[""Carvedilolo""]",1,1,1.0,1,True
+carvedilolo eg,Carvedilolo eg,Carvedilolo,"[""Carvedilolo""]",2,2,1.0,1,True
+carvedilolo hex,Carvedilolo hex,Carvedilolo,"[""Carvedilolo""]",3,3,1.0,1,True
+carvedilolo rat,Carvedilolo rat,Carvedilolo,"[""Carvedilolo""]",4,4,1.0,1,True
+cefazolina teva,Cefazolina teva,Cefazolina,"[""Cefazolina""]",1,1,1.0,1,True
+cefixima aur,Cefixima aur,Cefixima,"[""Cefixima""]",3,3,1.0,1,True
+cefixoral,Cefixoral,Cefixima,"[""Cefixima""]",5,5,1.0,1,True
+cefixoral grat per,Cefixoral grat. per,Cefixima,"[""Cefixima""]",2,2,1.0,1,True
+ceftriaxone qilu,Ceftriaxone qilu,Ceftriaxone,"[""Ceftriaxone""]",4,4,1.0,1,True
+ceptava,Ceptava,Acido micofenolico,"[""Acido micofenolico""]",2,2,1.0,1,True
+cerchio,Cerchio,Cetirizina,"[""Cetirizina""]",2,2,1.0,1,True
+certican,Certican,Everolimus,"[""Everolimus""]",1,1,1.0,1,True
+cetirizina sand,Cetirizina sand,Cetirizina,"[""Cetirizina""]",1,1,1.0,1,True
+cetirizina teva,Cetirizina teva,Cetirizina,"[""Cetirizina""]",2,2,1.0,1,True
+cetirizina zent,Cetirizina zent,Cetirizina,"[""Cetirizina""]",1,1,1.0,1,True
+cholecomb,Cholecomb,Rosuvastatina/ezetimibe,"[""Rosuvastatina"", ""ezetimibe""]",62,62,1.0,1,True
+cialis,Cialis,Tadalafil,"[""Tadalafil""]",1,1,1.0,1,True
+cibadrex,Cibadrex,Benazepril/idroclorotiazide,"[""Benazepril"", ""idroclorotiazide""]",1,1,1.0,1,True
+cilostazolo san,Cilostazolo san,Cilostazolo,"[""Cilostazolo""]",2,2,1.0,1,True
+cinacalcet aur,Cinacalcet aur,Cinacalcet,"[""Cinacalcet""]",1,1,1.0,1,True
+cinacalcet vi,Cinacalcet vi,Cinacalcet,"[""Cinacalcet""]",1,1,1.0,1,True
+cipralex,Cipralex,Escitalopram,"[""Escitalopram""]",2,2,1.0,1,True
+ciprofloxacina,Ciprofloxacina,Ciprofloxacina,"[""Ciprofloxacina""]",1,1,1.0,1,True
+ciproxin,Ciproxin,Ciprofloxacina,"[""Ciprofloxacina""]",1,1,1.0,1,True
+ciqorin,Ciqorin,Ciclosporina,"[""Ciclosporina""]",1,1,1.0,1,True
+circadin,Circadin,Melatonina,"[""Melatonina""]",4,4,1.0,1,True
+citalopram,Citalopram,Citalopram,"[""Citalopram""]",1,1,1.0,1,True
+citalopram abc,Citalopram abc,Citalopram,"[""Citalopram""]",4,4,1.0,1,True
+citalopram doc,Citalopram doc,Citalopram,"[""Citalopram""]",1,1,1.0,1,True
+citalopram eg,Citalopram eg,Citalopram,"[""Citalopram""]",6,6,1.0,1,True
+citicolin,Citicolin,Citicolina,"[""Citicolina""]",1,1,1.0,1,True
+clenil,Clenil,Beclometasone,"[""Beclometasone""]",2,2,1.0,1,True
+clenil comp,Clenil comp,Beclometasone/salbutamolo,"[""Beclometasone"", ""salbutamolo""]",5,5,1.0,1,True
+clexane,Clexane,Enoxaparina,"[""Enoxaparina""]",3,3,1.0,1,True
+clexane t,Clexane t,Enoxaparina,"[""Enoxaparina""]",3,3,1.0,1,True
+clopidogrel aur,Clopidogrel aur,Clopidogrel,"[""Clopidogrel""]",14,14,1.0,1,True
+clopidogrel zen,Clopidogrel zen,Clopidogrel,"[""Clopidogrel""]",43,43,1.0,1,True
+coaprovel,Coaprovel,Irbesartan/idroclorotiazide,"[""Irbesartan"", ""idroclorotiazide""]",1,1,1.0,1,True
+coaredam,Coaredam,Rosuvastatina/amlodipina,"[""Rosuvastatina"", ""amlodipina""]",1,1,1.0,1,True
+codamol,Codamol,Paracetamolo/codeina,"[""Paracetamolo"", ""codeina""]",7,7,1.0,1,True
+colchicina lirca,Colchicina lirca,Colchicina,"[""Colchicina""]",46,46,1.0,1,True
+colfri,Colfri,Rosuvastatina,"[""Rosuvastatina""]",1,1,1.0,1,True
+compendium,Compendium,Bromazepam,"[""Bromazepam""]",1,1,1.0,1,True
+compuna,Compuna,Rosuvastatina/ezetimibe,"[""Rosuvastatina"", ""ezetimibe""]",14,14,1.0,1,True
+congescor,Congescor,Bisoprololo,"[""Bisoprololo""]",238,238,1.0,1,True
+contramal,Contramal,Tramadolo,"[""Tramadolo""]",2,2,1.0,1,True
+cordarone,Cordarone,Amiodarone,"[""Amiodarone""]",6,6,1.0,1,True
+coripren,Coripren,Enalapril/lercanidipina,"[""Enalapril"", ""lercanidipina""]",2,2,1.0,1,True
+cormeto,Cormeto,Metirapone,"[""Metirapone""]",1,1,1.0,1,True
+cortone acetato,Cortone acetato,Cortisone,"[""Cortisone""]",1,1,1.0,1,True
+cosopt coll,Cosopt coll.,Dorzolamide/timololo,"[""Dorzolamide"", ""timololo""]",3,3,1.0,1,True
+cosyrel,Cosyrel,Bisoprololo/perindopril,"[""Bisoprololo"", ""perindopril""]",2,2,1.0,1,True
+cotareg,Cotareg,Valsartan/idroclorotiazide,"[""Valsartan"", ""idroclorotiazide""]",11,11,1.0,1,True
+coumadin,Coumadin,Warfarin,"[""Warfarin""]",50,96,0.5208333333333334,1,False
+coumadin,Coumadin,Warfarin sodico,"[""Warfarin sodico""]",46,96,0.4791666666666667,2,False
+coverlam,Coverlam,Perindopril/amlodipina,"[""Perindopril"", ""amlodipina""]",4,4,1.0,1,True
+coversyl,Coversyl,Perindopril,"[""Perindopril""]",2,2,1.0,1,True
+creon 10000ui,Creon 10000ui,Pancrelipasi,"[""Pancrelipasi""]",2,2,1.0,1,True
+creon 25000ui,Creon 25000ui,Pancrelipasi,"[""Pancrelipasi""]",1,1,1.0,1,True
+crestor,Crestor,Rosuvastatina,"[""Rosuvastatina""]",22,22,1.0,1,True
+cusimolol coll,Cusimolol coll.,Timololo,"[""Timololo""]",2,2,1.0,1,True
+cymbalta,Cymbalta,Duloxetina,"[""Duloxetina""]",2,2,1.0,1,True
+dabigatran ete acc,Dabigatran ete acc,Dabigatran,"[""Dabigatran""]",4,4,1.0,1,True
+dabigatran ete eg,Dabigatran ete eg,Dabigatran,"[""Dabigatran""]",5,5,1.0,1,True
+dabigatran ete mv,Dabigatran ete mv,Dabigatran,"[""Dabigatran""]",1,1,1.0,1,True
+daflon,Daflon,Diosmina/esperidina,"[""Diosmina"", ""esperidina""]",2,2,1.0,1,True
+daparox,Daparox,Paroxetina,"[""Paroxetina""]",3,3,1.0,1,True
+daptomicina ham,Daptomicina ham,Daptomicina,"[""Daptomicina""]",3,3,1.0,1,True
+decadron,Decadron,Desametasone,"[""Desametasone""]",1,1,1.0,1,True
+decuster,Decuster,Dutasteride,"[""Dutasteride""]",3,3,1.0,1,True
+deflan,Deflan,Deflazacort,"[""Deflazacort""]",1,1,1.0,1,True
+delecit,Delecit,Colina alfoscerato,"[""Colina alfoscerato""]",1,1,1.0,1,True
+delorazepam alter,Delorazepam alter,Delorazepam,"[""Delorazepam""]",2,2,1.0,1,True
+deltacortene,Deltacortene,Prednisone,"[""Prednisone""]",28,28,1.0,1,True
+depakin,Depakin,Acido valproico,"[""Acido valproico""]",3,5,0.6,1,False
+depakin,Depakin,Acido valproico/sodio valproato,"[""Acido valproico"", ""sodio valproato""]",2,5,0.4,2,False
+depakin chrono,Depakin chrono,Acido valproico/sodio valproato,"[""Acido valproico"", ""sodio valproato""]",11,11,1.0,1,True
+descovy,Descovy,Emtricitabina/tenofovir alafenamide,"[""Emtricitabina"", ""tenofovir alafenamide""]",1,1,1.0,1,True
+deursil,Deursil,Acido ursodesossicolico,"[""Acido ursodesossicolico""]",11,11,1.0,1,True
+diamicron,Diamicron,Gliclazide,"[""Gliclazide""]",1,1,1.0,1,True
+diamox,Diamox,Acetazolamide,"[""Acetazolamide""]",10,10,1.0,1,True
+dibase,Dibase,Colecalciferolo,"[""Colecalciferolo""]",10,10,1.0,1,True
+dicoflor,Dicoflor,Nessun principio attivo,"[""Nessun principio attivo""]",5,5,1.0,1,True
+dicoflor 60,Dicoflor 60,Nessun principio attivo,"[""Nessun principio attivo""]",3,3,1.0,1,True
+dicovit dha plus 7 5ml,"Dicovit dha plus 7,5ml",Nessun principio attivo,"[""Nessun principio attivo""]",3,3,1.0,1,True
+didrogyl,Didrogyl,Calcifediolo,"[""Calcifediolo""]",10,10,1.0,1,True
+dilatrend,Dilatrend,Carvedilolo,"[""Carvedilolo""]",1,1,1.0,1,True
+dilzene,Dilzene,Diltiazem,"[""Diltiazem""]",5,5,1.0,1,True
+dincrel,Dincrel,Calcio carbonato/colecalciferolo,"[""Calcio carbonato"", ""colecalciferolo""]",1,1,1.0,1,True
+dipperam hct,Dipperam hct,Amlodipina/valsartan/idroclorotiazide,"[""Amlodipina"", ""valsartan"", ""idroclorotiazide""]",1,1,1.0,1,True
+diuresix,Diuresix,Torasemide,"[""Torasemide""]",1,1,1.0,1,True
+domperidone abc,Domperidone abc,Domperidone,"[""Domperidone""]",1,1,1.0,1,True
+domperidone my,Domperidone my,Domperidone,"[""Domperidone""]",1,1,1.0,1,True
+domperidone sandoz,Domperidone sandoz,Domperidone,"[""Domperidone""]",1,1,1.0,1,True
+donamet,Donamet,Ademetionina,"[""Ademetionina""]",1,1,1.0,1,True
+donepezil auro,Donepezil auro,Donepezil,"[""Donepezil""]",1,1,1.0,1,True
+dovato,Dovato,Dolutegravir/lamivudina,"[""Dolutegravir"", ""lamivudina""]",2,2,1.0,1,True
+dromos,Dromos,Levopropionilcarnitina,"[""Levopropionilcarnitina""]",1,1,1.0,1,True
+dropaxin,Dropaxin,Paroxetina,"[""Paroxetina""]",1,1,1.0,1,True
+duloxetina alm,Duloxetina alm,Duloxetina,"[""Duloxetina""]",1,1,1.0,1,True
+duloxetina auro,Duloxetina auro,Duloxetina,"[""Duloxetina""]",3,3,1.0,1,True
+duloxetina zen,Duloxetina zen,Duloxetina,"[""Duloxetina""]",1,1,1.0,1,True
+duoplavin,Duoplavin,Clopidogrel/acido acetilsalicilico,"[""Clopidogrel"", ""acido acetilsalicilico""]",33,33,1.0,1,True
+duoresp spiromax,Duoresp spiromax,Budesonide/formoterolo,"[""Budesonide"", ""formoterolo""]",2,2,1.0,1,True
+duotens,Duotens,Ramipril/amlodipina,"[""Ramipril"", ""amlodipina""]",2,2,1.0,1,True
+eclipse,Eclipse,Ramipril,"[""Ramipril""]",5,5,1.0,1,True
+ecubalin,Ecubalin,Pregabalin,"[""Pregabalin""]",1,1,1.0,1,True
+efexor,Efexor,Venlafaxina,"[""Venlafaxina""]",6,6,1.0,1,True
+efferalgan,Efferalgan,Paracetamolo,"[""Paracetamolo""]",1,1,1.0,1,True
+efient,Efient,Prasugrel,"[""Prasugrel""]",3,3,1.0,1,True
+elebrato ell,Elebrato ell,Vilanterolo/umeclidinio/fluticasone,"[""Vilanterolo"", ""umeclidinio"", ""fluticasone""]",2,2,1.0,1,True
+eliquis,Eliquis,Apixaban,"[""Apixaban""]",68,68,1.0,1,True
+elopram,Elopram,Citalopram,"[""Citalopram""]",2,2,1.0,1,True
+emgality,Emgality,Galcanezumab,"[""Galcanezumab""]",1,1,1.0,1,True
+en,En,Delorazepam,"[""Delorazepam""]",6,6,1.0,1,True
+enapren,Enapren,Enalapril,"[""Enalapril""]",9,9,1.0,1,True
+enoxaparina,Enoxaparina,Enoxaparina,"[""Enoxaparina""]",1,1,1.0,1,True
+enoxaparina rovi,Enoxaparina rovi,Enoxaparina,"[""Enoxaparina""]",93,93,1.0,1,True
+ensure plus advance cio4x220ml,Ensure plus advance cio4x220ml,Nessun principio attivo,"[""Nessun principio attivo""]",1,1,1.0,1,True
+entact,Entact,Escitalopram,"[""Escitalopram""]",2,2,1.0,1,True
+entresto,Entresto,Sacubitril/valsartan,"[""Sacubitril"", ""valsartan""]",77,77,1.0,1,True
+envarsus,Envarsus,Tacrolimus,"[""Tacrolimus""]",2,2,1.0,1,True
+epidyolex,Epidyolex,Cannabidiolo,"[""Cannabidiolo""]",1,1,1.0,1,True
+epitiram,Epitiram,Levetiracetam,"[""Levetiracetam""]",2,2,1.0,1,True
+eplerenone acc,Eplerenone acc,Eplerenone,"[""Eplerenone""]",4,4,1.0,1,True
+erleada,Erleada,Apalutamide,"[""Apalutamide""]",1,1,1.0,1,True
+escitalopram my,Escitalopram my,Escitalopram,"[""Escitalopram""]",1,1,1.0,1,True
+escitalopram te,Escitalopram te,Escitalopram,"[""Escitalopram""]",3,3,1.0,1,True
+esidrex,Esidrex,Idroclorotiazide,"[""Idroclorotiazide""]",2,2,1.0,1,True
+esnoxiben,Esnoxiben,Eszopiclone,"[""Eszopiclone""]",2,2,1.0,1,True
+esomeprazolo alt,Esomeprazolo alt,Esomeprazolo,"[""Esomeprazolo""]",2,2,1.0,1,True
+esomeprazolo ari,Esomeprazolo ari,Esomeprazolo,"[""Esomeprazolo""]",1,1,1.0,1,True
+eutirox,Eutirox,Levotiroxina,"[""Levotiroxina""]",111,111,1.0,1,True
+evrenzo,Evrenzo,Roxadustat,"[""Roxadustat""]",1,1,1.0,1,True
+exorta,Exorta,Rosuvastatina,"[""Rosuvastatina""]",2,2,1.0,1,True
+ezateros,Ezateros,Rosuvastatina/ezetimibe,"[""Rosuvastatina"", ""ezetimibe""]",9,9,1.0,1,True
+ezequa,Ezequa,Duloxetina,"[""Duloxetina""]",2,2,1.0,1,True
+ezetimibe acc,Ezetimibe acc,Ezetimibe,"[""Ezetimibe""]",1,1,1.0,1,True
+ezetimibe eg,Ezetimibe eg,Ezetimibe,"[""Ezetimibe""]",1,1,1.0,1,True
+ezetimibe sim my,Ezetimibe sim my,Ezetimibe/simvastatina,"[""Ezetimibe"", ""simvastatina""]",1,1,1.0,1,True
+ezetrol,Ezetrol,Ezetimibe,"[""Ezetimibe""]",10,10,1.0,1,True
+ezevast,Ezevast,Ezetimibe/atorvastatina,"[""Ezetimibe"", ""atorvastatina""]",7,7,1.0,1,True
+famotidina eg,Famotidina eg,Famotidina,"[""Famotidina""]",1,1,1.0,1,True
+febuxostat au,Febuxostat au,Febuxostat,"[""Febuxostat""]",3,3,1.0,1,True
+fenofibrato auro,Fenofibrato auro,Fenofibrato,"[""Fenofibrato""]",6,6,1.0,1,True
+ferinject,Ferinject,Carbossimaltosio ferrico,"[""Carbossimaltosio ferrico""]",1,1,1.0,1,True
+ferlixit,Ferlixit,Sodio ferrigluconato,"[""Sodio ferrigluconato""]",1,1,1.0,1,True
+ferrodue,Ferrodue,Nessun principio attivo,"[""Nessun principio attivo""]",5,5,1.0,1,True
+ferrograd,Ferrograd,Ferroso solfato,"[""Ferroso solfato""]",45,45,1.0,1,True
+fertifol,Fertifol,Acido folico,"[""Acido folico""]",1,1,1.0,1,True
+fiasp,Fiasp,Insulina aspart,"[""Insulina aspart""]",1,1,1.0,1,True
+finasteride auro,Finasteride auro,Finasteride,"[""Finasteride""]",2,2,1.0,1,True
+finasteride my,Finasteride my,Finasteride,"[""Finasteride""]",2,2,1.0,1,True
+firmagon,Firmagon,Degarelix,"[""Degarelix""]",1,1,1.0,1,True
+flecainide auro,Flecainide auro,Flecainide,"[""Flecainide""]",16,16,1.0,1,True
+fleiderina,Fleiderina,Flecainide,"[""Flecainide""]",10,10,1.0,1,True
+flexiban,Flexiban,Ciclobenzaprina,"[""Ciclobenzaprina""]",1,1,1.0,1,True
+flixotide,Flixotide,Fluticasone,"[""Fluticasone""]",1,1,1.0,1,True
+fluconazolo abc,Fluconazolo abc,Fluconazolo,"[""Fluconazolo""]",1,1,1.0,1,True
+fluimucil grat per sol os,Fluimucil grat. per sol. os,Acetilcisteina,"[""Acetilcisteina""]",11,11,1.0,1,True
+fluoxetina eg,Fluoxetina eg,Fluoxetina,"[""Fluoxetina""]",1,1,1.0,1,True
+fluspiral,Fluspiral,Fluticasone,"[""Fluticasone""]",2,2,1.0,1,True
+flutiformo,Flutiformo,Fluticasone/formoterolo,"[""Fluticasone"", ""formoterolo""]",3,3,1.0,1,True
+folicom,Folicom,Acido folico,"[""Acido folico""]",4,4,1.0,1,True
+folidex,Folidex,Acido folico,"[""Acido folico""]",3,3,1.0,1,True
+folina,Folina,Acido folico,"[""Acido folico""]",85,85,1.0,1,True
+fortidose coll rp,Fortidose coll. rp,Carteololo,"[""Carteololo""]",1,1,1.0,1,True
+forxiga,Forxiga,Dapagliflozin,"[""Dapagliflozin""]",144,144,1.0,1,True
+foster,Foster,Beclometasone/formoterolo,"[""Beclometasone"", ""formoterolo""]",9,9,1.0,1,True
+frequil,Frequil,Flecainide,"[""Flecainide""]",6,6,1.0,1,True
+fripass,Fripass,Cilostazolo,"[""Cilostazolo""]",1,1,1.0,1,True
+frobemucil,Frobemucil,Acetilcisteina,"[""Acetilcisteina""]",1,1,1.0,1,True
+fucidin,Fucidin,Acido fusidico,"[""Acido fusidico""]",1,1,1.0,1,True
+fulcro,Fulcro,Fenofibrato,"[""Fenofibrato""]",1,1,1.0,1,True
+fulcrosupra,Fulcrosupra,Fenofibrato,"[""Fenofibrato""]",7,7,1.0,1,True
+furosemide,Furosemide,Furosemide,"[""Furosemide""]",5,5,1.0,1,True
+furosemide aur,Furosemide aur,Furosemide,"[""Furosemide""]",3,3,1.0,1,True
+furosemide galen,Furosemide galen,Furosemide,"[""Furosemide""]",4,4,1.0,1,True
+furosemide hexal,Furosemide hexal,Furosemide,"[""Furosemide""]",6,6,1.0,1,True
+furosemide l f m,Furosemide l.f.m.,Furosemide,"[""Furosemide""]",63,63,1.0,1,True
+furosemide my,Furosemide my,Furosemide,"[""Furosemide""]",22,22,1.0,1,True
+gabapentin abc,Gabapentin abc,Gabapentin,"[""Gabapentin""]",3,3,1.0,1,True
+gabapentin auro,Gabapentin auro,Gabapentin,"[""Gabapentin""]",2,2,1.0,1,True
+gabapentin my,Gabapentin my,Gabapentin,"[""Gabapentin""]",2,2,1.0,1,True
+gabapentin sand,Gabapentin sand,Gabapentin,"[""Gabapentin""]",5,5,1.0,1,True
+gadral,Gadral,Magaldrato,"[""Magaldrato""]",3,3,1.0,1,True
+gaduar,Gaduar,Olmesartan medoxomil/amlodipina/idroclorotiazide,"[""Olmesartan medoxomil"", ""amlodipina"", ""idroclorotiazide""]",1,1,1.0,1,True
+ganfort coll,Ganfort coll.,Timololo/bimatoprost,"[""Timololo"", ""bimatoprost""]",1,1,1.0,1,True
+gardenale 100mg 20cp cf 1pz,Gardenale 100mg 20cp cf/1pz,Fenobarbital,"[""Fenobarbital""]",1,1,1.0,1,True
+gastroloc,Gastroloc,Pantoprazolo,"[""Pantoprazolo""]",10,10,1.0,1,True
+gauti,Gauti,Febuxostat,"[""Febuxostat""]",1,1,1.0,1,True
+gemfibrozil doc,Gemfibrozil doc,Gemfibrozil,"[""Gemfibrozil""]",2,2,1.0,1,True
+giant,Giant,Olmesartan medoxomil/amlodipina,"[""Olmesartan medoxomil"", ""amlodipina""]",7,7,1.0,1,True
+giasion,Giasion,Cefditoren,"[""Cefditoren""]",2,2,1.0,1,True
+gliatilin,Gliatilin,Colina alfoscerato,"[""Colina alfoscerato""]",1,1,1.0,1,True
+glucophage,Glucophage,Metformina,"[""Metformina""]",19,19,1.0,1,True
+glucophage unid,Glucophage unid,Metformina,"[""Metformina""]",1,1,1.0,1,True
+glyxambi,Glyxambi,Empagliflozin/linagliptin,"[""Empagliflozin"", ""linagliptin""]",1,1,1.0,1,True
+goganza,Goganza,Macrogol 3350/sodio bicarbonato/sodio cloruro/potassio cloruro,"[""Macrogol 3350"", ""sodio bicarbonato"", ""sodio cloruro"", ""potassio cloruro""]",1,1,1.0,1,True
+goltor,Goltor,Ezetimibe/simvastatina,"[""Ezetimibe"", ""simvastatina""]",1,1,1.0,1,True
+halcion,Halcion,Triazolam,"[""Triazolam""]",4,4,1.0,1,True
+haldol,Haldol,Aloperidolo,"[""Aloperidolo""]",1,1,1.0,1,True
+herzatec,Herzatec,Ramipril,"[""Ramipril""]",1,1,1.0,1,True
+himavat,Himavat,Ezetimibe/atorvastatina,"[""Ezetimibe"", ""atorvastatina""]",3,3,1.0,1,True
+humalog,Humalog,Insulina lispro da dna ricombinante,"[""Insulina lispro da dna ricombinante""]",34,35,0.9714285714285714,1,False
+humalog,Humalog,Insulina lispro,"[""Insulina lispro""]",1,35,0.02857142857142857,2,False
+humulin r,Humulin r,Insulina umana da dna ricombinante,"[""Insulina umana da dna ricombinante""]",3,3,1.0,1,True
+hyalistil coll,Hyalistil coll.,Acido ialuronico,"[""Acido ialuronico""]",1,1,1.0,1,True
+hyrimoz,Hyrimoz,Adalimumab,"[""Adalimumab""]",1,1,1.0,1,True
+idilla,Idilla,Estradiolo/dienogest,"[""Estradiolo"", ""dienogest""]",2,2,1.0,1,True
+idracal,Idracal,Calcio carbonato,"[""Calcio carbonato""]",3,3,1.0,1,True
+idroclorotiazide au,Idroclorotiazide au,Idroclorotiazide,"[""Idroclorotiazide""]",1,1,1.0,1,True
+igroton,Igroton,Clortalidone,"[""Clortalidone""]",1,1,1.0,1,True
+imigran,Imigran,Sumatriptan,"[""Sumatriptan""]",1,1,1.0,1,True
+incruse ellipta,Incruse ellipta,Umeclidinio,"[""Umeclidinio""]",1,1,1.0,1,True
+inderal,Inderal,Propranololo,"[""Propranololo""]",2,2,1.0,1,True
+inegy,Inegy,Ezetimibe/simvastatina,"[""Ezetimibe"", ""simvastatina""]",5,5,1.0,1,True
+inhixa,Inhixa,Enoxaparina,"[""Enoxaparina""]",1,1,1.0,1,True
+inipant,Inipant,Pantoprazolo,"[""Pantoprazolo""]",1,1,1.0,1,True
+inspra,Inspra,Eplerenone,"[""Eplerenone""]",178,178,1.0,1,True
+insulina aspart sanofi,Insulina aspart sanofi,Insulina aspart,"[""Insulina aspart""]",1,1,1.0,1,True
+invokana,Invokana,Canagliflozin,"[""Canagliflozin""]",4,4,1.0,1,True
+iperten,Iperten,Manidipina,"[""Manidipina""]",1,1,1.0,1,True
+isoptin,Isoptin,Verapamil,"[""Verapamil""]",1,1,1.0,1,True
+ivabradina kr,Ivabradina kr,Ivabradina,"[""Ivabradina""]",7,7,1.0,1,True
+januvia,Januvia,Sitagliptin,"[""Sitagliptin""]",1,1,1.0,1,True
+jardiance,Jardiance,Empagliflozin,"[""Empagliflozin""]",72,72,1.0,1,True
+juluca,Juluca,Dolutegravir/rilpivirina,"[""Dolutegravir"", ""rilpivirina""]",1,1,1.0,1,True
+jumex,Jumex,Selegilina,"[""Selegilina""]",1,1,1.0,1,True
+kanrenol,Kanrenol,Potassio canrenoato,"[""Potassio canrenoato""]",6,6,1.0,1,True
+karvea,Karvea,Irbesartan,"[""Irbesartan""]",3,3,1.0,1,True
+karvezide,Karvezide,Irbesartan/idroclorotiazide,"[""Irbesartan"", ""idroclorotiazide""]",1,1,1.0,1,True
+kayexalate,Kayexalate,Sodio polistirensulfonato,"[""Sodio polistirensulfonato""]",1,1,1.0,1,True
+kcl retard,Kcl retard,Potassio cloruro,"[""Potassio cloruro""]",37,37,1.0,1,True
+keppra,Keppra,Levetiracetam,"[""Levetiracetam""]",4,4,1.0,1,True
+kerendia,Kerendia,Finerenone,"[""Finerenone""]",1,1,1.0,1,True
+kessar,Kessar,Tamoxifene,"[""Tamoxifene""]",1,1,1.0,1,True
+ketoconazole est,Ketoconazole est,Ketoconazolo,"[""Ketoconazolo""]",1,1,1.0,1,True
+keymet,Keymet,Metformina,"[""Metformina""]",1,1,1.0,1,True
+kineret,Kineret,Anakinra,"[""Anakinra""]",1,1,1.0,1,True
+kobey,Kobey,Ezetimibe,"[""Ezetimibe""]",1,1,1.0,1,True
+krupil,Krupil,Ramipril,"[""Ramipril""]",8,8,1.0,1,True
+krustat,Krustat,Simvastatina,"[""Simvastatina""]",1,1,1.0,1,True
+lacipil,Lacipil,Lacidipina,"[""Lacidipina""]",1,1,1.0,1,True
+lacirex,Lacirex,Lacidipina,"[""Lacidipina""]",3,3,1.0,1,True
+ladip,Ladip,Lacidipina,"[""Lacidipina""]",1,1,1.0,1,True
+laevolac eps scir,Laevolac eps scir.,Lattulosio,"[""Lattulosio""]",2,2,1.0,1,True
+lamictal,Lamictal,Lamotrigina,"[""Lamotrigina""]",1,1,1.0,1,True
+lanoxin,Lanoxin,Digossina,"[""Digossina""]",31,31,1.0,1,True
+lansoprazolo,Lansoprazolo,Lansoprazolo,"[""Lansoprazolo""]",1,1,1.0,1,True
+lansoprazolo abc,Lansoprazolo abc,Lansoprazolo,"[""Lansoprazolo""]",5,5,1.0,1,True
+lansoprazolo my,Lansoprazolo my,Lansoprazolo,"[""Lansoprazolo""]",13,13,1.0,1,True
+lansox,Lansox,Lansoprazolo,"[""Lansoprazolo""]",6,6,1.0,1,True
+lantus,Lantus,Insulina glargine,"[""Insulina glargine""]",17,17,1.0,1,True
+laroxyl,Laroxyl,Amitriptilina,"[""Amitriptilina""]",2,2,1.0,1,True
+lasitone,Lasitone,Furosemide/spironolattone,"[""Furosemide"", ""spironolattone""]",4,4,1.0,1,True
+lasix,Lasix,Furosemide,"[""Furosemide""]",251,251,1.0,1,True
+lasix scir,Lasix scir.,Furosemide,"[""Furosemide""]",3,3,1.0,1,True
+laventair ellipta,Laventair ellipta,Umeclidinio/vilanterolo,"[""Umeclidinio"", ""vilanterolo""]",6,6,1.0,1,True
+lendormin,Lendormin,Brotizolam,"[""Brotizolam""]",1,1,1.0,1,True
+lentokalium,Lentokalium,Potassio cloruro,"[""Potassio cloruro""]",35,35,1.0,1,True
+lercadip,Lercadip,Lercanidipina,"[""Lercanidipina""]",5,5,1.0,1,True
+lercanidipina acc,Lercanidipina acc,Lercanidipina,"[""Lercanidipina""]",1,1,1.0,1,True
+lercanidipina aur,Lercanidipina aur,Lercanidipina,"[""Lercanidipina""]",1,1,1.0,1,True
+lercaprel,Lercaprel,Enalapril/lercanidipina,"[""Enalapril"", ""lercanidipina""]",1,1,1.0,1,True
+lescol,Lescol,Fluvastatina,"[""Fluvastatina""]",1,1,1.0,1,True
+letrozolo sun,Letrozolo sun,Letrozolo,"[""Letrozolo""]",3,3,1.0,1,True
+levemir,Levemir,Insulina detemir,"[""Insulina detemir""]",2,2,1.0,1,True
+levetiracetam my,Levetiracetam my,Levetiracetam,"[""Levetiracetam""]",1,1,1.0,1,True
+levocetirizina au,Levocetirizina au,Levocetirizina,"[""Levocetirizina""]",1,1,1.0,1,True
+levopraid,Levopraid,Levosulpiride,"[""Levosulpiride""]",2,2,1.0,1,True
+levotiroxina te,Levotiroxina te,Levotiroxina,"[""Levotiroxina""]",1,1,1.0,1,True
+levotirsol,Levotirsol,Levotiroxina,"[""Levotiroxina""]",2,2,1.0,1,True
+lexotan,Lexotan,Bromazepam,"[""Bromazepam""]",3,3,1.0,1,True
+libradin,Libradin,Barnidipina,"[""Barnidipina""]",2,2,1.0,1,True
+limpidex,Limpidex,Lansoprazolo,"[""Lansoprazolo""]",1,1,1.0,1,True
+lipidover,Lipidover,Rosuvastatina,"[""Rosuvastatina""]",1,1,1.0,1,True
+lisinopril id doc,Lisinopril id doc,Lisinopril/idroclorotiazide,"[""Lisinopril"", ""idroclorotiazide""]",2,2,1.0,1,True
+livial,Livial,Tibolone,"[""Tibolone""]",1,1,1.0,1,True
+lixiana,Lixiana,Edoxaban,"[""Edoxaban""]",63,63,1.0,1,True
+lobidiur,Lobidiur,Nebivololo/idroclorotiazide,"[""Nebivololo"", ""idroclorotiazide""]",1,1,1.0,1,True
+lobivon,Lobivon,Nebivololo,"[""Nebivololo""]",21,21,1.0,1,True
+lokelma,Lokelma,Sodio zirconio ciclosilicato,"[""Sodio zirconio ciclosilicato""]",4,4,1.0,1,True
+lopresor,Lopresor,Metoprololo,"[""Metoprololo""]",8,8,1.0,1,True
+lopridam,Lopridam,Perindopril/indapamide/amlodipina,"[""Perindopril"", ""indapamide"", ""amlodipina""]",2,2,1.0,1,True
+lorazepam ari,Lorazepam ari,Lorazepam,"[""Lorazepam""]",1,1,1.0,1,True
+lortaan,Lortaan,Losartan,"[""Losartan""]",4,4,1.0,1,True
+lovastatina doc,Lovastatina doc,Lovastatina,"[""Lovastatina""]",1,1,1.0,1,True
+lucen,Lucen,Esomeprazolo,"[""Esomeprazolo""]",12,12,1.0,1,True
+lucen grat per,Lucen grat. per,Esomeprazolo,"[""Esomeprazolo""]",8,8,1.0,1,True
+lumigan coll,Lumigan coll.,Bimatoprost,"[""Bimatoprost""]",2,2,1.0,1,True
+luminale,Luminale,Fenobarbital,"[""Fenobarbital""]",2,2,1.0,1,True
+luvion,Luvion,Canrenone,"[""Canrenone""]",41,41,1.0,1,True
+lyrica,Lyrica,Pregabalin,"[""Pregabalin""]",15,15,1.0,1,True
+maalox,Maalox,Alluminio idrossido/magnesio idrossido,"[""Alluminio idrossido"", ""magnesio idrossido""]",1,1,1.0,1,True
+macrogol sand,Macrogol sand,Macrogol 3350/sodio bicarbonato/sodio cloruro/potassio cloruro,"[""Macrogol 3350"", ""sodio bicarbonato"", ""sodio cloruro"", ""potassio cloruro""]",1,1,1.0,1,True
+macrolax,Macrolax,Docusato sodico/sorbitolo,"[""Docusato sodico"", ""sorbitolo""]",1,1,1.0,1,True
+madopar,Madopar,Levodopa/benserazide,"[""Levodopa"", ""benserazide""]",2,2,1.0,1,True
+magaldrato my,Magaldrato my,Magaldrato,"[""Magaldrato""]",2,2,1.0,1,True
+magnesio solfato,Magnesio solfato,Magnesio solfato,"[""Magnesio solfato""]",1,1,1.0,1,True
+manidipina auro,Manidipina auro,Manidipina,"[""Manidipina""]",1,1,1.0,1,True
+mantadan,Mantadan,Amantadina,"[""Amantadina""]",2,2,1.0,1,True
+maoris,Maoris,Rosuvastatina/ezetimibe,"[""Rosuvastatina"", ""ezetimibe""]",7,7,1.0,1,True
+medrol,Medrol,Metilprednisolone,"[""Metilprednisolone""]",53,53,1.0,1,True
+meliglix,Meliglix,Sitagliptin,"[""Sitagliptin""]",2,2,1.0,1,True
+memantina my,Memantina my,Memantina,"[""Memantina""]",1,1,1.0,1,True
+meritene forza vitalita cioc,Meritene forza/vitalita' cioc,Nessun principio attivo,"[""Nessun principio attivo""]",1,1,1.0,1,True
+metadone clor mol,Metadone clor mol,Metadone,"[""Metadone""]",1,1,1.0,1,True
+metforal,Metforal,Metformina,"[""Metformina""]",4,4,1.0,1,True
+metformina alm,Metformina alm,Metformina,"[""Metformina""]",1,1,1.0,1,True
+metformina alt,Metformina alt,Metformina,"[""Metformina""]",1,1,1.0,1,True
+metformina aur,Metformina aur,Metformina,"[""Metformina""]",8,8,1.0,1,True
+metformina doc,Metformina doc,Metformina,"[""Metformina""]",1,1,1.0,1,True
+metformina eg,Metformina eg,Metformina,"[""Metformina""]",1,1,1.0,1,True
+methotrexate,Methotrexate,Metotrexato,"[""Metotrexato""]",3,3,1.0,1,True
+metoprololo au,Metoprololo au,Metoprololo,"[""Metoprololo""]",9,9,1.0,1,True
+metoprololo doc,Metoprololo doc,Metoprololo,"[""Metoprololo""]",1,1,1.0,1,True
+metoprololo hex,Metoprololo hex,Metoprololo,"[""Metoprololo""]",19,19,1.0,1,True
+mexiletina cloridrato,Mexiletina cloridrato,Mexiletina,"[""Mexiletina""]",1,1,1.0,1,True
+mexiletina cloridrato 200mg 50cps,Mexiletina cloridrato 200mg 50cps,Mexiletina,"[""Mexiletina""]",2,2,1.0,1,True
+micardis,Micardis,Telmisartan,"[""Telmisartan""]",5,5,1.0,1,True
+micardisplus,Micardisplus,Telmisartan/idroclorotiazide,"[""Telmisartan"", ""idroclorotiazide""]",3,3,1.0,1,True
+micofenolato m til,Micofenolato m til,Micofenolato mofetile,"[""Micofenolato mofetile""]",1,1,1.0,1,True
+midazolam ham,Midazolam ham,Midazolam,"[""Midazolam""]",1,1,1.0,1,True
+minias,Minias,Lormetazepam,"[""Lormetazepam""]",2,2,1.0,1,True
+minirin ddavp,Minirin/ddavp,Desmopressina,"[""Desmopressina""]",1,1,1.0,1,True
+minitran,Minitran,Nitroglicerina,"[""Nitroglicerina""]",1,1,1.0,1,True
+mirapexin,Mirapexin,Pramipexolo,"[""Pramipexolo""]",5,5,1.0,1,True
+mirebax,Mirebax,Rivaroxaban,"[""Rivaroxaban""]",41,41,1.0,1,True
+mirtazapina auro,Mirtazapina auro,Mirtazapina,"[""Mirtazapina""]",4,4,1.0,1,True
+mirtazapina eg,Mirtazapina eg,Mirtazapina,"[""Mirtazapina""]",1,1,1.0,1,True
+moduretic,Moduretic,Amiloride/idroclorotiazide,"[""Amiloride"", ""idroclorotiazide""]",3,3,1.0,1,True
+momecort,Momecort,Mometasone,"[""Mometasone""]",1,1,1.0,1,True
+momentkid,Momentkid,Ibuprofene,"[""Ibuprofene""]",1,1,1.0,1,True
+monoket,Monoket,Isosorbide mononitrato,"[""Isosorbide mononitrato""]",3,3,1.0,1,True
+monoprost coll,Monoprost coll.,Latanoprost,"[""Latanoprost""]",1,1,1.0,1,True
+montegen,Montegen,Montelukast,"[""Montelukast""]",1,1,1.0,1,True
+montelukast san,Montelukast san,Montelukast,"[""Montelukast""]",3,3,1.0,1,True
+monuril grat per sol os,Monuril grat. per sol. os,Fosfomicina,"[""Fosfomicina""]",1,1,1.0,1,True
+motilium,Motilium,Domperidone,"[""Domperidone""]",1,1,1.0,1,True
+mounjaro,Mounjaro,Tirzepatide,"[""Tirzepatide""]",2,2,1.0,1,True
+movicol,Movicol,Macrogol 3350/sodio bicarbonato/sodio cloruro/potassio cloruro,"[""Macrogol 3350"", ""sodio bicarbonato"", ""sodio cloruro"", ""potassio cloruro""]",7,7,1.0,1,True
+ms contin,Ms contin,Morfina,"[""Morfina""]",2,2,1.0,1,True
+mutabon ansiolitico,Mutabon ansiolitico,Perfenazina/amitriptilina,"[""Perfenazina"", ""amitriptilina""]",1,1,1.0,1,True
+mutabon mite,Mutabon mite,Perfenazina/amitriptilina,"[""Perfenazina"", ""amitriptilina""]",2,2,1.0,1,True
+mycostatin,Mycostatin,Nistatina,"[""Nistatina""]",2,2,1.0,1,True
+nadololo,Nadololo,Nadololo,"[""Nadololo""]",1,1,1.0,1,True
+nadololo chepla,Nadololo chepla,Nadololo,"[""Nadololo""]",7,7,1.0,1,True
+naprilene,Naprilene,Enalapril,"[""Enalapril""]",2,2,1.0,1,True
+natecal d3,Natecal d3,Calcio carbonato/colecalciferolo,"[""Calcio carbonato"", ""colecalciferolo""]",3,3,1.0,1,True
+natrilix,Natrilix,Indapamide,"[""Indapamide""]",1,1,1.0,1,True
+nebilox,Nebilox,Nebivololo,"[""Nebivololo""]",1,1,1.0,1,True
+nebivololo sandoz,Nebivololo sandoz,Nebivololo,"[""Nebivololo""]",4,4,1.0,1,True
+nebivololo zentiva,Nebivololo zentiva,Nebivololo,"[""Nebivololo""]",4,4,1.0,1,True
+nerixia,Nerixia,Acido neridronico,"[""Acido neridronico""]",1,1,1.0,1,True
+neuraben,Neuraben,Benmetiamina/piridossina/cianocobalamina,"[""Benmetiamina"", ""piridossina"", ""cianocobalamina""]",1,1,1.0,1,True
+nevanac coll,Nevanac coll.,Nepafenac,"[""Nepafenac""]",1,1,1.0,1,True
+nexium,Nexium,Esomeprazolo,"[""Esomeprazolo""]",3,3,1.0,1,True
+nexium grat per,Nexium grat. per,Esomeprazolo,"[""Esomeprazolo""]",3,3,1.0,1,True
+nifedipina my,Nifedipina my,Nifedipina,"[""Nifedipina""]",2,2,1.0,1,True
+niglina,Niglina,Nitroglicerina,"[""Nitroglicerina""]",4,4,1.0,1,True
+nilemdo,Nilemdo,Acido bempedoico,"[""Acido bempedoico""]",5,5,1.0,1,True
+nimodipina doc,Nimodipina doc,Nimodipina,"[""Nimodipina""]",1,1,1.0,1,True
+nitroderm tts,Nitroderm tts,Nitroglicerina,"[""Nitroglicerina""]",11,11,1.0,1,True
+nitroglicerina sand,Nitroglicerina sand,Nitroglicerina,"[""Nitroglicerina""]",1,1,1.0,1,True
+noan,Noan,Diazepam,"[""Diazepam""]",1,1,1.0,1,True
+nobistar,Nobistar,Nebivololo,"[""Nebivololo""]",1,1,1.0,1,True
+nodigap,Nodigap,Colecalciferolo,"[""Colecalciferolo""]",2,2,1.0,1,True
+normix,Normix,Rifaximina,"[""Rifaximina""]",1,1,1.0,1,True
+norvasc,Norvasc,Amlodipina,"[""Amlodipina""]",115,115,1.0,1,True
+novorapid,Novorapid,Insulina aspart,"[""Insulina aspart""]",2,2,1.0,1,True
+nucala,Nucala,Mepolizumab,"[""Mepolizumab""]",1,1,1.0,1,True
+nustendi,Nustendi,Acido bempedoico/ezetimibe,"[""Acido bempedoico"", ""ezetimibe""]",18,18,1.0,1,True
+ofev,Ofev,Nintedanib,"[""Nintedanib""]",2,2,1.0,1,True
+olanzapina aur,Olanzapina aur,Olanzapina,"[""Olanzapina""]",1,1,1.0,1,True
+olanzapina che,Olanzapina che,Olanzapina,"[""Olanzapina""]",1,1,1.0,1,True
+olmesartan am doc,Olmesartan am doc,Olmesartan medoxomil/amlodipina,"[""Olmesartan medoxomil"", ""amlodipina""]",1,1,1.0,1,True
+olmesartan medox al,Olmesartan medox al,Olmesartan medoxomil,"[""Olmesartan medoxomil""]",1,1,1.0,1,True
+olmesartan my,Olmesartan my,Olmesartan medoxomil,"[""Olmesartan medoxomil""]",1,1,1.0,1,True
+olmetrivart,Olmetrivart,Olmesartan medoxomil/amlodipina/idroclorotiazide,"[""Olmesartan medoxomil"", ""amlodipina"", ""idroclorotiazide""]",3,3,1.0,1,True
+olpress,Olpress,Olmesartan medoxomil,"[""Olmesartan medoxomil""]",8,8,1.0,1,True
+olprezide,Olprezide,Olmesartan medoxomil/idroclorotiazide,"[""Olmesartan medoxomil"", ""idroclorotiazide""]",1,1,1.0,1,True
+omeprazen,Omeprazen,Omeprazolo,"[""Omeprazolo""]",1,1,1.0,1,True
+omeprazolo,Omeprazolo,Omeprazolo,"[""Omeprazolo""]",1,1,1.0,1,True
+omeprazolo my,Omeprazolo my,Omeprazolo,"[""Omeprazolo""]",34,34,1.0,1,True
+omeprazolo pe,Omeprazolo pe,Omeprazolo,"[""Omeprazolo""]",1,1,1.0,1,True
+omnic,Omnic,Tamsulosina,"[""Tamsulosina""]",15,15,1.0,1,True
+onbrez breezhaler,Onbrez breezhaler,Indacaterolo,"[""Indacaterolo""]",1,1,1.0,1,True
+onco carbide,Onco carbide,Idroxicarbamide,"[""Idroxicarbamide""]",1,1,1.0,1,True
+opsumit,Opsumit,Macitentan,"[""Macitentan""]",16,16,1.0,1,True
+oramorph,Oramorph,Morfina,"[""Morfina""]",1,1,1.0,1,True
+oramorph scir,Oramorph scir.,Morfina,"[""Morfina""]",1,1,1.0,1,True
+orotre,Orotre,Calcio carbonato/colecalciferolo,"[""Calcio carbonato"", ""colecalciferolo""]",1,1,1.0,1,True
+ozempic,Ozempic,Semaglutide,"[""Semaglutide""]",11,11,1.0,1,True
+palexia,Palexia,Tapentadolo,"[""Tapentadolo""]",8,8,1.0,1,True
+pancleus,Pancleus,Pantoprazolo,"[""Pantoprazolo""]",1,1,1.0,1,True
+pantopan,Pantopan,Pantoprazolo,"[""Pantoprazolo""]",1,1,1.0,1,True
+pantoprazolo,Pantoprazolo,Pantoprazolo,"[""Pantoprazolo""]",3,3,1.0,1,True
+pantoprazolo aur,Pantoprazolo aur,Pantoprazolo,"[""Pantoprazolo""]",112,112,1.0,1,True
+pantoprazolo sand,Pantoprazolo sand,Pantoprazolo,"[""Pantoprazolo""]",161,161,1.0,1,True
+pantoprazolo sandoz,Pantoprazolo sandoz,Pantoprazolo,"[""Pantoprazolo""]",1,1,1.0,1,True
+pantoprazolo til,Pantoprazolo til,Pantoprazolo,"[""Pantoprazolo""]",2,2,1.0,1,True
+pantorc,Pantorc,Pantoprazolo,"[""Pantoprazolo""]",114,114,1.0,1,True
+paracetamolo,Paracetamolo,Paracetamolo,"[""Paracetamolo""]",1,1,1.0,1,True
+paracetamolo codeina my,Paracetamolo codeina my,Paracetamolo/codeina,"[""Paracetamolo"", ""codeina""]",1,1,1.0,1,True
+paracetamolo gs,Paracetamolo gs,Paracetamolo,"[""Paracetamolo""]",1,1,1.0,1,True
+paracetamolo kab,Paracetamolo kab,Paracetamolo,"[""Paracetamolo""]",1,1,1.0,1,True
+paracodina,Paracodina,Diidrocodeina,"[""Diidrocodeina""]",4,4,1.0,1,True
+pariet,Pariet,Rabeprazolo,"[""Rabeprazolo""]",2,2,1.0,1,True
+paroxetina,Paroxetina,Paroxetina,"[""Paroxetina""]",1,1,1.0,1,True
+paroxetina aur,Paroxetina aur,Paroxetina,"[""Paroxetina""]",11,11,1.0,1,True
+parvati,Parvati,Ramipril/amlodipina,"[""Ramipril"", ""amlodipina""]",9,9,1.0,1,True
+paxabel,Paxabel,Macrogol 4000,"[""Macrogol 4000""]",1,1,1.0,1,True
+penstapho,Penstapho,Oxacillina,"[""Oxacillina""]",1,1,1.0,1,True
+pentacol 800,Pentacol 800,Mesalazina,"[""Mesalazina""]",1,1,1.0,1,True
+peptazol,Peptazol,Pantoprazolo,"[""Pantoprazolo""]",5,5,1.0,1,True
+perindopril doc,Perindopril doc,Perindopril,"[""Perindopril""]",3,3,1.0,1,True
+perindopril in my,Perindopril in my,Perindopril/indapamide,"[""Perindopril"", ""indapamide""]",1,1,1.0,1,True
+pioglitazone auro,Pioglitazone auro,Pioglitazone,"[""Pioglitazone""]",1,1,1.0,1,True
+plasil,Plasil,Metoclopramide,"[""Metoclopramide""]",1,1,1.0,1,True
+plaunac,Plaunac,Olmesartan medoxomil,"[""Olmesartan medoxomil""]",18,18,1.0,1,True
+plaunazide,Plaunazide,Olmesartan medoxomil/idroclorotiazide,"[""Olmesartan medoxomil"", ""idroclorotiazide""]",4,4,1.0,1,True
+plavix,Plavix,Clopidogrel,"[""Clopidogrel""]",74,74,1.0,1,True
+pradaxa,Pradaxa,Dabigatran,"[""Dabigatran""]",11,11,1.0,1,True
+pradaxa grat,Pradaxa grat.,Dabigatran,"[""Dabigatran""]",3,3,1.0,1,True
+praluent,Praluent,Alirocumab,"[""Alirocumab""]",6,6,1.0,1,True
+pramipexolo my,Pramipexolo my,Pramipexolo,"[""Pramipexolo""]",1,1,1.0,1,True
+prasugrel teva,Prasugrel teva,Prasugrel,"[""Prasugrel""]",6,6,1.0,1,True
+prasugrel via,Prasugrel via,Prasugrel,"[""Prasugrel""]",2,2,1.0,1,True
+prednisone eg,Prednisone eg,Prednisone,"[""Prednisone""]",1,1,1.0,1,True
+pregabalin eg,Pregabalin eg,Pregabalin,"[""Pregabalin""]",3,3,1.0,1,True
+pregabalin sandoz,Pregabalin sandoz,Pregabalin,"[""Pregabalin""]",12,12,1.0,1,True
+preterax,Preterax,Perindopril/indapamide,"[""Perindopril"", ""indapamide""]",2,2,1.0,1,True
+prinzide,Prinzide,Lisinopril/idroclorotiazide,"[""Lisinopril"", ""idroclorotiazide""]",1,1,1.0,1,True
+prisma,Prisma,Mesoglicano,"[""Mesoglicano""]",1,1,1.0,1,True
+pritor,Pritor,Telmisartan,"[""Telmisartan""]",1,1,1.0,1,True
+procoralan,Procoralan,Ivabradina,"[""Ivabradina""]",2,2,1.0,1,True
+profuzo,Profuzo,Alfuzosina,"[""Alfuzosina""]",1,1,1.0,1,True
+propofol kabi emul per infusione,Propofol kabi emul. per infusione,Propofol,"[""Propofol""]",1,1,1.0,1,True
+prozac,Prozac,Fluoxetina,"[""Fluoxetina""]",1,1,1.0,1,True
+quark,Quark,Ramipril,"[""Ramipril""]",2,2,1.0,1,True
+questran,Questran,Colestiramina,"[""Colestiramina""]",2,2,1.0,1,True
+quetiapina ahcl,Quetiapina ahcl,Quetiapina,"[""Quetiapina""]",1,1,1.0,1,True
+quetiapina eg,Quetiapina eg,Quetiapina,"[""Quetiapina""]",2,2,1.0,1,True
+quetiapina san,Quetiapina san,Quetiapina,"[""Quetiapina""]",1,1,1.0,1,True
+quiloga,Quiloga,Rosuvastatina/ezetimibe,"[""Rosuvastatina"", ""ezetimibe""]",13,13,1.0,1,True
+rabeprazolo alt,Rabeprazolo alt,Rabeprazolo,"[""Rabeprazolo""]",1,1,1.0,1,True
+ramilolo,Ramilolo,Ramipril/bisoprololo,"[""Ramipril"", ""bisoprololo""]",1,1,1.0,1,True
+ramipril abc,Ramipril abc,Ramipril,"[""Ramipril""]",6,6,1.0,1,True
+ramipril alm,Ramipril alm,Ramipril,"[""Ramipril""]",3,3,1.0,1,True
+ramipril alt,Ramipril alt,Ramipril,"[""Ramipril""]",4,4,1.0,1,True
+ramipril aml ze,Ramipril aml ze,Ramipril/amlodipina,"[""Ramipril"", ""amlodipina""]",1,1,1.0,1,True
+ramipril auro,Ramipril auro,Ramipril,"[""Ramipril""]",1,1,1.0,1,True
+ramipril eg,Ramipril eg,Ramipril,"[""Ramipril""]",1,1,1.0,1,True
+ramipril id zen,Ramipril id zen,Ramipril/idroclorotiazide,"[""Ramipril"", ""idroclorotiazide""]",2,2,1.0,1,True
+ramipril krka,Ramipril krka,Ramipril,"[""Ramipril""]",1,1,1.0,1,True
+ramipril rat,Ramipril rat,Ramipril,"[""Ramipril""]",1,1,1.0,1,True
+ramipril zen,Ramipril zen,Ramipril,"[""Ramipril""]",63,63,1.0,1,True
+ranexa,Ranexa,Ranolazina,"[""Ranolazina""]",18,18,1.0,1,True
+ranolazina kr,Ranolazina kr,Ranolazina,"[""Ranolazina""]",5,5,1.0,1,True
+ranozek,Ranozek,Ranolazina,"[""Ranolazina""]",3,3,1.0,1,True
+reaptan,Reaptan,Perindopril/amlodipina,"[""Perindopril"", ""amlodipina""]",4,4,1.0,1,True
+refluxsan nipio,Refluxsan nipio,Nessun principio attivo,"[""Nessun principio attivo""]",1,1,1.0,1,True
+relvar ell,Relvar ell,Fluticasone/vilanterolo,"[""Fluticasone"", ""vilanterolo""]",6,6,1.0,1,True
+renvela,Renvela,Sevelamer,"[""Sevelamer""]",2,2,1.0,1,True
+repatha,Repatha,Evolocumab,"[""Evolocumab""]",6,6,1.0,1,True
+requip,Requip,Ropinirolo,"[""Ropinirolo""]",1,1,1.0,1,True
+retacrit,Retacrit,Epoetina zeta,"[""Epoetina zeta""]",2,2,1.0,1,True
+reumaflex,Reumaflex,Metotrexato,"[""Metotrexato""]",2,2,1.0,1,True
+revatio,Revatio,Sildenafil,"[""Sildenafil""]",6,6,1.0,1,True
+revinty ell,Revinty ell,Fluticasone/vilanterolo,"[""Fluticasone"", ""vilanterolo""]",9,9,1.0,1,True
+rifadin,Rifadin,Rifampicina,"[""Rifampicina""]",2,2,1.0,1,True
+rinoclenil,Rinoclenil,Beclometasone,"[""Beclometasone""]",1,1,1.0,1,True
+riopan,Riopan,Magaldrato,"[""Magaldrato""]",5,5,1.0,1,True
+risperdal,Risperdal,Risperidone,"[""Risperidone""]",1,1,1.0,1,True
+ritmodan retard,Ritmodan retard,Disopiramide,"[""Disopiramide""]",1,1,1.0,1,True
+rivaroxaban doc,Rivaroxaban doc,Rivaroxaban,"[""Rivaroxaban""]",22,22,1.0,1,True
+rivaroxaban eg,Rivaroxaban eg,Rivaroxaban,"[""Rivaroxaban""]",5,5,1.0,1,True
+rivastigmina zent,Rivastigmina zent,Rivastigmina,"[""Rivastigmina""]",1,1,1.0,1,True
+rivotril,Rivotril,Clonazepam,"[""Clonazepam""]",3,3,1.0,1,True
+rizmoic,Rizmoic,Naldemedina,"[""Naldemedina""]",2,2,1.0,1,True
+robilas,Robilas,Bilastina,"[""Bilastina""]",1,1,1.0,1,True
+rocaltrol,Rocaltrol,Calcitriolo,"[""Calcitriolo""]",2,2,1.0,1,True
+roldap,Roldap,Rasagilina,"[""Rasagilina""]",1,1,1.0,1,True
+rolufta ellipta,Rolufta ellipta,Umeclidinio,"[""Umeclidinio""]",3,3,1.0,1,True
+rosuasa,Rosuasa,Rosuvastatina/acido acetilsalicilico,"[""Rosuvastatina"", ""acido acetilsalicilico""]",2,2,1.0,1,True
+rosumibe,Rosumibe,Rosuvastatina/ezetimibe,"[""Rosuvastatina"", ""ezetimibe""]",98,98,1.0,1,True
+rosuvastatina,Rosuvastatina,Rosuvastatina,"[""Rosuvastatina""]",3,3,1.0,1,True
+rosuvastatina abc,Rosuvastatina abc,Rosuvastatina,"[""Rosuvastatina""]",2,2,1.0,1,True
+rosuvastatina acc,Rosuvastatina acc,Rosuvastatina,"[""Rosuvastatina""]",1,1,1.0,1,True
+rosuvastatina ari,Rosuvastatina ari,Rosuvastatina,"[""Rosuvastatina""]",2,2,1.0,1,True
+rosuvastatina au,Rosuvastatina au,Rosuvastatina,"[""Rosuvastatina""]",2,2,1.0,1,True
+rosuvastatina eg,Rosuvastatina eg,Rosuvastatina,"[""Rosuvastatina""]",5,5,1.0,1,True
+rosuvastatina ez do,Rosuvastatina ez do,Rosuvastatina/ezetimibe,"[""Rosuvastatina"", ""ezetimibe""]",1,1,1.0,1,True
+rosuvastatina my,Rosuvastatina my,Rosuvastatina,"[""Rosuvastatina""]",7,7,1.0,1,True
+rosuvastatina sa,Rosuvastatina sa,Rosuvastatina,"[""Rosuvastatina""]",2,2,1.0,1,True
+rosuvastatina zen,Rosuvastatina zen,Rosuvastatina,"[""Rosuvastatina""]",25,25,1.0,1,True
+ryaltris,Ryaltris,Mometasone furoato/olopatadina,"[""Mometasone furoato"", ""olopatadina""]",1,1,1.0,1,True
+rybelsus,Rybelsus,Semaglutide,"[""Semaglutide""]",10,10,1.0,1,True
+rytmobeta,Rytmobeta,Sotalolo,"[""Sotalolo""]",1,1,1.0,1,True
+rytmonorm,Rytmonorm,Propafenone,"[""Propafenone""]",5,5,1.0,1,True
+safluround coll,Safluround coll.,Tafluprost,"[""Tafluprost""]",1,1,1.0,1,True
+saizen,Saizen,Somatropina,"[""Somatropina""]",1,1,1.0,1,True
+samyr,Samyr,Ademetionina,"[""Ademetionina""]",1,1,1.0,1,True
+sandimmun neoral,Sandimmun neoral,Ciclosporina,"[""Ciclosporina""]",1,1,1.0,1,True
+scemblix,Scemblix,Asciminib,"[""Asciminib""]",1,1,1.0,1,True
+seebri breezhaler,Seebri breezhaler,Glicopirronio,"[""Glicopirronio""]",4,4,1.0,1,True
+seloken,Seloken,Metoprololo,"[""Metoprololo""]",50,50,1.0,1,True
+septrapat,Septrapat,Buprenorfina,"[""Buprenorfina""]",1,1,1.0,1,True
+sequacor,Sequacor,Bisoprololo,"[""Bisoprololo""]",9,9,1.0,1,True
+seretide,Seretide,Salmeterolo/fluticasone,"[""Salmeterolo"", ""fluticasone""]",1,1,1.0,1,True
+sereupin,Sereupin,Paroxetina,"[""Paroxetina""]",5,5,1.0,1,True
+seroquel,Seroquel,Quetiapina,"[""Quetiapina""]",1,1,1.0,1,True
+sertralina acc,Sertralina acc,Sertralina,"[""Sertralina""]",2,2,1.0,1,True
+sertralina ari,Sertralina ari,Sertralina,"[""Sertralina""]",1,1,1.0,1,True
+sideral al,Sideral al,Nessun principio attivo,"[""Nessun principio attivo""]",1,1,1.0,1,True
+sideral oro,Sideral oro,Nessun principio attivo,"[""Nessun principio attivo""]",2,3,0.6666666666666666,1,False
+sideral oro,Sideral oro,Ferro,"[""Ferro""]",1,3,0.3333333333333333,2,False
+sildenafil aur,Sildenafil aur,Sildenafil,"[""Sildenafil""]",3,3,1.0,1,True
+silodosina ari,Silodosina ari,Silodosina,"[""Silodosina""]",7,7,1.0,1,True
+silodosina aur,Silodosina aur,Silodosina,"[""Silodosina""]",1,1,1.0,1,True
+silodosina teva,Silodosina teva,Silodosina,"[""Silodosina""]",12,12,1.0,1,True
+silodyx,Silodyx,Silodosina,"[""Silodosina""]",1,1,1.0,1,True
+simestat,Simestat,Rosuvastatina,"[""Rosuvastatina""]",1,1,1.0,1,True
+simeticone ibi,Simeticone ibi,Dimeticone,"[""Dimeticone""]",1,1,1.0,1,True
+simvastatina auro,Simvastatina auro,Simvastatina,"[""Simvastatina""]",2,2,1.0,1,True
+simvastatina doc,Simvastatina doc,Simvastatina,"[""Simvastatina""]",1,1,1.0,1,True
+sinemet,Sinemet,Levodopa/carbidopa,"[""Levodopa"", ""carbidopa""]",5,5,1.0,1,True
+singulair,Singulair,Montelukast,"[""Montelukast""]",1,1,1.0,1,True
+sintrom,Sintrom,Acenocumarolo,"[""Acenocumarolo""]",2,2,1.0,1,True
+sinvacor,Sinvacor,Simvastatina,"[""Simvastatina""]",12,12,1.0,1,True
+sitagliptin hcs,Sitagliptin hcs,Sitagliptin,"[""Sitagliptin""]",1,1,1.0,1,True
+sitagliptin met san,Sitagliptin met san,Sitagliptin/metformina,"[""Sitagliptin"", ""metformina""]",1,1,1.0,1,True
+slinda,Slinda,Drospirenone,"[""Drospirenone""]",2,2,1.0,1,True
+slowmet,Slowmet,Metformina,"[""Metformina""]",34,34,1.0,1,True
+sodio bicarb,Sodio bicarb,Sodio bicarbonato,"[""Sodio bicarbonato""]",3,3,1.0,1,True
+songar,Songar,Triazolam,"[""Triazolam""]",4,4,1.0,1,True
+sotalex,Sotalex,Sotalolo,"[""Sotalolo""]",1,1,1.0,1,True
+sotalolo hex,Sotalolo hex,Sotalolo,"[""Sotalolo""]",1,1,1.0,1,True
+spiolto respi,Spiolto respi,Tiotropio/olodaterolo,"[""Tiotropio"", ""olodaterolo""]",1,1,1.0,1,True
+spiriva respi,Spiriva respi,Tiotropio,"[""Tiotropio""]",3,3,1.0,1,True
+spirolang,Spirolang,Spironolattone,"[""Spironolattone""]",8,8,1.0,1,True
+steglatro,Steglatro,Ertugliflozin,"[""Ertugliflozin""]",2,2,1.0,1,True
+steglujan,Steglujan,Sitagliptin/ertugliflozin,"[""Sitagliptin"", ""ertugliflozin""]",1,1,1.0,1,True
+stilnox,Stilnox,Zolpidem,"[""Zolpidem""]",2,2,1.0,1,True
+symbicort,Symbicort,Budesonide/formoterolo,"[""Budesonide"", ""formoterolo""]",1,1,1.0,1,True
+synjardy,Synjardy,Empagliflozin/metformina,"[""Empagliflozin"", ""metformina""]",2,2,1.0,1,True
+tachidol,Tachidol,Paracetamolo/codeina,"[""Paracetamolo"", ""codeina""]",4,4,1.0,1,True
+tachipirina,Tachipirina,Paracetamolo,"[""Paracetamolo""]",6,6,1.0,1,True
+tachipirina orosol grat,Tachipirina orosol grat.,Paracetamolo,"[""Paracetamolo""]",3,3,1.0,1,True
+tadalafil acc,Tadalafil acc,Tadalafil,"[""Tadalafil""]",1,1,1.0,1,True
+tadalafil eg,Tadalafil eg,Tadalafil,"[""Tadalafil""]",1,1,1.0,1,True
+tadomon,Tadomon,Tapentadolo,"[""Tapentadolo""]",3,3,1.0,1,True
+tagrisso,Tagrisso,Osimertinib,"[""Osimertinib""]",1,1,1.0,1,True
+talmanco,Talmanco,Tadalafil,"[""Tadalafil""]",5,5,1.0,1,True
+talofen,Talofen,Promazina,"[""Promazina""]",1,1,1.0,1,True
+tamiflu,Tamiflu,Oseltamivir,"[""Oseltamivir""]",1,1,1.0,1,True
+tamsulosin sun,Tamsulosin sun,Tamsulosina,"[""Tamsulosina""]",22,22,1.0,1,True
+tamsulosina eg,Tamsulosina eg,Tamsulosina,"[""Tamsulosina""]",2,2,1.0,1,True
+tamsulosina zen,Tamsulosina zen,Tamsulosina,"[""Tamsulosina""]",10,10,1.0,1,True
+tardyfer,Tardyfer,Ferroso solfato,"[""Ferroso solfato""]",6,6,1.0,1,True
+tareg,Tareg,Valsartan,"[""Valsartan""]",99,99,1.0,1,True
+tavor,Tavor,Lorazepam,"[""Lorazepam""]",8,8,1.0,1,True
+tecnofer,Tecnofer,Ferroso glicina solfato,"[""Ferroso glicina solfato""]",1,1,1.0,1,True
+tenormin,Tenormin,Atenololo,"[""Atenololo""]",1,1,1.0,1,True
+teraprost,Teraprost,Terazosina,"[""Terazosina""]",4,4,1.0,1,True
+teraxans,Teraxans,Perindopril/indapamide,"[""Perindopril"", ""indapamide""]",1,1,1.0,1,True
+ticagrelor dr,Ticagrelor dr,Ticagrelor,"[""Ticagrelor""]",2,2,1.0,1,True
+ticagrelor mv,Ticagrelor mv,Ticagrelor,"[""Ticagrelor""]",1,1,1.0,1,True
+tiche,Tiche,Levotiroxina,"[""Levotiroxina""]",1,1,1.0,1,True
+tidocomb coll,Tidocomb coll.,Dorzolamide/timololo,"[""Dorzolamide"", ""timololo""]",1,1,1.0,1,True
+tiklid,Tiklid,Ticlopidina,"[""Ticlopidina""]",1,1,1.0,1,True
+timogel fel oft,Timogel fel oft.,Timololo,"[""Timololo""]",2,2,1.0,1,True
+tinset,Tinset,Oxatomide,"[""Oxatomide""]",3,3,1.0,1,True
+tirosint,Tirosint,Levotiroxina,"[""Levotiroxina""]",2,2,1.0,1,True
+tivicay,Tivicay,Dolutegravir,"[""Dolutegravir""]",1,1,1.0,1,True
+tixteller,Tixteller,Rifaximina,"[""Rifaximina""]",2,2,1.0,1,True
+tobradex coll,Tobradex coll.,Tobramicina/desametasone,"[""Tobramicina"", ""desametasone""]",1,1,1.0,1,True
+tobral coll,Tobral coll.,Tobramicina,"[""Tobramicina""]",1,1,1.0,1,True
+topamax,Topamax,Topiramato,"[""Topiramato""]",1,1,1.0,1,True
+topiramato eg,Topiramato eg,Topiramato,"[""Topiramato""]",1,1,1.0,1,True
+torasemide teva,Torasemide teva,Torasemide,"[""Torasemide""]",1,1,1.0,1,True
+torvacol,Torvacol,Atorvastatina,"[""Atorvastatina""]",1,1,1.0,1,True
+torvast,Torvast,Atorvastatina,"[""Atorvastatina""]",56,56,1.0,1,True
+totalip,Totalip,Atorvastatina,"[""Atorvastatina""]",6,6,1.0,1,True
+toujeo,Toujeo,Insulina glargine,"[""Insulina glargine""]",20,20,1.0,1,True
+tovanor breezhaler,Tovanor breezhaler,Glicopirronio,"[""Glicopirronio""]",1,1,1.0,1,True
+tovastibe,Tovastibe,Ezetimibe/atorvastatina,"[""Ezetimibe"", ""atorvastatina""]",38,40,0.95,1,False
+tovastibe,Tovastibe,Atorvastatina/Ezetimibe,"[""Atorvastatina"", ""Ezetimibe""]",1,40,0.025,2,False
+tovastibe,Tovastibe,Atorvastatina/ezetimibe,"[""Atorvastatina"", ""ezetimibe""]",1,40,0.025,3,False
+tracleer,Tracleer,Bosentan,"[""Bosentan""]",1,1,1.0,1,True
+trajenta,Trajenta,Linagliptin,"[""Linagliptin""]",2,2,1.0,1,True
+tranex,Tranex,Acido tranexamico,"[""Acido tranexamico""]",2,2,1.0,1,True
+tranquirit,Tranquirit,Diazepam,"[""Diazepam""]",4,4,1.0,1,True
+travatan coll,Travatan coll.,Travoprost,"[""Travoprost""]",2,2,1.0,1,True
+tredimin,Tredimin,Colecalciferolo,"[""Colecalciferolo""]",1,1,1.0,1,True
+trelegy ell,Trelegy ell,Vilanterolo/umeclidinio/fluticasone,"[""Vilanterolo"", ""umeclidinio"", ""fluticasone""]",3,3,1.0,1,True
+tresiba,Tresiba,Insulina degludec,"[""Insulina degludec""]",5,5,1.0,1,True
+tresuvi,Tresuvi,Treprostinil,"[""Treprostinil""]",1,1,1.0,1,True
+triamlo,Triamlo,Ramipril/amlodipina,"[""Ramipril"", ""amlodipina""]",1,1,1.0,1,True
+triatec,Triatec,Ramipril,"[""Ramipril""]",16,16,1.0,1,True
+triatec hct,Triatec hct,Ramipril/idroclorotiazide,"[""Ramipril"", ""idroclorotiazide""]",4,4,1.0,1,True
+trilafon,Trilafon,Perfenazina,"[""Perfenazina""]",2,2,1.0,1,True
+trimbow,Trimbow,Beclometasone/formoterolo/glicopirronio,"[""Beclometasone"", ""formoterolo"", ""glicopirronio""]",12,12,1.0,1,True
+tripliam,Tripliam,Perindopril/indapamide/amlodipina,"[""Perindopril"", ""indapamide"", ""amlodipina""]",8,8,1.0,1,True
+trittico,Trittico,Trazodone,"[""Trazodone""]",20,20,1.0,1,True
+triveram,Triveram,Atorvastatina/perindopril/amlodipina,"[""Atorvastatina"", ""perindopril"", ""amlodipina""]",1,1,1.0,1,True
+trixeo aerosphere,Trixeo aerosphere,Formoterolo/glicopirronio/budesonide,"[""Formoterolo"", ""glicopirronio"", ""budesonide""]",1,1,1.0,1,True
+trulicity,Trulicity,Dulaglutide,"[""Dulaglutide""]",10,10,1.0,1,True
+ultibro breezhaler,Ultibro breezhaler,Indacaterolo/glicopirronio,"[""Indacaterolo"", ""glicopirronio""]",1,1,1.0,1,True
+unipril,Unipril,Ramipril,"[""Ramipril""]",1,1,1.0,1,True
+uptravi,Uptravi,Selexipag,"[""Selexipag""]",6,6,1.0,1,True
+uractone,Uractone,Spironolattone,"[""Spironolattone""]",1,1,1.0,1,True
+urbason,Urbason,Metilprednisolone,"[""Metilprednisolone""]",4,4,1.0,1,True
+urbason sol,Urbason sol,Metilprednisolone,"[""Metilprednisolone""]",1,1,1.0,1,True
+urdes,Urdes,Acido ursodesossicolico,"[""Acido ursodesossicolico""]",1,1,1.0,1,True
+uriquid,Uriquid,Febuxostat,"[""Febuxostat""]",1,1,1.0,1,True
+urorec,Urorec,Silodosina,"[""Silodosina""]",7,7,1.0,1,True
+ursilon,Ursilon,Acido ursodesossicolico,"[""Acido ursodesossicolico""]",1,1,1.0,1,True
+ursobil,Ursobil,Acido ursodesossicolico,"[""Acido ursodesossicolico""]",1,1,1.0,1,True
+valganciclovir my,Valganciclovir my,Valganciclovir,"[""Valganciclovir""]",1,1,1.0,1,True
+valium,Valium,Diazepam,"[""Diazepam""]",1,1,1.0,1,True
+valpinax,Valpinax,Ottatropina metilbromuro/diazepam,"[""Ottatropina metilbromuro"", ""diazepam""]",1,1,1.0,1,True
+valsartan alm,Valsartan alm,Valsartan,"[""Valsartan""]",1,1,1.0,1,True
+varcodes,Varcodes,Desametasone,"[""Desametasone""]",1,1,1.0,1,True
+vasexten,Vasexten,Barnidipina,"[""Barnidipina""]",2,2,1.0,1,True
+vatran,Vatran,Diazepam,"[""Diazepam""]",1,1,1.0,1,True
+velmetia,Velmetia,Sitagliptin/metformina,"[""Sitagliptin"", ""metformina""]",1,1,1.0,1,True
+vemlidy,Vemlidy,Tenofovir alafenamide,"[""Tenofovir alafenamide""]",1,1,1.0,1,True
+venlafaxina alt,Venlafaxina alt,Venlafaxina,"[""Venlafaxina""]",1,1,1.0,1,True
+ventolin,Ventolin,Salbutamolo,"[""Salbutamolo""]",1,1,1.0,1,True
+verquvo,Verquvo,Vericiguat,"[""Vericiguat""]",11,11,1.0,1,True
+vertiserc,Vertiserc,Betaistina,"[""Betaistina""]",1,1,1.0,1,True
+vildagliptin met te,Vildagliptin met te,Vildagliptin/metformina,"[""Vildagliptin"", ""metformina""]",1,1,1.0,1,True
+vokanamet,Vokanamet,Canagliflozin/metformina,"[""Canagliflozin"", ""metformina""]",2,2,1.0,1,True
+vyndaqel,Vyndaqel,Tafamidis,"[""Tafamidis""]",6,6,1.0,1,True
+vytorin,Vytorin,Ezetimibe/simvastatina,"[""Ezetimibe"", ""simvastatina""]",1,1,1.0,1,True
+wegovy,Wegovy,Semaglutide,"[""Semaglutide""]",1,1,1.0,1,True
+xanax,Xanax,Alprazolam,"[""Alprazolam""]",13,13,1.0,1,True
+xarelto,Xarelto,Rivaroxaban,"[""Rivaroxaban""]",26,26,1.0,1,True
+xatral,Xatral,Alfuzosina,"[""Alfuzosina""]",9,9,1.0,1,True
+xelevia,Xelevia,Sitagliptin,"[""Sitagliptin""]",1,1,1.0,1,True
+xigduo,Xigduo,Dapagliflozin/metformina,"[""Dapagliflozin"", ""metformina""]",3,3,1.0,1,True
+xultophy,Xultophy,Insulina degludec/liraglutide,"[""Insulina degludec"", ""liraglutide""]",5,5,1.0,1,True
+zanedip,Zanedip,Lercanidipina,"[""Lercanidipina""]",4,4,1.0,1,True
+zarelis,Zarelis,Venlafaxina,"[""Venlafaxina""]",1,1,1.0,1,True
+zaroxolyn,Zaroxolyn,Metolazone,"[""Metolazone""]",2,2,1.0,1,True
+zestoretic,Zestoretic,Lisinopril/idroclorotiazide,"[""Lisinopril"", ""idroclorotiazide""]",1,1,1.0,1,True
+zestril,Zestril,Lisinopril,"[""Lisinopril""]",1,1,1.0,1,True
+zetia,Zetia,Ezetimibe,"[""Ezetimibe""]",2,2,1.0,1,True
+zitromax,Zitromax,Azitromicina,"[""Azitromicina""]",3,3,1.0,1,True
+zoloft,Zoloft,Sertralina,"[""Sertralina""]",29,29,1.0,1,True
+zolpidem auro,Zolpidem auro,Zolpidem,"[""Zolpidem""]",2,2,1.0,1,True
+zolpidem sand,Zolpidem sand,Zolpidem,"[""Zolpidem""]",1,1,1.0,1,True
+zuglimet,Zuglimet,Metformina,"[""Metformina""]",4,4,1.0,1,True
+zyloric,Zyloric,Allopurinolo,"[""Allopurinolo""]",50,50,1.0,1,True

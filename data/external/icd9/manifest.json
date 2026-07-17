@@ -1,0 +1,8 @@
+{
+  "resource": "icd9cm",
+  "status": "AVAILABLE",
+  "source_url": "https://www.hl7.it/fhir/televisita/CodeSystem-diagnosi-icd9cm.html",
+  "description": "Italian ICD-9-CM diagnosis codes, HL7 Italia FHIR CodeSystem (official translation of the 2007 Ministero della Salute version)",
+  "version": "0.2.0",
+  "record_count": 16285
+}

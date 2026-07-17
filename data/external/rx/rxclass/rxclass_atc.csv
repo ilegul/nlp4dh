@@ -1,0 +1,499 @@
+rxcui,class_id,class_name,class_type,rela_source
+154,B01AA,Vitamin K antagonists,ATC1-4,ATC
+167,S01EC,Carbonic anhydrase inhibitors,ATC1-4,ATC
+197,R05CB,Mucolytics,ATC1-4,ATC
+197,S01XA,Other ophthalmologicals,ATC1-4,ATC
+197,V03AB,Antidotes,ATC1-4,ATC
+281,D06BB,Antivirals,ATC1-4,ATC
+281,J05AB,Nucleosides and nucleotides excl. reverse transcriptase inhibitors,ATC1-4,ATC
+281,S01AD,Antivirals,ATC1-4,ATC
+1191,A01AD,Other agents for local oral treatment,ATC1-4,ATC
+1191,B01AC,Platelet aggregation inhibitors excl. heparin,ATC1-4,ATC
+1191,N02BA,Salicylic acid and derivatives,ATC1-4,ATC
+1191,N02AJ,Opioids in combination with non-opioid analgesics,ATC1-4,ATC
+1191,A01AD,Other agents for local oral treatment,ATC1-4,ATC
+1191,B01AC,Platelet aggregation inhibitors excl. heparin,ATC1-4,ATC
+1191,N02BA,Salicylic acid and derivatives,ATC1-4,ATC
+1191,N02AJ,Opioids in combination with non-opioid analgesics,ATC1-4,ATC
+236083,M05BA,Bisphosphonates,ATC1-4,ATC
+4511,B03AD,Iron in combination with folic acid,ATC1-4,ATC
+4511,B03AD,Iron in combination with folic acid,ATC1-4,ATC
+4511,B03BB,Folic acid and derivatives,ATC1-4,ATC
+4511,V04CX,Other diagnostic agents,ATC1-4,ATC
+4608,D06AX,Other antibiotics for topical use,ATC1-4,ATC
+4608,D09AA,Medicated dressings with antiinfectives,ATC1-4,ATC
+4608,J01XC,Steroid antibacterials,ATC1-4,ATC
+4608,S01AA,Antibiotics,ATC1-4,ATC
+7145,L04AA,Selective immunosuppressants,ATC1-4,ATC
+10691,B02AA,Amino acids,ATC1-4,ATC
+11118,N03AG,Fatty acid derivatives,ATC1-4,ATC
+1303098,R03BB,Anticholinergics,ATC1-4,ATC
+327361,L04AB,Tumor necrosis factor alpha (TNF-alpha) inhibitors,ATC1-4,ATC
+17300,G04CA,Alpha-adrenoreceptor antagonists,ATC1-4,ATC
+1659152,C10AX,Other lipid modifying agents,ATC1-4,ATC
+596,N05BA,Benzodiazepine derivatives,ATC1-4,ATC
+620,N04BB,Adamantane derivatives,ATC1-4,ATC
+358274,C02KX,Antihypertensives for pulmonary arterial hypertension,ATC1-4,ATC
+644,C03DB,Other potassium-sparing agents,ATC1-4,ATC
+703,C01BD,"Antiarrhythmics, class III",ATC1-4,ATC
+704,N06AA,Non-selective monoamine reuptake inhibitors,ATC1-4,ATC
+704,N06AA,Non-selective monoamine reuptake inhibitors,ATC1-4,ATC
+72435,L04AC,Interleukin inhibitors,ATC1-4,ATC
+1999574,L02BB,Anti-androgens,ATC1-4,ATC
+1364430,B01AF,Direct factor Xa inhibitors,ATC1-4,ATC
+2584304,L01EA,BCR-ABL tyrosine kinase inhibitors,ATC1-4,ATC
+83367,C10BA,Combinations of various lipid modifying agents,ATC1-4,ATC
+83367,C10BX,Lipid modifying agents in combination with other drugs,ATC1-4,ATC
+83367,C10AA,HMG CoA reductase inhibitors,ATC1-4,ATC
+83367,C10BA,Combinations of various lipid modifying agents,ATC1-4,ATC
+83367,C10BX,Lipid modifying agents in combination with other drugs,ATC1-4,ATC
+83367,C10AA,HMG CoA reductase inhibitors,ATC1-4,ATC
+1256,L04AX,Other immunosuppressants,ATC1-4,ATC
+18631,J01FA,Macrolides,ATC1-4,ATC
+18631,S01AA,Antibiotics,ATC1-4,ATC
+1347,A07EA,Corticosteroids acting locally,ATC1-4,ATC
+1347,D07AC,"Corticosteroids, potent (group III)",ATC1-4,ATC
+1347,R01AD,Corticosteroids,ATC1-4,ATC
+1347,R03BA,Glucocorticoids,ATC1-4,ATC
+18867,C09AA,"ACE inhibitors, plain",ATC1-4,ATC
+18867,C09BB,ACE inhibitors and calcium channel blockers,ATC1-4,ATC
+1999660,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+283810,S01EE,Prostaglandin analogues,ATC1-4,ATC
+283810,S01EE,Prostaglandin analogues,ATC1-4,ATC
+1588,A11HA,Other plain vitamin preparations,ATC1-4,ATC
+75207,C02KX,Antihypertensives for pulmonary arterial hypertension,ATC1-4,ATC
+194881,S01EC,Carbonic anhydrase inhibitors,ATC1-4,ATC
+1749,N05BA,Benzodiazepine derivatives,ATC1-4,ATC
+19790,N05CD,Benzodiazepine derivatives,ATC1-4,ATC
+19831,A07EA,Corticosteroids acting locally,ATC1-4,ATC
+19831,D07AC,"Corticosteroids, potent (group III)",ATC1-4,ATC
+19831,R01AD,Corticosteroids,ATC1-4,ATC
+19831,R03BA,Glucocorticoids,ATC1-4,ATC
+19831,R03AK,"Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics",ATC1-4,ATC
+19831,A07EA,Corticosteroids acting locally,ATC1-4,ATC
+19831,D07AC,"Corticosteroids, potent (group III)",ATC1-4,ATC
+19831,R01AD,Corticosteroids,ATC1-4,ATC
+19831,R03BA,Glucocorticoids,ATC1-4,ATC
+19831,R03AK,"Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics",ATC1-4,ATC
+1819,N02AE,Oripavine derivatives,ATC1-4,ATC
+1819,N07BC,Drugs used in opioid dependence,ATC1-4,ATC
+1897,A02AC,Calcium compounds,ATC1-4,ATC
+1897,A12AA,Calcium,ATC1-4,ATC
+1373458,A10BK,Sodium-glucose co-transporter 2 (SGLT2) inhibitors,ATC1-4,ATC
+1373458,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+135481,C09CA,"Angiotensin II receptor blockers (ARBs), plain",ATC1-4,ATC
+1982,C03DA,Aldosterone antagonists,ATC1-4,ATC
+2180,J01DB,First-generation cephalosporins,ATC1-4,ATC
+83682,J01DD,Third-generation cephalosporins,ATC1-4,ATC
+25033,J01DD,Third-generation cephalosporins,ATC1-4,ATC
+2193,J01DD,Third-generation cephalosporins,ATC1-4,ATC
+20610,R06AE,Piperazine derivatives,ATC1-4,ATC
+20610,S01GX,Other antiallergics,ATC1-4,ATC
+11248,B03BA,Vitamin B12 (cyanocobalamin and analogues),ATC1-4,ATC
+274964,R01AD,Corticosteroids,ATC1-4,ATC
+274964,R03BA,Glucocorticoids,ATC1-4,ATC
+21949,M03BX,Other centrally acting agents,ATC1-4,ATC
+3008,L04AD,Calcineurin inhibitors,ATC1-4,ATC
+3008,S01XA,Other ophthalmologicals,ATC1-4,ATC
+407990,H05BX,Other anti-parathyroid agents,ATC1-4,ATC
+2556,N06AB,Selective serotonin reuptake inhibitors,ATC1-4,ATC
+997602,N06BX,Other psychostimulants and nootropics,ATC1-4,ATC
+2598,N03AE,Benzodiazepine derivatives,ATC1-4,ATC
+32968,B01AC,Platelet aggregation inhibitors excl. heparin,ATC1-4,ATC
+2670,N02AJ,Opioids in combination with non-opioid analgesics,ATC1-4,ATC
+2670,R05DA,Opium alkaloids and derivatives,ATC1-4,ATC
+2670,N02AJ,Opioids in combination with non-opioid analgesics,ATC1-4,ATC
+2670,N02AJ,Opioids in combination with non-opioid analgesics,ATC1-4,ATC
+2683,M04AC,Preparations with no effect on uric acid metabolism,ATC1-4,ATC
+2683,M04AC,Preparations with no effect on uric acid metabolism,ATC1-4,ATC
+2447,C10AC,Bile acid sequestrants,ATC1-4,ATC
+2878,H02AB,Glucocorticoids,ATC1-4,ATC
+2878,S01BA,"Corticosteroids, plain",ATC1-4,ATC
+1488564,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+1488564,A10BK,Sodium-glucose co-transporter 2 (SGLT2) inhibitors,ATC1-4,ATC
+1488564,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+1488564,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+22299,J01XX,Other antibacterials,ATC1-4,ATC
+22396,H02AB,Glucocorticoids,ATC1-4,ATC
+475230,L02BX,Other hormone antagonists and related agents,ATC1-4,ATC
+993449,M05BX,Other drugs affecting bone structure and mineralization,ATC1-4,ATC
+22656,G03AC,Progestogens,ATC1-4,ATC
+22656,G03AA,"Progestogens and estrogens, fixed combinations",ATC1-4,ATC
+22656,G03AB,"Progestogens and estrogens, sequential preparations",ATC1-4,ATC
+3322,N05BA,Benzodiazepine derivatives,ATC1-4,ATC
+3322,N05BA,Benzodiazepine derivatives,ATC1-4,ATC
+22968,G03DB,Pregnadien derivatives,ATC1-4,ATC
+22968,G03AB,"Progestogens and estrogens, sequential preparations",ATC1-4,ATC
+3407,C01AA,Digitalis glycosides,ATC1-4,ATC
+3443,C05AE,Muscle relaxants,ATC1-4,ATC
+3443,C08DB,Benzothiazepine derivatives,ATC1-4,ATC
+324072,P03AX,"Other ectoparasiticides, incl. scabicides",ATC1-4,ATC
+3489,C05CA,Bioflavonoids,ATC1-4,ATC
+1433868,J05AJ,Integrase inhibitors,ATC1-4,ATC
+1433868,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+1433868,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+1433868,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+3626,A03FA,Propulsives,ATC1-4,ATC
+135447,N06DA,Anticholinesterases,ATC1-4,ATC
+135447,N06DA,Anticholinesterases,ATC1-4,ATC
+60207,S01EC,Carbonic anhydrase inhibitors,ATC1-4,ATC
+49276,C02CA,Alpha-adrenoreceptor antagonists,ATC1-4,ATC
+3640,A01AB,Antiinfectives and antiseptics for local oral treatment,ATC1-4,ATC
+3640,J01AA,Tetracyclines,ATC1-4,ATC
+11636,G03AC,Progestogens,ATC1-4,ATC
+11636,G03AA,"Progestogens and estrogens, fixed combinations",ATC1-4,ATC
+11636,G03AA,"Progestogens and estrogens, fixed combinations",ATC1-4,ATC
+11636,G03AC,Progestogens,ATC1-4,ATC
+11636,G03AA,"Progestogens and estrogens, fixed combinations",ATC1-4,ATC
+11636,G03AA,"Progestogens and estrogens, fixed combinations",ATC1-4,ATC
+1551291,A10BJ,Glucagon-like peptide-1 (GLP-1) analogues,ATC1-4,ATC
+72625,N06AX,Other antidepressants,ATC1-4,ATC
+228790,G04CA,Alpha-adrenoreceptor antagonists,ATC1-4,ATC
+228790,G04CB,Testosterone-5-alpha reductase inhibitors,ATC1-4,ATC
+1599538,B01AF,Direct factor Xa inhibitors,ATC1-4,ATC
+1545653,A10BK,Sodium-glucose co-transporter 2 (SGLT2) inhibitors,ATC1-4,ATC
+1545653,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+1545653,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+1545653,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+1598392,A10BH,Dipeptidyl peptidase 4 (DPP-4) inhibitors,ATC1-4,ATC
+1598392,A10BK,Sodium-glucose co-transporter 2 (SGLT2) inhibitors,ATC1-4,ATC
+1598392,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+276237,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+276237,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+276237,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+276237,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+276237,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+276237,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+276237,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+276237,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+276237,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+276237,J05AF,Nucleoside and nucleotide reverse transcriptase inhibitors,ATC1-4,ATC
+3827,C09AA,"ACE inhibitors, plain",ATC1-4,ATC
+298869,C03DA,Aldosterone antagonists,ATC1-4,ATC
+1992672,A10BK,Sodium-glucose co-transporter 2 (SGLT2) inhibitors,ATC1-4,ATC
+1992672,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+1992672,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+1992672,A10BK,Sodium-glucose co-transporter 2 (SGLT2) inhibitors,ATC1-4,ATC
+1992672,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+1992672,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+321988,N06AB,Selective serotonin reuptake inhibitors,ATC1-4,ATC
+461016,N05CF,Benzodiazepine related drugs,ATC1-4,ATC
+141704,L01EG,Mammalian target of rapamycin (mTOR) kinase inhibitors,ATC1-4,ATC
+141704,L04AH,Mammalian target of rapamycin (mTOR) kinase inhibitors,ATC1-4,ATC
+1665684,C10AX,Other lipid modifying agents,ATC1-4,ATC
+341248,C10BA,Combinations of various lipid modifying agents,ATC1-4,ATC
+341248,C10BA,Combinations of various lipid modifying agents,ATC1-4,ATC
+341248,C10BA,Combinations of various lipid modifying agents,ATC1-4,ATC
+341248,C10AX,Other lipid modifying agents,ATC1-4,ATC
+341248,C10BA,Combinations of various lipid modifying agents,ATC1-4,ATC
+341248,C10BA,Combinations of various lipid modifying agents,ATC1-4,ATC
+341248,C10BA,Combinations of various lipid modifying agents,ATC1-4,ATC
+341248,C10BA,Combinations of various lipid modifying agents,ATC1-4,ATC
+341248,C10AX,Other lipid modifying agents,ATC1-4,ATC
+341248,C10BA,Combinations of various lipid modifying agents,ATC1-4,ATC
+4278,A02BA,H2-receptor antagonists,ATC1-4,ATC
+73689,M04AA,Preparations inhibiting uric acid production,ATC1-4,ATC
+8134,N03AA,Barbiturates and derivatives,ATC1-4,ATC
+8703,C10BA,Combinations of various lipid modifying agents,ATC1-4,ATC
+8703,C10AB,Fibrates,ATC1-4,ATC
+25025,D11AX,Other dermatologicals,ATC1-4,ATC
+25025,G04CB,Testosterone-5-alpha reductase inhibitors,ATC1-4,ATC
+25025,G04CB,Testosterone-5-alpha reductase inhibitors,ATC1-4,ATC
+2562811,C03DA,Aldosterone antagonists,ATC1-4,ATC
+4441,C01BC,"Antiarrhythmics, class Ic",ATC1-4,ATC
+4493,N06AB,Selective serotonin reuptake inhibitors,ATC1-4,ATC
+41126,R03AK,"Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics",ATC1-4,ATC
+41126,D07AC,"Corticosteroids, potent (group III)",ATC1-4,ATC
+41126,R01AD,Corticosteroids,ATC1-4,ATC
+41126,R03BA,Glucocorticoids,ATC1-4,ATC
+41126,R01AD,Corticosteroids,ATC1-4,ATC
+41126,R03BA,Glucocorticoids,ATC1-4,ATC
+41126,R03AK,"Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics",ATC1-4,ATC
+41126,D07AC,"Corticosteroids, potent (group III)",ATC1-4,ATC
+41126,R01AD,Corticosteroids,ATC1-4,ATC
+41126,R03BA,Glucocorticoids,ATC1-4,ATC
+41126,R01AD,Corticosteroids,ATC1-4,ATC
+41126,R03BA,Glucocorticoids,ATC1-4,ATC
+41127,C10AA,HMG CoA reductase inhibitors,ATC1-4,ATC
+321208,B01AX,Other antithrombotic agents,ATC1-4,ATC
+4550,J01XX,Other antibacterials,ATC1-4,ATC
+4550,S02AA,Antiinfectives,ATC1-4,ATC
+4603,C03CB,Sulfonamides and potassium in combination,ATC1-4,ATC
+4603,C03CA,"Sulfonamides, plain",ATC1-4,ATC
+25480,N02BF,Gabapentinoids,ATC1-4,ATC
+2058846,N02CD,Calcitonin gene-related peptide (CGRP) antagonists,ATC1-4,ATC
+4719,C10AB,Fibrates,ATC1-4,ATC
+4816,A10BB,Sulfonylureas,ATC1-4,ATC
+1546438,D11AA,Antihidrotics,ATC1-4,ATC
+1546438,D11AA,Antihidrotics,ATC1-4,ATC
+5640,N02AJ,Opioids in combination with non-opioid analgesics,ATC1-4,ATC
+5640,N02AJ,Opioids in combination with non-opioid analgesics,ATC1-4,ATC
+5640,C01EB,Other cardiac preparations,ATC1-4,ATC
+5640,G02CC,Antiinflammatory products for vaginal administration,ATC1-4,ATC
+5640,M01AE,Propionic acid derivatives,ATC1-4,ATC
+5640,M02AA,"Antiinflammatory preparations, non-steroids for topical use",ATC1-4,ATC
+5640,R02AX,Other throat preparations,ATC1-4,ATC
+5640,N02AJ,Opioids in combination with non-opioid analgesics,ATC1-4,ATC
+5764,C03BA,"Sulfonamides, plain",ATC1-4,ATC
+5764,C03BA,"Sulfonamides, plain",ATC1-4,ATC
+1670007,A10AE,"Insulins and analogues for injection, long-acting",ATC1-4,ATC
+1670007,A10AE,"Insulins and analogues for injection, long-acting",ATC1-4,ATC
+139825,A10AE,"Insulins and analogues for injection, long-acting",ATC1-4,ATC
+400008,A10AB,"Insulins and analogues for injection, fast-acting",ATC1-4,ATC
+86009,A10AB,"Insulins and analogues for injection, fast-acting",ATC1-4,ATC
+86009,A10AC,"Insulins and analogues for injection, intermediate-acting",ATC1-4,ATC
+86009,A10AD,"Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting",ATC1-4,ATC
+83818,C09CA,"Angiotensin II receptor blockers (ARBs), plain",ATC1-4,ATC
+1649480,C01EB,Other cardiac preparations,ATC1-4,ATC
+68244,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+68244,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+68244,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+68244,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+68244,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+68244,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+68244,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+68244,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+68244,J05AF,Nucleoside and nucleotide reverse transcriptase inhibitors,ATC1-4,ATC
+68244,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+68244,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+68244,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+28439,N03AX,Other antiepileptics,ATC1-4,ATC
+43611,S01EE,Prostaglandin analogues,ATC1-4,ATC
+43611,S01EE,Prostaglandin analogues,ATC1-4,ATC
+27169,L04AK,Dihydroorotate dehydrogenase (DHODH) inhibitors,ATC1-4,ATC
+114477,N03AX,Other antiepileptics,ATC1-4,ATC
+356887,R06AE,Piperazine derivatives,ATC1-4,ATC
+6375,N04BA,Dopa and dopa derivatives,ATC1-4,ATC
+619749,N04BA,Dopa and dopa derivatives,ATC1-4,ATC
+103990,N04BA,Dopa and dopa derivatives,ATC1-4,ATC
+1100699,A10BH,Dipeptidyl peptidase 4 (DPP-4) inhibitors,ATC1-4,ATC
+1100699,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+1100699,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+1100699,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+1100699,A10BH,Dipeptidyl peptidase 4 (DPP-4) inhibitors,ATC1-4,ATC
+1100699,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+1100699,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+1100699,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+475968,A10AE,"Insulins and analogues for injection, long-acting",ATC1-4,ATC
+475968,A10BJ,Glucagon-like peptide-1 (GLP-1) analogues,ATC1-4,ATC
+29046,C09AA,"ACE inhibitors, plain",ATC1-4,ATC
+6470,N05BA,Benzodiazepine derivatives,ATC1-4,ATC
+28894,N05CD,Benzodiazepine derivatives,ATC1-4,ATC
+52175,C09CA,"Angiotensin II receptor blockers (ARBs), plain",ATC1-4,ATC
+6472,C10BA,Combinations of various lipid modifying agents,ATC1-4,ATC
+6472,C10AA,HMG CoA reductase inhibitors,ATC1-4,ATC
+1442132,C02KX,Antihypertensives for pulmonary arterial hypertension,ATC1-4,ATC
+1442132,C02KX,Antihypertensives for pulmonary arterial hypertension,ATC1-4,ATC
+29151,A02AD,"Combinations and complexes of aluminium, calcium and magnesium compounds",ATC1-4,ATC
+6711,N05CH,Melatonin receptor agonists,ATC1-4,ATC
+6719,N06DA,Anticholinesterases,ATC1-4,ATC
+6719,N06DX,Other anti-dementia drugs,ATC1-4,ATC
+1720597,R03DX,Other systemic drugs for obstructive airway diseases,ATC1-4,ATC
+52582,A07EC,Aminosalicylic acid and similar agents,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BA,Biguanides,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BA,Biguanides,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6809,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+6915,A03FA,Propulsives,ATC1-4,ATC
+6916,C03BA,"Sulfonamides, plain",ATC1-4,ATC
+6851,L01BA,Folic acid analogues,ATC1-4,ATC
+6851,L04AX,Other immunosuppressants,ATC1-4,ATC
+6926,C01BB,"Antiarrhythmics, class Ib",ATC1-4,ATC
+6960,N05CD,Benzodiazepine derivatives,ATC1-4,ATC
+15996,N06AX,Other antidepressants,ATC1-4,ATC
+108118,R03AK,"Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics",ATC1-4,ATC
+108118,D07AC,"Corticosteroids, potent (group III)",ATC1-4,ATC
+108118,D07XC,"Corticosteroids, potent, other combinations",ATC1-4,ATC
+108118,R01AD,Corticosteroids,ATC1-4,ATC
+108118,R03BA,Glucocorticoids,ATC1-4,ATC
+88249,R03DC,Leukotriene receptor antagonists,ATC1-4,ATC
+7052,N02AA,Natural opium alkaloids,ATC1-4,ATC
+7242,N02AX,Other opioids,ATC1-4,ATC
+7242,N02AA,Natural opium alkaloids,ATC1-4,ATC
+7242,N02AD,Benzomorphan derivatives,ATC1-4,ATC
+7242,A06AH,Peripheral opioid receptor antagonists,ATC1-4,ATC
+7242,V03AB,Antidotes,ATC1-4,ATC
+298665,S01BC,"Antiinflammatory agents, non-steroids",ATC1-4,ATC
+7405,A11HA,Other plain vitamin preparations,ATC1-4,ATC
+1592737,L01EX,Other protein kinase inhibitors,ATC1-4,ATC
+7597,J01RA,Combinations of antibacterials,ATC1-4,ATC
+7597,A07AA,Antibiotics,ATC1-4,ATC
+7597,D01AA,Antibiotics,ATC1-4,ATC
+7597,G01AA,Antibiotics,ATC1-4,ATC
+4917,C01DA,Organic nitrates,ATC1-4,ATC
+4917,C05AE,Muscle relaxants,ATC1-4,ATC
+61381,N05AH,"Diazepines, oxazepines, thiazepines and oxepines",ATC1-4,ATC
+61381,N05AH,"Diazepines, oxazepines, thiazepines and oxepines",ATC1-4,ATC
+118463,C09CA,"Angiotensin II receptor blockers (ARBs), plain",ATC1-4,ATC
+135391,R01AC,"Antiallergic agents, excl. corticosteroids",ATC1-4,ATC
+135391,S01GX,Other antiallergics,ATC1-4,ATC
+260101,J05AH,Neuraminidase inhibitors,ATC1-4,ATC
+1721560,L01EB,Epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors,ATC1-4,ATC
+54236,R06AE,Piperazine derivatives,ATC1-4,ATC
+32937,N06AB,Selective serotonin reuptake inhibitors,ATC1-4,ATC
+8076,N05AB,Phenothiazines with piperazine structure,ATC1-4,ATC
+54552,C09BB,ACE inhibitors and calcium channel blockers,ATC1-4,ATC
+54552,C09AA,"ACE inhibitors, plain",ATC1-4,ATC
+54552,C09BB,ACE inhibitors and calcium channel blockers,ATC1-4,ATC
+54552,C09AA,"ACE inhibitors, plain",ATC1-4,ATC
+388499,C09AA,"ACE inhibitors, plain",ATC1-4,ATC
+388499,C03BA,"Sulfonamides, plain",ATC1-4,ATC
+33738,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+33738,A10BG,Thiazolidinediones,ATC1-4,ATC
+33738,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+33738,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+613391,B01AC,Platelet aggregation inhibitors excl. heparin,ATC1-4,ATC
+42463,C10AA,HMG CoA reductase inhibitors,ATC1-4,ATC
+8640,A07EA,Corticosteroids acting locally,ATC1-4,ATC
+8640,H02AB,Glucocorticoids,ATC1-4,ATC
+187832,N02BF,Gabapentinoids,ATC1-4,ATC
+8742,N05AA,Phenothiazines with aliphatic side-chain,ATC1-4,ATC
+8754,C01BC,"Antiarrhythmics, class Ic",ATC1-4,ATC
+8782,N01AX,Other general anesthetics,ATC1-4,ATC
+8787,C07AA,"Beta blocking agents, non-selective",ATC1-4,ATC
+51272,N05AH,"Diazepines, oxazepines, thiazepines and oxepines",ATC1-4,ATC
+35296,C09AA,"ACE inhibitors, plain",ATC1-4,ATC
+35296,C09BB,ACE inhibitors and calcium channel blockers,ATC1-4,ATC
+35829,C01EB,Other cardiac preparations,ATC1-4,ATC
+134748,N04BD,Monoamine oxidase B inhibitors,ATC1-4,ATC
+9346,A11HA,Other plain vitamin preparations,ATC1-4,ATC
+9346,S01XA,Other ophthalmologicals,ATC1-4,ATC
+9384,J04AM,Combinations of drugs for treatment of tuberculosis,ATC1-4,ATC
+9384,J04AM,Combinations of drugs for treatment of tuberculosis,ATC1-4,ATC
+9384,J04AM,Combinations of drugs for treatment of tuberculosis,ATC1-4,ATC
+9384,J04AB,Antibiotics,ATC1-4,ATC
+35619,A07AA,Antibiotics,ATC1-4,ATC
+35619,D06AX,Other antibiotics for topical use,ATC1-4,ATC
+1102270,J05AG,Non-nucleoside reverse transcriptase inhibitors,ATC1-4,ATC
+1102270,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+1102270,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+1102270,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+1439816,C02KX,Antihypertensives for pulmonary arterial hypertension,ATC1-4,ATC
+35636,N05AX,Other antipsychotics,ATC1-4,ATC
+1114195,B01AF,Direct factor Xa inhibitors,ATC1-4,ATC
+183379,N06DA,Anticholinesterases,ATC1-4,ATC
+1656328,C09DX,"Angiotensin II receptor blockers (ARBs), other combinations",ATC1-4,ATC
+1656339,C09DX,"Angiotensin II receptor blockers (ARBs), other combinations",ATC1-4,ATC
+1656339,C09CA,"Angiotensin II receptor blockers (ARBs), plain",ATC1-4,ATC
+9639,N04BD,Monoamine oxidase B inhibitors,ATC1-4,ATC
+1729002,B01AC,Platelet aggregation inhibitors excl. heparin,ATC1-4,ATC
+1991302,A10BJ,Glucagon-like peptide-1 (GLP-1) analogues,ATC1-4,ATC
+36437,N06AB,Selective serotonin reuptake inhibitors,ATC1-4,ATC
+214824,V03AE,Drugs for treatment of hyperkalemia and hyperphosphatemia,ATC1-4,ATC
+136411,G04BE,Drugs used in erectile dysfunction,ATC1-4,ATC
+720825,G04CA,Alpha-adrenoreceptor antagonists,ATC1-4,ATC
+36567,A10BH,Dipeptidyl peptidase 4 (DPP-4) inhibitors,ATC1-4,ATC
+36567,C10BA,Combinations of various lipid modifying agents,ATC1-4,ATC
+36567,C10AA,HMG CoA reductase inhibitors,ATC1-4,ATC
+36567,C10BA,Combinations of various lipid modifying agents,ATC1-4,ATC
+36567,A10BH,Dipeptidyl peptidase 4 (DPP-4) inhibitors,ATC1-4,ATC
+36567,C10BA,Combinations of various lipid modifying agents,ATC1-4,ATC
+36567,C10AA,HMG CoA reductase inhibitors,ATC1-4,ATC
+36567,C10BA,Combinations of various lipid modifying agents,ATC1-4,ATC
+593411,A10BH,Dipeptidyl peptidase 4 (DPP-4) inhibitors,ATC1-4,ATC
+593411,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+593411,A10BH,Dipeptidyl peptidase 4 (DPP-4) inhibitors,ATC1-4,ATC
+593411,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+1992825,A10BK,Sodium-glucose co-transporter 2 (SGLT2) inhibitors,ATC1-4,ATC
+1992825,A10BD,Combinations of oral blood glucose lowering drugs,ATC1-4,ATC
+1992825,A10BH,Dipeptidyl peptidase 4 (DPP-4) inhibitors,ATC1-4,ATC
+36676,B05CB,Salt solutions,ATC1-4,ATC
+36676,B05XA,Electrolyte solutions,ATC1-4,ATC
+36676,B05CB,Salt solutions,ATC1-4,ATC
+36676,B05XA,Electrolyte solutions,ATC1-4,ATC
+61148,H01AC,Somatropin and somatropin agonists,ATC1-4,ATC
+9947,C07AA,"Beta blocking agents, non-selective",ATC1-4,ATC
+9997,C03DA,Aldosterone antagonists,ATC1-4,ATC
+9997,C03DA,Aldosterone antagonists,ATC1-4,ATC
+10156,A02BX,Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD),ATC1-4,ATC
+37418,N02CC,Selective serotonin (5HT1) agonists,ATC1-4,ATC
+37418,N02CC,Selective serotonin (5HT1) agonists,ATC1-4,ATC
+42316,D11AH,"Agents for dermatitis, excluding corticosteroids",ATC1-4,ATC
+42316,L04AD,Calcineurin inhibitors,ATC1-4,ATC
+358263,G04CB,Testosterone-5-alpha reductase inhibitors,ATC1-4,ATC
+358263,C02KX,Antihypertensives for pulmonary arterial hypertension,ATC1-4,ATC
+358263,G04BE,Drugs used in erectile dysfunction,ATC1-4,ATC
+1545063,N07XX,Other nervous system drugs,ATC1-4,ATC
+1244607,S01EE,Prostaglandin analogues,ATC1-4,ATC
+10324,L02BA,Anti-estrogens,ATC1-4,ATC
+77492,G04CA,Alpha-adrenoreceptor antagonists,ATC1-4,ATC
+77492,G04CA,Alpha-adrenoreceptor antagonists,ATC1-4,ATC
+73494,C09CA,"Angiotensin II receptor blockers (ARBs), plain",ATC1-4,ATC
+73494,C09DB,Angiotensin II receptor blockers (ARBs) and calcium channel blockers,ATC1-4,ATC
+1721603,J05AF,Nucleoside and nucleotide reverse transcriptase inhibitors,ATC1-4,ATC
+1721603,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+1721603,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+1721603,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+1721603,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+1721603,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+1721603,J05AF,Nucleoside and nucleotide reverse transcriptase inhibitors,ATC1-4,ATC
+1721603,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+1721603,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+1721603,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+1721603,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+1721603,J05AR,"Antivirals for treatment of HIV infections, combinations",ATC1-4,ATC
+37798,G04CA,Alpha-adrenoreceptor antagonists,ATC1-4,ATC
+10454,A11DA,"Vitamin B1, plain",ATC1-4,ATC
+38260,G03CX,Other estrogens,ATC1-4,ATC
+1116632,B01AC,Platelet aggregation inhibitors excl. heparin,ATC1-4,ATC
+10594,B01AC,Platelet aggregation inhibitors excl. heparin,ATC1-4,ATC
+10600,C07AA,"Beta blocking agents, non-selective",ATC1-4,ATC
+10600,S01ED,Beta blocking agents,ATC1-4,ATC
+10600,C07AA,"Beta blocking agents, non-selective",ATC1-4,ATC
+10600,S01ED,Beta blocking agents,ATC1-4,ATC
+2601723,A10BX,"Other blood glucose lowering drugs, excl. insulins",ATC1-4,ATC
+10627,J01GB,Other aminoglycosides,ATC1-4,ATC
+10627,S01AA,Antibiotics,ATC1-4,ATC
+38404,A08AA,Centrally acting antiobesity products,ATC1-4,ATC
+38404,N03AX,Other antiepileptics,ATC1-4,ATC
+38413,C03CA,"Sulfonamides, plain",ATC1-4,ATC
+283809,S01EE,Prostaglandin analogues,ATC1-4,ATC
+10737,N06AX,Other antidepressants,ATC1-4,ATC
+343048,B01AC,Platelet aggregation inhibitors excl. heparin,ATC1-4,ATC
+10767,N05CD,Benzodiazepine derivatives,ATC1-4,ATC
+275891,J05AB,Nucleosides and nucleotides excl. reverse transcriptase inhibitors,ATC1-4,ATC
+69749,C09DX,"Angiotensin II receptor blockers (ARBs), other combinations",ATC1-4,ATC
+69749,C09DX,"Angiotensin II receptor blockers (ARBs), other combinations",ATC1-4,ATC
+69749,C09CA,"Angiotensin II receptor blockers (ARBs), plain",ATC1-4,ATC
+69749,C09DB,Angiotensin II receptor blockers (ARBs) and calcium channel blockers,ATC1-4,ATC
+69749,C09DX,"Angiotensin II receptor blockers (ARBs), other combinations",ATC1-4,ATC
+69749,C09DX,"Angiotensin II receptor blockers (ARBs), other combinations",ATC1-4,ATC
+69749,C09DX,"Angiotensin II receptor blockers (ARBs), other combinations",ATC1-4,ATC
+69749,C09DX,"Angiotensin II receptor blockers (ARBs), other combinations",ATC1-4,ATC
+69749,C09CA,"Angiotensin II receptor blockers (ARBs), plain",ATC1-4,ATC
+69749,C09DB,Angiotensin II receptor blockers (ARBs) and calcium channel blockers,ATC1-4,ATC
+69749,C09DX,"Angiotensin II receptor blockers (ARBs), other combinations",ATC1-4,ATC
+69749,C09DX,"Angiotensin II receptor blockers (ARBs), other combinations",ATC1-4,ATC
+39786,N06AX,Other antidepressants,ATC1-4,ATC
+11170,C08DA,Phenylalkylamine derivatives,ATC1-4,ATC
+11170,C09BB,ACE inhibitors and calcium channel blockers,ATC1-4,ATC
+2475830,C01DX,Other vasodilators used in cardiac diseases,ATC1-4,ATC
+596554,A10BH,Dipeptidyl peptidase 4 (DPP-4) inhibitors,ATC1-4,ATC
+1455099,N06AX,Other antidepressants,ATC1-4,ATC
+11289,B01AA,Vitamin K antagonists,ATC1-4,ATC
+39990,C09AA,"ACE inhibitors, plain",ATC1-4,ATC
+39993,N05CF,Benzodiazepine related drugs,ATC1-4,ATC

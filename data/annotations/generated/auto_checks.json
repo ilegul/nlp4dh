@@ -1,0 +1,16 @@
+{
+  "dataset_sha256": "300318ecac0afb62c0e9424f6463bc75cd611246e3375aaabf0a651108707364",
+  "cohort_manifest_sha256": "100d22fe4e3b343f689c766edeeebb1a252db89e337df2aa70317a2be9edabeb",
+  "selected_encounters": 50,
+  "unique_selected_encounters": 50,
+  "source_reports": 150,
+  "automatic_discharge_annotations": 371,
+  "discharge_review_items": 6,
+  "automatic_ingress_annotations": 291,
+  "resolved_ingress_mappings": 280,
+  "ingress_review_items": 21,
+  "unique_discharge_ids": true,
+  "unique_ingress_ids": true,
+  "discharge_offsets_match_source": true,
+  "ingress_offsets_match_source": true
+}

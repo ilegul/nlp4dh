@@ -1,0 +1,14 @@
+{
+  "source_name": "RxNorm / RxClass (RxNav REST API)",
+  "source_url": "https://rxnav.nlm.nih.gov/",
+  "description": "Active-ingredient -> RxCUI table and the RxClass ATC / MED-RT CI_with relations used for entity linking and drug-condition contraindications.",
+  "retrieval_date": "2026-06-28",
+  "ingredients": 481,
+  "ingredients_linked": 267,
+  "coverage": 0.5551,
+  "files": {
+    "rxnorm/rxnorm_ingredients.csv": "ingredient query, rxcui, rxnorm_name, tty, status",
+    "rxclass/rxclass_atc.csv": "rxcui -> ATC class",
+    "rxclass/medrt_contraindications.csv": "rxcui -> contraindicated MeSH descriptor (MED-RT CI_with)"
+  }
+}

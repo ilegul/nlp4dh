@@ -1,0 +1,482 @@
+query,rxcui,rxnorm_name,tty,status,source_version,retrieval_date
+Acenocumarolo,154,acenocoumarol,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Acetazolamide,167,acetazolamide,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Acetilcisteina,197,acetylcysteine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Aciclovir,281,acyclovir,IN,LINKED,RxNorm current via RxNav,2026-06-28
+acido acetilsalicilico,1191,aspirin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Acido acetilsalicilico,1191,aspirin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Acido alendronico,236083,alendronic acid,PIN,LINKED,RxNorm current via RxNav,2026-06-28
+Acido alendronico/colecalciferolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Acido bempedoico,,,,NIL,RxNorm current via RxNav,2026-06-28
+Acido bempedoico/ezetimibe,,,,NIL,RxNorm current via RxNav,2026-06-28
+acido clavulanico,21216,clavulanic acid,PIN,LINKED,RxNorm current via RxNav,2026-06-28
+Acido folico,4511,folic acid,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Acido fusidico,4608,fusidic acid,PIN,LINKED,RxNorm current via RxNav,2026-06-28
+Acido ialuronico,,,,NIL,RxNorm current via RxNav,2026-06-28
+Acido micofenolico,7145,mycophenolic acid,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Acido neridronico,,,,NIL,RxNorm current via RxNav,2026-06-28
+Acido tranexamico,10691,tranexamic acid,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Acido ursodesossicolico,,,,NIL,RxNorm current via RxNav,2026-06-28
+Acido valproico,11118,valproic acid,PIN,LINKED,RxNorm current via RxNav,2026-06-28
+Acido valproico/sodio valproato,,,,NIL,RxNorm current via RxNav,2026-06-28
+Aclidinio,1303098,aclidinium,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Aclidinio/formoterolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Adalimumab,327361,adalimumab,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Ademetionina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Albumina umana,,,,NIL,RxNorm current via RxNav,2026-06-28
+Alfuzosina,17300,alfuzosin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Alirocumab,1659152,alirocumab,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Allopurinolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Alluminio idrossido,,,,NIL,RxNorm current via RxNav,2026-06-28
+Alluminio idrossido/magnesio idrossido,,,,NIL,RxNorm current via RxNav,2026-06-28
+Aloperidolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Alprazolam,596,alprazolam,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Amantadina,620,amantadine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Ambrisentan,358274,ambrisentan,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Amiloride,644,amiloride,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Amiloride/idroclorotiazide,,,,NIL,RxNorm current via RxNav,2026-06-28
+Amiodarone,703,amiodarone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Amitriptilina,704,amitriptyline,IN,LINKED,RxNorm current via RxNav,2026-06-28
+amitriptilina,704,amitriptyline,IN,LINKED,RxNorm current via RxNav,2026-06-28
+amlodipina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Amlodipina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Amlodipina/valsartan/idroclorotiazide,,,,NIL,RxNorm current via RxNav,2026-06-28
+Amoxicillina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Amoxicillina/acido clavulanico,,,,NIL,RxNorm current via RxNav,2026-06-28
+Ampicillina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Anakinra,72435,anakinra,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Anastrozolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Apalutamide,1999574,apalutamide,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Apixaban,1364430,apixaban,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Aripiprazolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Asciminib,2584304,asciminib,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Atenololo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Atenololo/clortalidone,,,,NIL,RxNorm current via RxNav,2026-06-28
+atorvastatina,83367,atorvastatin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Atorvastatina,83367,atorvastatin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Atorvastatina/Ezetimibe,,,,NIL,RxNorm current via RxNav,2026-06-28
+Atorvastatina/ezetimibe,,,,NIL,RxNorm current via RxNav,2026-06-28
+Atorvastatina/perindopril/amlodipina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Azatioprina,1256,azathioprine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Azitromicina,18631,azithromycin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Barnidipina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Beclometasone,1347,beclomethasone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Beclometasone/formoterolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Beclometasone/formoterolo/glicopirronio,,,,NIL,RxNorm current via RxNav,2026-06-28
+Beclometasone/salbutamolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Benazepril,18867,benazepril,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Benazepril/idroclorotiazide,,,,NIL,RxNorm current via RxNav,2026-06-28
+Benmetiamina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Benmetiamina/piridossina/cianocobalamina,,,,NIL,RxNorm current via RxNav,2026-06-28
+benserazide,1374,benserazide,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Betaistina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Betametasone,,,,NIL,RxNorm current via RxNav,2026-06-28
+Betametasone/cloramfenicolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Bictegravir,1999660,bictegravir,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Bictegravir/emtricitabina/tenofovir alafenamide,,,,NIL,RxNorm current via RxNav,2026-06-28
+Bilastina,,,,NIL,RxNorm current via RxNav,2026-06-28
+bimatoprost,283810,bimatoprost,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Bimatoprost,283810,bimatoprost,IN,LINKED,RxNorm current via RxNav,2026-06-28
+biotina,1588,biotin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+bisoprololo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Bisoprololo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Bisoprololo/perindopril,,,,NIL,RxNorm current via RxNav,2026-06-28
+Bosentan,75207,bosentan,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Brinzolamide,194881,brinzolamide,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Brinzolamide/timololo maleato,,,,NIL,RxNorm current via RxNav,2026-06-28
+Bromazepam,1749,bromazepam,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Brotizolam,19790,brotizolam,IN,LINKED,RxNorm current via RxNav,2026-06-28
+budesonide,19831,budesonide,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Budesonide,19831,budesonide,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Budesonide/formoterolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Buprenorfina,1819,buprenorphine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Buprenorfina/naloxone,,,,NIL,RxNorm current via RxNav,2026-06-28
+Calcifediolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Calcio carbonato,1897,calcium carbonate,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Calcio carbonato/colecalciferolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+calcio pantotenato,,,,NIL,RxNorm current via RxNav,2026-06-28
+Calcitriolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Canagliflozin,1373458,canagliflozin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Canagliflozin/metformina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Candesartan cilexetil,135481,candesartan cilexetil,PIN,LINKED,RxNorm current via RxNav,2026-06-28
+Cannabidiolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Canrenone,1982,canrenone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+carbidopa,2019,carbidopa,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Carbossimaltosio ferrico,,,,NIL,RxNorm current via RxNav,2026-06-28
+Carteololo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Carvedilolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Cefazolina,2180,cefazolin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Cefditoren,83682,cefditoren,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Cefixima,25033,cefixime,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Ceftriaxone,2193,ceftriaxone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Cetirizina,20610,cetirizine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+cianocobalamina,11248,vitamin B12,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Ciclesonide,274964,ciclesonide,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Ciclobenzaprina,21949,cyclobenzaprine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Ciclosporina,3008,cyclosporine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Cilostazolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Cinacalcet,407990,cinacalcet,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Ciprofloxacina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Citalopram,2556,citalopram,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Citicolina,997602,citicoline,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Clonazepam,2598,clonazepam,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Clopidogrel,32968,clopidogrel,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Clopidogrel/acido acetilsalicilico,,,,NIL,RxNorm current via RxNav,2026-06-28
+cloramfenicolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+clortalidone,,,,NIL,RxNorm current via RxNav,2026-06-28
+Clortalidone,,,,NIL,RxNorm current via RxNav,2026-06-28
+codeina,2670,codeine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Colchicina,2683,colchicine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+colecalciferolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Colecalciferolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Colestiramina,2447,cholestyramine resin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Colina alfoscerato,,,,NIL,RxNorm current via RxNav,2026-06-28
+Cortisone,2878,cortisone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Dabigatran,1546356,dabigatran,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Dapagliflozin,1488564,dapagliflozin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Dapagliflozin/metformina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Daptomicina,22299,daptomycin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Deflazacort,22396,deflazacort,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Degarelix,475230,degarelix,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Delorazepam,,,,NIL,RxNorm current via RxNav,2026-06-28
+Denosumab,993449,denosumab,IN,LINKED,RxNorm current via RxNav,2026-06-28
+desametasone,,,,NIL,RxNorm current via RxNav,2026-06-28
+Desametasone,,,,NIL,RxNorm current via RxNav,2026-06-28
+Desmopressina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Desogestrel,22656,desogestrel,IN,LINKED,RxNorm current via RxNav,2026-06-28
+diazepam,3322,diazepam,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Diazepam,3322,diazepam,IN,LINKED,RxNorm current via RxNav,2026-06-28
+dienogest,22968,dienogest,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Digossina,3407,digoxin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Diidrocodeina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Diltiazem,3443,diltiazem,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Dimeticone,324072,dimethicone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Diosmina,3489,diosmin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Diosmina/esperidina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Disopiramide,,,,NIL,RxNorm current via RxNav,2026-06-28
+Docusato sodico,,,,NIL,RxNorm current via RxNav,2026-06-28
+Docusato sodico/sorbitolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Dolutegravir,1433868,dolutegravir,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Dolutegravir/lamivudina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Dolutegravir/rilpivirina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Domperidone,3626,domperidone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Donepezil,135447,donepezil,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Dorzolamide,60207,dorzolamide,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Dorzolamide/timololo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Doxazosina,49276,doxazosin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Doxiciclina,3640,doxycycline,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Doxofillina,,,,NIL,RxNorm current via RxNav,2026-06-28
+drospirenone,11636,drospirenone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Drospirenone,11636,drospirenone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Dulaglutide,1551291,dulaglutide,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Duloxetina,72625,duloxetine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Dutasteride,228790,dutasteride,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Edoxaban,1599538,edoxaban,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Empagliflozin,1545653,empagliflozin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Empagliflozin/linagliptin,1598392,empagliflozin / linagliptin,MIN,LINKED,RxNorm current via RxNav,2026-06-28
+Empagliflozin/metformina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Emtricitabina,,,,UNAVAILABLE,RxNorm current via RxNav,2026-06-28
+emtricitabina,276237,emtricitabine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Emtricitabina/tenofovir alafenamide,,,,NIL,RxNorm current via RxNav,2026-06-28
+Enalapril,3827,enalapril,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Enalapril/lercanidipina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Enoxaparina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Eparina calcica,,,,NIL,RxNorm current via RxNav,2026-06-28
+Eplerenone,298869,eplerenone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Epoetina alfa,105694,epoetin alfa,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Epoetina zeta,,,,NIL,RxNorm current via RxNav,2026-06-28
+ertugliflozin,1992672,ertugliflozin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Ertugliflozin,1992672,ertugliflozin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Escitalopram,321988,escitalopram,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Esomeprazolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+esperidina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Estradiolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Estradiolo/dienogest,,,,NIL,RxNorm current via RxNav,2026-06-28
+Estradiolo/drospirenone,,,,NIL,RxNorm current via RxNav,2026-06-28
+Eszopiclone,461016,eszopiclone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Everolimus,141704,everolimus,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Evolocumab,1665684,evolocumab,IN,LINKED,RxNorm current via RxNav,2026-06-28
+ezetimibe,341248,ezetimibe,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Ezetimibe,341248,ezetimibe,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Ezetimibe/atorvastatina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Ezetimibe/simvastatina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Famotidina,4278,famotidine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Febuxostat,73689,febuxostat,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Fenobarbital,8134,phenobarbital,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Fenofibrato,8703,fenofibrate,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Ferro,,,,NIL,RxNorm current via RxNav,2026-06-28
+Ferroso glicina solfato,,,,NIL,RxNorm current via RxNav,2026-06-28
+Ferroso solfato,,,,NIL,RxNorm current via RxNav,2026-06-28
+Finasteride,25025,finasteride,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Finerenone,2562811,finerenone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Flecainide,4441,flecainide,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Fluconazolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Fluoxetina,4493,fluoxetine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Fluticasone,41126,fluticasone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+fluticasone,41126,fluticasone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Fluticasone/formoterolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Fluticasone/vilanterolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Fluvastatina,41127,fluvastatin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Fondaparinux,321208,fondaparinux,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Formoterolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+formoterolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Formoterolo/glicopirronio/budesonide,,,,NIL,RxNorm current via RxNav,2026-06-28
+Fosfomicina,4550,fosfomycin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Furosemide,4603,furosemide,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Furosemide/spironolattone,,,,NIL,RxNorm current via RxNav,2026-06-28
+Gabapentin,25480,gabapentin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Galcanezumab,2058846,galcanezumab,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Gemfibrozil,4719,gemfibrozil,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Gliclazide,4816,gliclazide,IN,LINKED,RxNorm current via RxNav,2026-06-28
+glicopirronio,1546438,glycopyrronium,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Glicopirronio,1546438,glycopyrronium,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Ibuprofene,5640,ibuprofen,IN,LINKED,RxNorm current via RxNav,2026-06-28
+idroclorotiazide,,,,NIL,RxNorm current via RxNav,2026-06-28
+Idroclorotiazide,,,,NIL,RxNorm current via RxNav,2026-06-28
+Idroxicarbamide,,,,NIL,RxNorm current via RxNav,2026-06-28
+Idroxizina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Indacaterolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Indacaterolo/glicopirronio,,,,NIL,RxNorm current via RxNav,2026-06-28
+indapamide,5764,indapamide,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Indapamide,5764,indapamide,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Insulina aspart,,,,NIL,RxNorm current via RxNav,2026-06-28
+Insulina degludec,1670007,insulin degludec,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Insulina degludec/liraglutide,,,,NIL,RxNorm current via RxNav,2026-06-28
+Insulina detemir,139825,insulin detemir,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Insulina glargine,,,,NIL,RxNorm current via RxNav,2026-06-28
+Insulina glulisina,400008,"insulin glulisine, human",IN,LINKED,RxNorm current via RxNav,2026-06-28
+Insulina icodec,,,,NIL,RxNorm current via RxNav,2026-06-28
+Insulina lispro,86009,insulin lispro,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Insulina lispro da dna ricombinante,,,,NIL,RxNorm current via RxNav,2026-06-28
+Insulina umana da dna ricombinante,,,,NIL,RxNorm current via RxNav,2026-06-28
+Irbesartan,83818,irbesartan,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Irbesartan/idroclorotiazide,,,,NIL,RxNorm current via RxNav,2026-06-28
+Isosorbide mononitrato,,,,NIL,RxNorm current via RxNav,2026-06-28
+Ivabradina,1649480,ivabradine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Ketoconazolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+l min da sforzo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Lacidipina,,,,NIL,RxNorm current via RxNav,2026-06-28
+lamivudina,68244,lamivudine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Lamotrigina,28439,lamotrigine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Lansoprazolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Latanoprost,43611,latanoprost,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Lattulosio,,,,NIL,RxNorm current via RxNav,2026-06-28
+Leflunomide,27169,leflunomide,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Lercanidipina,,,,NIL,RxNorm current via RxNav,2026-06-28
+lercanidipina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Letrozolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Levetiracetam,114477,levetiracetam,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Levocetirizina,356887,levocetirizine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Levodopa,6375,levodopa,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Levodopa/benserazide,619749,benserazide / levodopa,MIN,LINKED,RxNorm current via RxNav,2026-06-28
+Levodopa/carbidopa,103990,carbidopa / levodopa,MIN,LINKED,RxNorm current via RxNav,2026-06-28
+Levopropionilcarnitina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Levosulpiride,,,,NIL,RxNorm current via RxNav,2026-06-28
+Levotiroxina,,,,NIL,RxNorm current via RxNav,2026-06-28
+linagliptin,1100699,linagliptin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Linagliptin,1100699,linagliptin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+liraglutide,475968,liraglutide,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Lisinopril,29046,lisinopril,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Lisinopril/idroclorotiazide,,,,NIL,RxNorm current via RxNav,2026-06-28
+Litio,,,,NIL,RxNorm current via RxNav,2026-06-28
+Lorazepam,6470,lorazepam,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Lormetazepam,28894,lormetazepam,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Losartan,52175,losartan,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Lovastatina,6472,lovastatin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Macitentan,1442132,macitentan,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Magaldrato,29151,magaldrate,IN,LINKED,RxNorm current via RxNav,2026-06-28
+magnesio idrossido,,,,NIL,RxNorm current via RxNav,2026-06-28
+Magnesio solfato,,,,NIL,RxNorm current via RxNav,2026-06-28
+Manidipina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Melatonina,6711,melatonin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Memantina,6719,memantine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Mepolizumab,1720597,mepolizumab,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Mesalazina,52582,mesalamine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Mesoglicano,,,,NIL,RxNorm current via RxNav,2026-06-28
+Metadone,,,,NIL,RxNorm current via RxNav,2026-06-28
+Metformina,6809,metformin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+metformina,6809,metformin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Metilprednisolone,,,,NIL,RxNorm current via RxNav,2026-06-28
+Metirapone,,,,NIL,RxNorm current via RxNav,2026-06-28
+Metoclopramide,6915,metoclopramide,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Metolazone,6916,metolazone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Metoprololo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Metotrexato,6851,methotrexate,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Mexiletina,6926,mexiletine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Micofenolato mofetile,,,,NIL,RxNorm current via RxNav,2026-06-28
+Midazolam,6960,midazolam,IN,LINKED,RxNorm current via RxNav,2026-06-28
+min a riposo,,,,NIL,RxNorm current via RxNav,2026-06-28
+min al bisogno,,,,NIL,RxNorm current via RxNav,2026-06-28
+Mirtazapina,15996,mirtazapine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Mometasone,108118,mometasone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Mometasone furoato,,,,NIL,RxNorm current via RxNav,2026-06-28
+Mometasone furoato/olopatadina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Montelukast,88249,montelukast,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Morfina,7052,morphine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Nadololo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Naldemedina,,,,NIL,RxNorm current via RxNav,2026-06-28
+naloxone,7242,naloxone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Nebivololo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Nebivololo/idroclorotiazide,,,,NIL,RxNorm current via RxNav,2026-06-28
+Nepafenac,298665,nepafenac,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Nessun principio attivo,,,,NIL,RxNorm current via RxNav,2026-06-28
+nicotinamide,7405,niacinamide,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Nifedipina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Nimodipina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Nintedanib,1592737,nintedanib,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Nistatina,7597,nystatin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Nitroglicerina,4917,nitroglycerin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Olanzapina,61381,olanzapine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Olmesartan medoxomil,118463,olmesartan medoxomil,PIN,LINKED,RxNorm current via RxNav,2026-06-28
+Olmesartan medoxomil/amlodipina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Olmesartan medoxomil/amlodipina/idroclorotiazide,,,,NIL,RxNorm current via RxNav,2026-06-28
+Olmesartan medoxomil/idroclorotiazide,,,,NIL,RxNorm current via RxNav,2026-06-28
+olodaterolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+olopatadina,135391,olopatadine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Omega polienoici,,,,NIL,RxNorm current via RxNav,2026-06-28
+Omeprazolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Oseltamivir,260101,oseltamivir,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Osimertinib,1721560,osimertinib,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Ottatropina metilbromuro,,,,NIL,RxNorm current via RxNav,2026-06-28
+Ottatropina metilbromuro/diazepam,,,,NIL,RxNorm current via RxNav,2026-06-28
+Oxacillina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Oxatomide,54236,oxatomide,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Pancrelipasi,,,,NIL,RxNorm current via RxNav,2026-06-28
+Pantoprazolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Paracetamolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Paracetamolo/codeina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Paroxetina,32937,paroxetine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Perfenazina,8076,perphenazine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Perfenazina/amitriptilina,,,,NIL,RxNorm current via RxNav,2026-06-28
+perindopril,54552,perindopril,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Perindopril,54552,perindopril,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Perindopril/amlodipina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Perindopril/indapamide,388499,indapamide / perindopril,MIN,LINKED,RxNorm current via RxNav,2026-06-28
+Perindopril/indapamide/amlodipina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Pioglitazone,33738,pioglitazone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+piridossina,,,,NIL,RxNorm current via RxNav,2026-06-28
+piridossina cloridrato,,,,NIL,RxNorm current via RxNav,2026-06-28
+Potassio canrenoato,,,,NIL,RxNorm current via RxNav,2026-06-28
+potassio cloruro,,,,NIL,RxNorm current via RxNav,2026-06-28
+Potassio cloruro,,,,NIL,RxNorm current via RxNav,2026-06-28
+Pramipexolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Prasugrel,613391,prasugrel,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Pravastatina,42463,pravastatin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Prednisone,8640,prednisone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Pregabalin,187832,pregabalin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Promazina,8742,promazine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Propafenone,8754,propafenone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Propofol,8782,propofol,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Propranololo,8787,propranolol,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Quetiapina,51272,quetiapine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Rabeprazolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Ramipril,35296,ramipril,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Ramipril/amlodipina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Ramipril/bisoprololo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Ramipril/idroclorotiazide,,,,NIL,RxNorm current via RxNav,2026-06-28
+Ranolazina,35829,ranolazine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Rasagilina,134748,rasagiline,IN,LINKED,RxNorm current via RxNav,2026-06-28
+riboflavina,9346,riboflavin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Rifampicina,9384,rifampin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Rifaximina,35619,rifaximin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+rilpivirina,1102270,rilpivirine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Riociguat,1439816,riociguat,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Risperidone,35636,risperidone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Rivaroxaban,1114195,rivaroxaban,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Rivastigmina,183379,rivastigmine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Ropinirolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Rosuvastatina,301542,rosuvastatin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Rosuvastatina/acido acetilsalicilico,,,,NIL,RxNorm current via RxNav,2026-06-28
+Rosuvastatina/amlodipina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Rosuvastatina/ezetimibe,,,,NIL,RxNorm current via RxNav,2026-06-28
+Roxadustat,,,,NIL,RxNorm current via RxNav,2026-06-28
+Sacubitril,1656328,sacubitril,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Sacubitril/valsartan,1656339,sacubitril / valsartan,MIN,LINKED,RxNorm current via RxNav,2026-06-28
+salbutamolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Salbutamolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Salmeterolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Salmeterolo/fluticasone,,,,NIL,RxNorm current via RxNav,2026-06-28
+Selegilina,9639,selegiline,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Selexipag,1729002,selexipag,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Semaglutide,1991302,semaglutide,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Sertralina,36437,sertraline,IN,LINKED,RxNorm current via RxNav,2026-06-28
+sett,,,,NIL,RxNorm current via RxNav,2026-06-28
+Sevelamer,214824,sevelamer,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Sildenafil,136411,sildenafil,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Silodosina,720825,silodosin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+simvastatina,36567,simvastatin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Simvastatina,36567,simvastatin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Sitagliptin,593411,sitagliptin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Sitagliptin/ertugliflozin,1992825,ertugliflozin / sitagliptin,MIN,LINKED,RxNorm current via RxNav,2026-06-28
+Sitagliptin/metformina,,,,NIL,RxNorm current via RxNav,2026-06-28
+sodio bicarbonato,36676,sodium bicarbonate,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Sodio bicarbonato,36676,sodium bicarbonate,IN,LINKED,RxNorm current via RxNav,2026-06-28
+sodio cloruro,,,,NIL,RxNorm current via RxNav,2026-06-28
+Sodio ferrigluconato,,,,NIL,RxNorm current via RxNav,2026-06-28
+Sodio polistirensulfonato,,,,NIL,RxNorm current via RxNav,2026-06-28
+sodio valproato,,,,NIL,RxNorm current via RxNav,2026-06-28
+Sodio zirconio ciclosilicato,,,,NIL,RxNorm current via RxNav,2026-06-28
+Somatropina,61148,somatropin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+sorbitolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Sotalolo,9947,sotalol,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Spironolattone,9997,spironolactone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+spironolattone,9997,spironolactone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Statina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Sucralfato,10156,sucralfate,IN,LINKED,RxNorm current via RxNav,2026-06-28
+sulfametoxazolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Sumatriptan,37418,sumatriptan,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Tacrolimus,42316,tacrolimus,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Tadalafil,358263,tadalafil,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Tafamidis,1545063,tafamidis,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Tafluprost,1244607,tafluprost,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Tamoxifene,10324,tamoxifen,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Tamsulosina,77492,tamsulosin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Tapentadolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Telmisartan,73494,telmisartan,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Telmisartan/idroclorotiazide,,,,NIL,RxNorm current via RxNav,2026-06-28
+Tenofovir alafenamide,1721603,tenofovir alafenamide,IN,LINKED,RxNorm current via RxNav,2026-06-28
+tenofovir alafenamide,1721603,tenofovir alafenamide,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Terazosina,37798,terazosin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Tiamina,10454,thiamine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Tiamina nitrato,,,,NIL,RxNorm current via RxNav,2026-06-28
+Tibolone,38260,tibolone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Ticagrelor,1116632,ticagrelor,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Ticlopidina,10594,ticlopidine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+timololo,10600,timolol,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Timololo,10600,timolol,IN,LINKED,RxNorm current via RxNav,2026-06-28
+timololo maleato,,,,NIL,RxNorm current via RxNav,2026-06-28
+Timololo/bimatoprost,,,,NIL,RxNorm current via RxNav,2026-06-28
+Tiotropio,,,,NIL,RxNorm current via RxNav,2026-06-28
+Tiotropio/olodaterolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Tirzepatide,2601723,tirzepatide,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Tobramicina,10627,tobramycin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Tobramicina/desametasone,,,,NIL,RxNorm current via RxNav,2026-06-28
+Topiramato,38404,topiramate,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Torasemide,38413,torsemide,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Tramadolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Travoprost,283809,travoprost,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Trazodone,10737,trazodone,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Treprostinil,343048,treprostinil,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Triazolam,10767,triazolam,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Trimetoprim,,,,NIL,RxNorm current via RxNav,2026-06-28
+Trimetoprim/sulfametoxazolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+umeclidinio,,,,NIL,RxNorm current via RxNav,2026-06-28
+Umeclidinio,,,,NIL,RxNorm current via RxNav,2026-06-28
+Umeclidinio/vilanterolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Valganciclovir,275891,valganciclovir,IN,LINKED,RxNorm current via RxNav,2026-06-28
+valsartan,69749,valsartan,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Valsartan,69749,valsartan,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Valsartan/idroclorotiazide,,,,NIL,RxNorm current via RxNav,2026-06-28
+Venlafaxina,39786,venlafaxine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Verapamil,11170,verapamil,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Vericiguat,2475830,vericiguat,IN,LINKED,RxNorm current via RxNav,2026-06-28
+vilanterolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Vilanterolo,,,,NIL,RxNorm current via RxNav,2026-06-28
+Vilanterolo/umeclidinio/fluticasone,,,,NIL,RxNorm current via RxNav,2026-06-28
+Vildagliptin,596554,vildagliptin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Vildagliptin/metformina,,,,NIL,RxNorm current via RxNav,2026-06-28
+Vortioxetina,1455099,vortioxetine,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Warfarin,11289,warfarin,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Warfarin sodico,,,,NIL,RxNorm current via RxNav,2026-06-28
+Zofenopril,39990,zofenopril,IN,LINKED,RxNorm current via RxNav,2026-06-28
+Zolpidem,39993,zolpidem,IN,LINKED,RxNorm current via RxNav,2026-06-28
