@@ -1,4 +1,4 @@
-# Gold annotations — 50-patient evaluation set
+# Gold annotations - 50-patient evaluation set
 
 Single-annotator project gold used by Section 9 of `notebooks/clinical_nlp_pipeline.ipynb`. It was
 built by **automatic pre-annotation** (the deterministic workflow in

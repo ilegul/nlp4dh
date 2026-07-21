@@ -1,5 +1,4 @@
 normalized_brand,brand_example,ingredient_label,active_ingredients,observation_count,total_brand_observations,relative_frequency,rank,is_unique_top_candidate
-2 5 mg,2.5 mg,Enalapril,"[""Enalapril""]",1,1,1.0,1,True
 abesart,Abesart,Irbesartan,"[""Irbesartan""]",2,2,1.0,1,True
 abigerd,Abigerd,Esomeprazolo,"[""Esomeprazolo""]",7,7,1.0,1,True
 abis,Abis,Amlodipina,"[""Amlodipina""]",2,2,1.0,1,True

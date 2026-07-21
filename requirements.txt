@@ -1,4 +1,4 @@
-# ── Clinical NLP pipeline — Python 3.10 ─────────────────────────────────────────────────────
+# ── Clinical NLP pipeline - Python 3.10 ─────────────────────────────────────────────────────
 # Pinned to the versions the notebook was developed and run against.
 #
 # PyTorch is the CUDA 12.1 build (for the GTX 1650). The +cu121 wheels are NOT on PyPI, so the
@@ -25,14 +25,14 @@ pyarrow==24.0.0          # pandas Parquet engine (cached intermediates)
 matplotlib==3.10.9
 networkx==3.3
 
-# ── Local LLM client (the Ollama *server* is installed separately — see README) ─────────────
+# ── Local LLM client (the Ollama *server* is installed separately - see README) ─────────────
 ollama==0.6.1
 
 # ── Notebook runtime ────────────────────────────────────────────────────────────────────────
 notebook==6.4.12
 ipykernel==6.15.0
 
-# ── NOT installable via pip — see README.md "Setup" ─────────────────────────────────────────
+# ── NOT installable via pip - see README.md "Setup" ─────────────────────────────────────────
 #   python -m spacy download it_core_news_lg
 #   ollama pull qwen2.5:3b-instruct
 #   HF models auto-download on first use: intfloat/multilingual-e5-small,
