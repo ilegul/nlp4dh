@@ -1,0 +1,22 @@
+annotation_id,encOid,reportOid,start,end,allergen_text,allergen_kind,status,assertion,gold_key,annotation_note,evaluation_scope
+ALG001,10060547,25382113,35,53,Mezzo di contrasto,drug_class,allergy,affirmed,V08,campo strutturato del template,exhaustive_allergen_mentions_all_50_anamneses
+ALG002,10060547,25382113,282,292,MDC iodato,drug_class,allergy,affirmed,V08A,shock anafilattico,exhaustive_allergen_mentions_all_50_anamneses
+ALG003,10060547,25382113,327,335,IOPAMIRO,ingredient,allergy,affirmed,iopamidolo,nome commerciale; reazione cutanea nonostante premedicazione,exhaustive_allergen_mentions_all_50_anamneses
+ALG004,10060547,25382113,2808,2833,mezzo di contrasto iodato,drug_class,allergy,affirmed,V08A,"urbason/trimeton sono la terapia della reazione, non allergeni",exhaustive_allergen_mentions_all_50_anamneses
+ALG005,10062206,25357767,1705,1715,eplerenone,ingredient,intolerance,affirmed,eplerenone,'non tollerato per fastidio aspecifico',exhaustive_allergen_mentions_all_50_anamneses
+ALG006,10067420,25387200,26,29,MdC,drug_class,allergy,negated,V08,"'farmaci' non annotato: categoria generica, non una classe",exhaustive_allergen_mentions_all_50_anamneses
+ALG007,10070376,25400108,3289,3298,fillinici,drug_class,allergy,affirmed,R03DA,reazione insorta durante il ricovero,exhaustive_allergen_mentions_all_50_anamneses
+ALG008,10070376,25400108,3353,3359,Trixeo,ingredient,intolerance,affirmed,budesonide/glicopirronio/formoterolo,nome commerciale di un prodotto di associazione (ATC R03AL11); sospeso per edema al volto,exhaustive_allergen_mentions_all_50_anamneses
+ALG009,10082897,25444328,300,312,Paracetamolo,ingredient,allergy,affirmed,paracetamolo,reazione: edema perilabiale,exhaustive_allergen_mentions_all_50_anamneses
+ALG010,10082897,25444328,315,335,Ac. Acetilsalicilico,ingredient,allergy,affirmed,acido acetilsalicilico,reazione: edema perilabiale,exhaustive_allergen_mentions_all_50_anamneses
+ALG011,10110774,25541514,3499,3519,sacubitril/valsartan,ingredient,intolerance,affirmed,sacubitril/valsartan,'non tollerata per ipotensione sintomatica',exhaustive_allergen_mentions_all_50_anamneses
+ALG012,10126600,25593460,42,49,polveri,non_drug,allergy,affirmed,NIL,,exhaustive_allergen_mentions_all_50_anamneses
+ALG013,10126600,25593460,51,68,fumo di sigaretta,non_drug,allergy,affirmed,NIL,,exhaustive_allergen_mentions_all_50_anamneses
+ALG014,10126600,25593460,70,77,pollini,non_drug,allergy,affirmed,NIL,,exhaustive_allergen_mentions_all_50_anamneses
+ALG015,10158675,25751780,50,63,Atorvastatina,ingredient,intolerance,affirmed,atorvastatina,campo Intolleranze; mialgie,exhaustive_allergen_mentions_all_50_anamneses
+ALG016,10162392,25779729,474,485,calciparina,ingredient,intolerance,affirmed,eparina calcica,dolori alle logge renali,exhaustive_allergen_mentions_all_50_anamneses
+ALG017,10166480,25738952,45,52,celiaca,non_drug,allergy,affirmed,NIL,nome di condizione nel campo allergie; allergene implicito (glutine) non scritto,exhaustive_allergen_mentions_all_50_anamneses
+ALG018,10190890,25832167,204,212,pomodoro,non_drug,allergy,affirmed,NIL,allergene mai identificato: attribuzione incerta,exhaustive_allergen_mentions_all_50_anamneses
+ALG019,10190890,25832167,216,230,alcuni metalli,non_drug,allergy,affirmed,NIL,allergene mai identificato: attribuzione incerta,exhaustive_allergen_mentions_all_50_anamneses
+ALG020,10200023,25900351,178,181,ASA,ingredient,allergy,negated,acido acetilsalicilico,allergia ESCLUSA da indagini specialistiche,exhaustive_allergen_mentions_all_50_anamneses
+ALG021,10214205,25875940,701,708,tazocin,ingredient,allergy,affirmed,piperacillina/tazobactam,reazione 'di ndd'; attribuzione per adiacenza temporale,exhaustive_allergen_mentions_all_50_anamneses

@@ -17,3 +17,27 @@ Thumbs.db
 # limits. The pipeline only reads the normalized/ versions; provenance is documented in each
 # resource's manifest.json.
 data/external/*/raw/
+
+# Credentials. The UMLS API key is read from the environment; .env.example is the only committed
+# template and holds no value.
+.env
+.env.*
+!.env.example
+
+# UMLS is licensed content. Neither the release archive, anything extracted from it, nor any local
+# cache built from the API may be committed.
+data/external/umls/
+data/external/umls_cache/
+outputs/umls_cache/
+cache/umls/
+*.rrf
+*.RRF
+*UMLS*.zip
+*UMLS*.tar.gz
+
+# UMLS content is licensed: no copy of the cache may be committed, wherever it lands
+**/umls_cache/
+**/umls_gold_export/
+
+# Personal study notes, not part of the delivery
+clinical_nlp_pipeline_umls_submission_report.md

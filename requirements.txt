@@ -12,18 +12,25 @@ torch==2.5.1+cu121
 transformers==5.6.2
 sentence-transformers==5.6.0
 gliner==0.2.27
-spacy==3.8.14
+spacy==3.7.5
+huggingface-hub==1.23.0  # model download for GLiNER and E5
+tqdm==4.68.2             # progress bars from the model libraries
+medspacy==1.3.1           # ConText implementation used for the context axes
 scikit-learn==1.7.2
 
 # ── Knowledge graph & data ──────────────────────────────────────────────────────────────────
 rdflib==7.6.0
 pandas==2.3.1
-numpy==2.2.6
+numpy==1.26.4
 pyarrow==24.0.0          # pandas Parquet engine (cached intermediates)
 
 # ── Visualisation ───────────────────────────────────────────────────────────────────────────
 matplotlib==3.10.9
 networkx==3.3
+
+# ── HTTP clients ────────────────────────────────────────────────────────────────────────────
+requests==2.34.2         # UMLS UTS REST API
+httpx==0.28.1            # carries the Ollama client's transport errors, caught by name in Section 9
 
 # ── Local LLM client (the Ollama *server* is installed separately - see README) ─────────────
 ollama==0.6.1
@@ -31,9 +38,10 @@ ollama==0.6.1
 # ── Notebook runtime ────────────────────────────────────────────────────────────────────────
 notebook==6.4.12
 ipykernel==6.15.0
+ipython==8.4.0           # IPython.display.display / HTML, used for every table in the notebook
 
 # ── NOT installable via pip - see README.md "Setup" ─────────────────────────────────────────
 #   python -m spacy download it_core_news_lg
 #   ollama pull qwen2.5:3b-instruct
 #   HF models auto-download on first use: intfloat/multilingual-e5-small,
-#     urchade/gliner_multi-v2.1, MoritzLaurer/mDeBERTa-v3-base-mnli-xnli
+#     urchade/gliner_multi-v2.1
