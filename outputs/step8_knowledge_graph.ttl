@@ -1134,7 +1134,7 @@ ex:alert_10067388_0_drug_drug_interaction a ex:Alert,
 ex:alert_10067393_0_duplicate_active_ingredient a ex:Alert,
         ex:DuplicateIngredientAlert ;
     ex:alertType "duplicate_active_ingredient" ;
-    ex:detail "eutirox in 2 prescriptions (same product: n/a)" ;
+    ex:detail "levotiroxina in 2 prescriptions (same product: n/a)" ;
     ex:involvesDrug ex:ing_levotiroxina ;
     ex:ruleConfidence "high" ;
     ex:source "discharge prescriptions" .
@@ -1333,17 +1333,6 @@ ex:alert_10070392_0_drug_drug_interaction a ex:Alert,
     ex:ruleConfidence "high" ;
     ex:severity "Moderate" ;
     ex:source "DDInter 2.0" .
-
-ex:alert_10070392_1_drug_intolerance_class a ex:Alert,
-        ex:DrugAllergyAlert ;
-    ex:alertType "drug_intolerance_class" ;
-    ex:allergyStatus "intolerance" ;
-    ex:detail "Rosuvastatina (C10AA07) is under C10AA, the class of statina" ;
-    ex:involvesAllergen "statina" ;
-    ex:involvesDrug ex:ing_rosuvastatina ;
-    ex:ruleConfidence "medium" ;
-    ex:source "ATC hierarchy" ;
-    ex:supportedBy ex:allergy_10070392_39 .
 
 ex:alert_10070442_0_duplicate_active_ingredient a ex:Alert,
         ex:DuplicateIngredientAlert ;
@@ -3101,6 +3090,15 @@ ex:alert_10092658_0_drug_drug_interaction a ex:Alert,
     ex:ruleConfidence "high" ;
     ex:severity "Moderate" ;
     ex:source "DDInter 2.0" .
+
+ex:alert_10092658_1_drug_disease_contraindication a ex:Alert,
+        ex:DrugConditionContraindicationAlert ;
+    ex:alertType "drug_disease_contraindication" ;
+    ex:detail "Amiodarone contraindicated in Syncope (mention: sincope)" ;
+    ex:involvesCondition ex:mention_10092658_238_245 ;
+    ex:involvesDrug ex:ing_amiodarone ;
+    ex:ruleConfidence "low" ;
+    ex:source "MED-RT" .
 
 ex:alert_10092670_0_drug_drug_interaction a ex:Alert,
         ex:DrugDrugInteractionAlert ;
@@ -5815,6 +5813,15 @@ ex:alert_10131527_5_drug_disease_contraindication a ex:Alert,
     ex:ruleConfidence "low" ;
     ex:source "MED-RT" .
 
+ex:alert_10131527_6_drug_disease_contraindication a ex:Alert,
+        ex:DrugConditionContraindicationAlert ;
+    ex:alertType "drug_disease_contraindication" ;
+    ex:detail "Acido folico contraindicated in Anemia, Iron-Deficiency (mention: anemia sideropenica)" ;
+    ex:involvesCondition ex:mention_10131527_550_569 ;
+    ex:involvesDrug ex:ing_acido_folico ;
+    ex:ruleConfidence "low" ;
+    ex:source "MED-RT" .
+
 ex:alert_10131767_0_drug_drug_interaction a ex:Alert,
         ex:DrugDrugInteractionAlert ;
     ex:alertType "drug_drug_interaction" ;
@@ -7037,6 +7044,15 @@ ex:alert_10145131_1_drug_disease_contraindication a ex:Alert,
     ex:detail "spironolattone contraindicated in Hypersensitivity (mention: ALLERGIE)" ;
     ex:involvesCondition ex:mention_10145131_0_8 ;
     ex:involvesDrug ex:ing_spironolattone ;
+    ex:ruleConfidence "low" ;
+    ex:source "MED-RT" .
+
+ex:alert_10145752_0_drug_disease_contraindication a ex:Alert,
+        ex:DrugConditionContraindicationAlert ;
+    ex:alertType "drug_disease_contraindication" ;
+    ex:detail "Warfarin sodico contraindicated in Endocarditis, Bacterial (mention: endocardite batterica)" ;
+    ex:involvesCondition ex:mention_10145752_1435_1456 ;
+    ex:involvesDrug ex:ing_warfarin ;
     ex:ruleConfidence "low" ;
     ex:source "MED-RT" .
 
@@ -11183,6 +11199,15 @@ ex:alert_10207628_1_drug_drug_interaction a ex:Alert,
     ex:severity "Moderate" ;
     ex:source "DDInter 2.0" .
 
+ex:alert_10207628_2_drug_disease_contraindication a ex:Alert,
+        ex:DrugConditionContraindicationAlert ;
+    ex:alertType "drug_disease_contraindication" ;
+    ex:detail "Acido acetilsalicilico contraindicated in Rhinitis (mention: rinite)" ;
+    ex:involvesCondition ex:mention_10207628_266_272 ;
+    ex:involvesDrug ex:ing_acido_acetilsalicilico ;
+    ex:ruleConfidence "low" ;
+    ex:source "MED-RT" .
+
 ex:alert_10207629_0_drug_drug_interaction a ex:Alert,
         ex:DrugDrugInteractionAlert ;
     ex:alertType "drug_drug_interaction" ;
@@ -13284,6 +13309,17 @@ ex:allergy_10070390_42 a ex:AllergyRecord ;
     ex:extractedBy "template regex" ;
     ex:linkStatus "NIL" ;
     ex:startOffset 42 .
+
+ex:allergy_10070392_39 a ex:AllergyRecord ;
+    ex:aboutClass atc:C10AA ;
+    ex:allergenKind "drug_class" ;
+    ex:allergenRaw "statina" ;
+    ex:allergyStatus "intolerance" ;
+    ex:assertion "affirmed" ;
+    ex:derivedFrom ex:report_25479846 ;
+    ex:endOffset 46 ;
+    ex:extractedBy "template regex" ;
+    ex:startOffset 39 .
 
 ex:allergy_10070393_52 a ex:AllergyRecord ;
     ex:aboutIngredient ex:ing_metamizolo ;
@@ -62431,17 +62467,6 @@ ex:mention_10092658_194_209 a ex:ClinicalMention ;
     ex:startOffset 194 ;
     ex:temporality "unspecified" .
 
-ex:mention_10092658_238_245 a ex:ClinicalMention ;
-    rdfs:label "sincope" ;
-    ex:assertion "affirmed" ;
-    ex:denotes umls:C0039070 ;
-    ex:derivedFrom ex:report_25484240 ;
-    ex:endOffset 245 ;
-    ex:experiencer "patient" ;
-    ex:section "remota" ;
-    ex:startOffset 238 ;
-    ex:temporality "historical" .
-
 ex:mention_10092658_252_267 a ex:ClinicalMention ;
     rdfs:label "stenosi aortica" ;
     ex:assertion "affirmed" ;
@@ -104490,18 +104515,6 @@ ex:mention_10131527_5165_5178 a ex:ClinicalMention ;
     ex:temporality "unspecified" ;
     ex:year 2025 .
 
-ex:mention_10131527_550_569 a ex:ClinicalMention ;
-    rdfs:label "anemia sideropenica" ;
-    ex:assertion "affirmed" ;
-    ex:denotes umls:C0162316 ;
-    ex:derivedFrom ex:report_25603913 ;
-    ex:endOffset 569 ;
-    ex:experiencer "patient" ;
-    ex:section "fisiologica" ;
-    ex:startOffset 550 ;
-    ex:temporality "historical" ;
-    ex:year 2020 .
-
 ex:mention_10131527_5583_5595 a ex:ClinicalMention ;
     rdfs:label "PCT negativa" ;
     ex:assertion "affirmed" ;
@@ -122083,17 +122096,6 @@ ex:mention_10145752_1383_1422 a ex:ClinicalMention ;
     ex:section "apertura" ;
     ex:startOffset 1383 ;
     ex:temporality "unspecified" .
-
-ex:mention_10145752_1435_1456 a ex:ClinicalMention ;
-    rdfs:label "endocardite batterica" ;
-    ex:assertion "affirmed" ;
-    ex:denotes umls:C0014121 ;
-    ex:derivedFrom ex:report_25650137 ;
-    ex:endOffset 1456 ;
-    ex:experiencer "patient" ;
-    ex:section "apertura" ;
-    ex:startOffset 1435 ;
-    ex:temporality "historical" .
 
 ex:mention_10145752_1458_1481 a ex:ClinicalMention ;
     rdfs:label "pregresso shock settico" ;
@@ -183169,17 +183171,6 @@ ex:mention_10207628_25_33 a ex:ClinicalMention ;
     ex:section "allergie" ;
     ex:startOffset 25 ;
     ex:temporality "unspecified" .
-
-ex:mention_10207628_266_272 a ex:ClinicalMention ;
-    rdfs:label "rinite" ;
-    ex:assertion "affirmed" ;
-    ex:denotes umls:C0035455 ;
-    ex:derivedFrom ex:report_25920673 ;
-    ex:endOffset 272 ;
-    ex:experiencer "patient" ;
-    ex:section "remota" ;
-    ex:startOffset 266 ;
-    ex:temporality "historical" .
 
 ex:mention_10207628_299_318 a ex:ClinicalMention ;
     rdfs:label "ernia inguinale sx." ;
@@ -259129,17 +259120,6 @@ umls:C6063218 a ex:UMLSConcept ;
     ex:semanticType "Acquired Abnormality" ;
     skos:notation "C6063218" .
 
-ex:allergy_10070392_39 a ex:AllergyRecord ;
-    ex:aboutClass atc:C10AA ;
-    ex:allergenKind "drug_class" ;
-    ex:allergenRaw "statina" ;
-    ex:allergyStatus "intolerance" ;
-    ex:assertion "affirmed" ;
-    ex:derivedFrom ex:report_25479846 ;
-    ex:endOffset 46 ;
-    ex:extractedBy "template regex" ;
-    ex:startOffset 39 .
-
 ex:allergy_10075117_41 a ex:AllergyRecord ;
     ex:aboutIngredient ex:ing_bisoprololo ;
     ex:allergenKind "ingredient" ;
@@ -260091,6 +260071,17 @@ ex:mention_10092253_25_33 a ex:ClinicalMention ;
     ex:startOffset 25 ;
     ex:temporality "unspecified" .
 
+ex:mention_10092658_238_245 a ex:ClinicalMention ;
+    rdfs:label "sincope" ;
+    ex:assertion "affirmed" ;
+    ex:denotes umls:C0039070 ;
+    ex:derivedFrom ex:report_25484240 ;
+    ex:endOffset 245 ;
+    ex:experiencer "patient" ;
+    ex:section "remota" ;
+    ex:startOffset 238 ;
+    ex:temporality "historical" .
+
 ex:mention_10092714_4671_4693 a ex:ClinicalMention ;
     rdfs:label "ipertensione polmonare" ;
     ex:assertion "affirmed" ;
@@ -260440,6 +260431,18 @@ ex:mention_10131527_1100_1111 a ex:ClinicalMention ;
     ex:temporality "unspecified" ;
     ex:year 2005 .
 
+ex:mention_10131527_550_569 a ex:ClinicalMention ;
+    rdfs:label "anemia sideropenica" ;
+    ex:assertion "affirmed" ;
+    ex:denotes umls:C0162316 ;
+    ex:derivedFrom ex:report_25603913 ;
+    ex:endOffset 569 ;
+    ex:experiencer "patient" ;
+    ex:section "fisiologica" ;
+    ex:startOffset 550 ;
+    ex:temporality "historical" ;
+    ex:year 2020 .
+
 ex:mention_10131527_7015_7026 a ex:ClinicalMention ;
     rdfs:label "ipotensione" ;
     ex:assertion "affirmed" ;
@@ -260599,6 +260602,17 @@ ex:mention_10145131_0_8 a ex:ClinicalMention ;
     ex:section "apertura" ;
     ex:startOffset 0 ;
     ex:temporality "unspecified" .
+
+ex:mention_10145752_1435_1456 a ex:ClinicalMention ;
+    rdfs:label "endocardite batterica" ;
+    ex:assertion "affirmed" ;
+    ex:denotes umls:C0014121 ;
+    ex:derivedFrom ex:report_25650137 ;
+    ex:endOffset 1456 ;
+    ex:experiencer "patient" ;
+    ex:section "apertura" ;
+    ex:startOffset 1435 ;
+    ex:temporality "historical" .
 
 ex:mention_10152472_169_191 a ex:ClinicalMention ;
     rdfs:label "Ipertensione arteriosa" ;
@@ -260838,6 +260852,17 @@ ex:mention_10203818_25_33 a ex:ClinicalMention ;
     ex:section "allergie" ;
     ex:startOffset 25 ;
     ex:temporality "unspecified" .
+
+ex:mention_10207628_266_272 a ex:ClinicalMention ;
+    rdfs:label "rinite" ;
+    ex:assertion "affirmed" ;
+    ex:denotes umls:C0035455 ;
+    ex:derivedFrom ex:report_25920673 ;
+    ex:endOffset 272 ;
+    ex:experiencer "patient" ;
+    ex:section "remota" ;
+    ex:startOffset 266 ;
+    ex:temporality "historical" .
 
 ex:mention_10207629_25_33 a ex:ClinicalMention ;
     rdfs:label "Allergie" ;
@@ -262696,6 +262721,8 @@ umls:C6068961 a ex:UMLSConcept ;
     rdfs:label "[Colon Major Histological Diagnosis] TSA" ;
     ex:semanticType "Finding" ;
     skos:notation "C6068961" .
+
+ex:DrugAllergyAlert rdfs:subClassOf ex:Alert .
 
 atc:A02B a ex:ATCClass ;
     rdfs:subClassOf atc:A02 ;
@@ -266565,8 +266592,7 @@ ex:patient_10070390 a ex:Patient ;
 
 ex:patient_10070392 a ex:Patient ;
     ex:encOid 10070392 ;
-    ex:hasAlert ex:alert_10070392_0_drug_drug_interaction,
-        ex:alert_10070392_1_drug_intolerance_class ;
+    ex:hasAlert ex:alert_10070392_0_drug_drug_interaction ;
     ex:hasAllergyRecord ex:allergy_10070392_39 ;
     ex:hasMention ex:mention_10070392_1075_1082,
         ex:mention_10070392_1131_1148,
@@ -270296,7 +270322,8 @@ ex:patient_10092323 a ex:Patient ;
 
 ex:patient_10092658 a ex:Patient ;
     ex:encOid 10092658 ;
-    ex:hasAlert ex:alert_10092658_0_drug_drug_interaction ;
+    ex:hasAlert ex:alert_10092658_0_drug_drug_interaction,
+        ex:alert_10092658_1_drug_disease_contraindication ;
     ex:hasMention ex:mention_10092658_1097_1114,
         ex:mention_10092658_1196_1222,
         ex:mention_10092658_124_136,
@@ -276833,7 +276860,8 @@ ex:patient_10131527 a ex:Patient ;
         ex:alert_10131527_2_drug_drug_interaction,
         ex:alert_10131527_3_drug_drug_interaction,
         ex:alert_10131527_4_drug_disease_contraindication,
-        ex:alert_10131527_5_drug_disease_contraindication ;
+        ex:alert_10131527_5_drug_disease_contraindication,
+        ex:alert_10131527_6_drug_disease_contraindication ;
     ex:hasMention ex:mention_10131527_1036_1070,
         ex:mention_10131527_1085_1096,
         ex:mention_10131527_1100_1111,
@@ -279679,6 +279707,7 @@ ex:patient_10145131 a ex:Patient ;
 
 ex:patient_10145752 a ex:Patient ;
     ex:encOid 10145752 ;
+    ex:hasAlert ex:alert_10145752_0_drug_disease_contraindication ;
     ex:hasMention ex:mention_10145752_0_32,
         ex:mention_10145752_1174_1198,
         ex:mention_10145752_1200_1217,
@@ -289155,7 +289184,8 @@ ex:patient_10207627 a ex:Patient ;
 ex:patient_10207628 a ex:Patient ;
     ex:encOid 10207628 ;
     ex:hasAlert ex:alert_10207628_0_drug_drug_interaction,
-        ex:alert_10207628_1_drug_drug_interaction ;
+        ex:alert_10207628_1_drug_drug_interaction,
+        ex:alert_10207628_2_drug_disease_contraindication ;
     ex:hasMention ex:mention_10207628_136_169,
         ex:mention_10207628_179_197,
         ex:mention_10207628_25_33,
@@ -294249,8 +294279,6 @@ umls:C5967677 a ex:UMLSConcept ;
     rdfs:label "Akinesis of basal inferior segment of left cardiac ventricle" ;
     ex:semanticType "Finding" ;
     skos:notation "C5967677" .
-
-ex:DrugAllergyAlert rdfs:subClassOf ex:Alert .
 
 atc:A10AE a ex:ATCClass ;
     rdfs:subClassOf atc:A10A ;
@@ -308745,13 +308773,6 @@ umls:C0039231 a ex:UMLSConcept ;
 
 ex:DuplicateIngredientAlert rdfs:subClassOf ex:Alert .
 
-ex:ing_amiodarone a ex:ActiveIngredient ;
-    rdfs:label "Amiodarone" ;
-    ex:atcClass atc:C01BD01 ;
-    skos:altLabel "AMIODARONE",
-        "Amiodarone" ;
-    skos:notation "amiodarone" .
-
 ex:report_25496951 a ex:Report ;
     rdfs:label "Anamnesi - 10095266" ;
     ex:aboutPatient ex:patient_10095266 ;
@@ -308764,6 +308785,13 @@ umls:C0235480 a ex:UMLSConcept ;
     ex:semanticType "Disease or Syndrome" ;
     skos:altLabel "Fibrillazione atriale parossistica"@it ;
     skos:notation "C0235480" .
+
+ex:ing_amiodarone a ex:ActiveIngredient ;
+    rdfs:label "Amiodarone" ;
+    ex:atcClass atc:C01BD01 ;
+    skos:altLabel "AMIODARONE",
+        "Amiodarone" ;
+    skos:notation "amiodarone" .
 
 ex:report_25384671 a ex:Report ;
     rdfs:label "Anamnesi - 10068819" ;
@@ -309090,14 +309118,14 @@ ex:ing_levotiroxina a ex:ActiveIngredient ;
         "Levotiroxina" ;
     skos:notation "levotiroxina" .
 
-ex:DrugConditionContraindicationAlert rdfs:subClassOf ex:Alert .
-
 ex:ing_metoprololo a ex:ActiveIngredient ;
     rdfs:label "Metoprololo" ;
     ex:atcClass atc:C07AB02 ;
     skos:altLabel "METOPROLOLO",
         "Metoprololo" ;
     skos:notation "metoprololo" .
+
+ex:DrugConditionContraindicationAlert rdfs:subClassOf ex:Alert .
 
 umls:C0002962 a ex:UMLSConcept ;
     rdfs:label "Angina Pectoris" ;
