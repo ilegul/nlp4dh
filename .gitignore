@@ -24,20 +24,18 @@ data/external/*/raw/
 .env.*
 !.env.example
 
-# UMLS is licensed content. Neither the release archive, anything extracted from it, nor any local
-# cache built from the API may be committed.
+# The UMLS release archive is licensed content and must never be committed, nor anything
+# extracted from it.
 data/external/umls/
-data/external/umls_cache/
-outputs/umls_cache/
-cache/umls/
 *.rrf
 *.RRF
 *UMLS*.zip
 *UMLS*.tar.gz
-
-# UMLS content is licensed: no copy of the cache may be committed, wherever it lands
-**/umls_cache/
 **/umls_gold_export/
 
-# Personal study notes, not part of the delivery
-clinical_nlp_pipeline_umls_submission_report.md
+# The one exception is data/external/umls_cache/: responses this project fetched with its own UTS
+# key, kept under version control on purpose. Without it the notebook cannot re-run the linking
+# without a key and hours of API calls. It holds no credential. THIS REPOSITORY IS PRIVATE and must
+# stay private - it also carries pseudonymized patient records.
+outputs/umls_cache/
+cache/umls/
