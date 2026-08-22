@@ -41,7 +41,13 @@ ipykernel==6.15.0
 ipython==8.4.0           # IPython.display.display / HTML, used for every table in the notebook
 
 # ── NOT installable via pip - see README.md "Setup" ─────────────────────────────────────────
-#   python -m spacy download it_core_news_lg
+#   the spaCy Italian model. PIN THE VERSION: `python -m spacy download it_core_news_lg` fetches
+#   whatever is current, which today is 3.8.0 and warns against the spacy==3.7.5 pinned above. It
+#   also changes the GLiNER cache signature (the sidecars in outputs/ record the model version), so
+#   an unpinned model silently invalidates the cache and re-tags all 857 reports with a different
+#   segmenter than the one the reported figures came from. Install 3.7.0 explicitly:
+#   python -m pip install https://github.com/explosion/spacy-models/releases/download/it_core_news_lg-3.7.0/it_core_news_lg-3.7.0-py3-none-any.whl
+#
 #   ollama pull qwen2.5:3b-instruct
 #   HF models auto-download on first use: intfloat/multilingual-e5-small,
 #     urchade/gliner_multi-v2.1

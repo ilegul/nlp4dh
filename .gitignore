@@ -39,3 +39,10 @@ data/external/umls/
 # stay private - it also carries pseudonymized patient records.
 outputs/umls_cache/
 cache/umls/
+
+# Documenti interni: restano sul disco, non viaggiano col repository. STATO.md e' il documento di
+# ripresa del lavoro e GUIDA_STUDIO_PROGETTO.* sono appunti d'esame - entrambi scritti per chi
+# sviluppa, non per chi valuta (STATO contiene la lista "cosa resta da fare" e note da preparare a
+# voce). Il repository consegnato deve contenere il notebook e i suoi input/output.
+STATO.md
+GUIDA_STUDIO_PROGETTO.*

@@ -25,13 +25,33 @@ data/
     aifa_products.csv                           one row per AIFA product; product-name catalog with product-level ATC
     ingredient_crosswalk.csv                    one row per canonical AIFA ingredient; ATC, RxCUI, DDInter mappings
     aifa/normalized/medications.csv             raw AIFA anagrafica farmaci (builder input)
-    umls_cache/                                 UMLS API results, NOT in git (see "UMLS access")
+    umls_cache/                                 UMLS API results, versioned on purpose (see "UMLS access")
   annotations/                                  row-by-row gold for the 50-patient evaluation
     gold_umls_links.csv                         120-mention UMLS gold over the 30 held-out patients
 outputs/                                        cached intermediates (GLiNER spans, parquet, the KG .ttl)
 requirements.txt
 .env.example                                    the one environment variable the notebook needs
 ```
+
+### Which section writes which artifact
+
+Every file in `outputs/` is prefixed with the section that writes it.
+
+| file in `outputs/` | written by | holds |
+|---|---|---|
+| `sec3_discharge_drugs.parquet` | **Section 3** | one row per discharge prescription |
+| `sec3_discharge_linked.parquet` | **Section 3** | one row per discharge active ingredient, with ATC / ATC-4 / RxCUI / DDInter |
+| `sec4_ingress_drugs.parquet` | **Section 4** | one row per admission mention occurrence, with offsets and link provenance |
+| `sec5_labelset_comparison.parquet` (+ `.meta.json`) | **Section 5A** | the GLiNER label-set ablation, on the 20 development patients |
+| `sec5_anamnesis_entities.parquet` (+ `.meta.json`) | **Section 5A** | the GLiNER spans over all 857 anamnesis reports |
+| `sec5_conditions_linked.parquet` | **Section 5C** | condition mentions with their context axes and UMLS link or abstention |
+| `sec6_alerts.parquet` | **Section 6** | one row per alert, with rule, identifiers and provenance |
+| `sec8_knowledge_graph.ttl` | **Section 8** | the RDF graph, 278,224 triples |
+| `demo_synthetic_spans.json` | **Section 9** | GLiNER spans for the synthetic demo patient, kept out of every cohort figure |
+
+The two `.meta.json` sidecars are cache signatures, not results: each records the model, the label
+set, the threshold and a content hash of both the extractor source and the input texts, so changing
+any of them invalidates the cache instead of silently reusing spans from an older configuration.
 
 ## Setup
 
@@ -47,8 +67,8 @@ python -m venv .venv
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 
-# 3) spaCy Italian model (not a pip package)
-python -m spacy download it_core_news_lg
+# 3) spaCy Italian model - install the PINNED version, not the current one
+python -m pip install https://github.com/explosion/spacy-models/releases/download/it_core_news_lg-3.7.0/it_core_news_lg-3.7.0-py3-none-any.whl
 
 # 4) local LLM (Section 9). Install Ollama from https://ollama.com, then:
 ollama pull qwen2.5:3b-instruct
@@ -56,6 +76,13 @@ ollama pull qwen2.5:3b-instruct
 
 The two Hugging Face models (`intfloat/multilingual-e5-small`, `urchade/gliner_multi-v2.1`)
 download automatically on first use.
+
+> **Why the spaCy model is pinned.** `python -m spacy download it_core_news_lg` installs whatever is
+> current - today 3.8.0, which spaCy itself warns is not compatible with the pinned `spacy==3.7.5`.
+> It also matters for reproducibility: the GLiNER cache sidecars in `outputs/` record the model
+> version in their signature, so an unpinned model **invalidates the cache** and re-tags all 857
+> reports with a different sentence segmenter than the one behind the reported figures. Install
+> 3.7.0 and the cache is reused, the run takes minutes, and the numbers reproduce.
 
 ## UMLS access
 
@@ -81,16 +108,19 @@ export UMLS_API_KEY="your-key-here"
 > check from inside the notebook: the setup cell prints `API key configured: True`.
 
 `.env.example` records the variable name and holds no value. Never commit a real key: `.gitignore`
-excludes `.env`, `.env.*` (except `.env.example`), any `umls_cache/` directory wherever it sits, and
-any `*.RRF` or `*UMLS*.zip` release file.
+excludes `.env`, `.env.*` (except `.env.example`), and any `*.RRF` or `*UMLS*.zip` release file. It
+also excludes a stray `outputs/umls_cache/` or `cache/umls/`; the one cache that **is** versioned is
+`data/external/umls_cache/`, deliberately, and it was checked to hold no credential.
 
 **The full 5.4 GB UMLS release archive is not needed.** The notebook uses the REST API plus a local
 cache, and reads no `MRCONSO.RRF`.
 
-**Running without a key.** The pipeline still runs: cells that need the API load whatever the local
-cache holds and, when a value is missing and no key is configured, report that the step was skipped.
-Nothing downstream invents a concept. Without either a key or a cache, condition linking abstains with
-`api_unavailable` and the Section 7.5 evaluation cannot be computed.
+**Running without a key.** The pipeline runs without one, because `data/external/umls_cache/` ships
+with the repository: a key is needed only to query a surface form the cache has never seen. Cells
+that need the API load whatever the cache holds and, when a value is missing and no key is
+configured, report that the step was skipped. Nothing downstream invents a concept. Only if the cache
+is deleted *and* no key is configured does condition linking abstain with `api_unavailable`, and the
+Section 7.5 evaluation then cannot be computed.
 
 ## Running
 
@@ -101,17 +131,19 @@ jupyter notebook notebooks/clinical_nlp_pipeline.ipynb   # then Run All
 Start Ollama before the run (`ollama serve`, or the desktop app), otherwise the Section 9
 demonstrations record a connection failure instead of a result.
 
-**How long it takes depends on the caches**, which are not all in git:
+**How long it takes depends on the caches**, and both of them ship with the repository:
 
-| cache | in the repository? | cost when cold |
+| cache | in the repository? | cost if deleted |
 |---|---|---|
 | `outputs/` - GLiNER spans, parquet intermediates, the KG | yes | GLiNER pass ~15 min |
-| `data/external/umls_cache/` - UMLS API results | **no** (licensed content) | **~1 hour** for the ~7,200 distinct condition surface forms, at the client's 4 requests/second floor |
+| `data/external/umls_cache/` - UMLS API results | yes, 692 KB | **~1 hour** for the ~7,200 distinct condition surface forms, at the client's 4 requests/second floor |
 
-So a run on a machine that already has both caches finishes in minutes; a **fresh clone with a valid
-key pays the cold UMLS pass once**, after which the cache makes every later run fast. The cache is
-keyed by UMLS release, and searches that returned nothing are recorded too, so an interrupted run
-resumes instead of starting over. Deleting a cache triggers its recomputation.
+So a fresh clone finishes in minutes. The UMLS cache holds the responses this project fetched with
+its own UTS key - it is **not** the UMLS release, it carries no credential, and it is versioned on
+purpose so the linking can be re-run **without a key**. A key is needed only to query surface forms
+the cache has never seen. The cache is keyed by UMLS release, and searches that returned nothing are
+recorded too, so an interrupted run resumes instead of starting over. Deleting a cache triggers its
+recomputation, and that is the only situation in which the cold cost above applies.
 
 **Demo patient.** The Section 9 end-to-end demonstration uses one synthetic patient, defined and tagged
 inside the notebook: its anamnesis is a literal in Section 9 and its GLiNER spans come from the cohort's
