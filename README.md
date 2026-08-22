@@ -159,9 +159,10 @@ freed before the local LLM section loads. With more RAM/VRAM these frees are sim
 
 Section 7 evaluates against the single-annotator project gold in `data/annotations/`, on the 30
 held-out patients: **patient-level ingredient-multiset evaluation for discharge therapy, exact and
-relaxed mention detection for admission therapy, exact/relaxed span evaluation for GLiNER, context
-evaluation on two axes** (assertion and experiencer; temporality is extracted and used by the
-contraindication rule, but not scored), **allergen extraction, and UMLS entity linking** against
+relaxed mention detection for admission therapy, condition NER split into span detection, category
+on matched spans and typed NER, context evaluation on all three axes** (assertion, experiencer and
+temporality - the last is reported and then gates nothing, because it scores below its own majority
+baseline), **allergen extraction, and UMLS entity linking** against
 `gold_umls_links.csv` - a 120-mention stratified sample covering all 30 held-out patients.
 
 The 20 development patients are used to select the NER label set and the ConText scope, and to inspect
