@@ -40,6 +40,13 @@ data/external/umls/
 outputs/umls_cache/
 cache/umls/
 
+# outputs/ keeps ONE versioned artifact: the GLiNER spans, which take ~15 minutes to recompute.
+# Everything else a run writes there (the prescription table, the admission mentions, the linked
+# conditions, the alerts, the graph) is rebuilt in seconds and is not committed.
+outputs/*
+!outputs/anamnesis_entities.parquet
+!outputs/anamnesis_entities.meta.json
+
 # Documenti interni: restano sul disco, non viaggiano col repository. STATO.md e' il documento di
 # ripresa del lavoro e GUIDA_STUDIO_PROGETTO.* sono appunti d'esame - entrambi scritti per chi
 # sviluppa, non per chi valuta (STATO contiene la lista "cosa resta da fare" e note da preparare a

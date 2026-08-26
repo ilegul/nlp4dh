@@ -1,57 +1,58 @@
 # Clinical NLP over Italian Hospital Records - a Neuro-Symbolic Pipeline
 
 A clinical NLP pipeline over 857 pseudonymized Italian hospital encounters - each with a
-discharge-therapy, an admission-therapy and an anamnesis report - that
-demonstrates a broad range of NLP techniques - regex extraction, a symbolic AIFA gazetteer, zero-shot
-NER (GLiNER), rule-based context classification (ConText), UMLS entity linking with abstention, a
-symbolic alert engine, neuro-symbolic tool-calling (Ollama), and an RDF knowledge graph with SPARQL.
+discharge-therapy, an admission-therapy and an anamnesis report. Each report type gets the method its
+surface form justifies: regex extraction for the templated discharge therapy, few-shot generative
+extraction with a local LLM for the heterogeneous admission therapy, and zero-shot NER (GLiNER) plus
+rule-based context classification (ConText) and UMLS entity linking with abstention for the free
+anamnesis prose. On top of those facts sit a symbolic alert engine, an RDF knowledge graph with
+SPARQL, and three local-LLM demonstrations including tool calling over the graph.
 
-The deliverable is **`notebooks/clinical_nlp_pipeline.ipynb`** (sections 0-10, runs end-to-end).
+The deliverable is **`notebooks/clinical_nlp_pipeline.ipynb`** (sections 1-10, runs end-to-end).
 
-Two drug resources are prepared once and shipped ready to use: `data/external/aifa_products.csv`, one
-row per AIFA product, and `data/external/ingredient_crosswalk.csv`, one row per canonical active
-ingredient carrying its ATC / RxCUI / DDInter identifiers. They are resolved over the **full AIFA
-registry** rather than over this cohort, so the pipeline loads the codes instead of re-computing the
-joins at run time, and a drug absent from these patients is still covered.
+`data/external/ingredient_crosswalk.csv` is prepared once and shipped ready to use: one row per
+canonical active ingredient with its RxCUI and DDInter identifier, resolved over the **full AIFA
+registry** rather than over this cohort, so the pipeline loads the identifiers instead of re-computing
+the joins at run time.
 
 ## Layout
 
 ```
 notebooks/
-  clinical_nlp_pipeline.ipynb                   the deliverable (sections 0-10)
+  clinical_nlp_pipeline.ipynb                   the deliverable (sections 1-10)
 data/
   pazienti_con_terapia_uscita_testuale.json     dataset (857 patients x 3 reports)
   external/                                     external knowledge resources (AIFA, DDInter, MED-RT, RxNorm)
-    aifa_products.csv                           one row per AIFA product; product-name catalog with product-level ATC
-    ingredient_crosswalk.csv                    one row per canonical AIFA ingredient; ATC, RxCUI, DDInter mappings
-    aifa/normalized/medications.csv             raw AIFA anagrafica farmaci (builder input)
+    aifa/normalized/aifa_confezioni.parquet     AIFA package registry; product -> active ingredients + ATC
+    ingredient_crosswalk.csv                    one row per canonical ingredient; RxCUI and DDInter identifiers
+    ddinter/normalized/safety/                  DDInter 2.0 pairwise interaction table with severity
+    rx/rxclass/medrt_contraindications.csv      MED-RT ci_with relation (RxCUI + MeSH disease descriptor)
     umls_cache/                                 UMLS API results, versioned on purpose (see "UMLS access")
   annotations/                                  row-by-row gold for the 50-patient evaluation
     gold_umls_links.csv                         120-mention UMLS gold over the 30 held-out patients
-outputs/                                        cached intermediates (GLiNER spans, parquet, the KG .ttl)
+outputs/                                        the GLiNER span cache, plus what a run writes
 requirements.txt
 .env.example                                    the one environment variable the notebook needs
 ```
 
-### Which section writes which artifact
+Other files under `data/external/` are the inputs and manifests that document how the shipped
+resource tables were built. The notebook itself reads only the five listed above.
 
-Every file in `outputs/` is prefixed with the section that writes it.
+### What a run writes to `outputs/`
 
-| file in `outputs/` | written by | holds |
+| file | written by | holds |
 |---|---|---|
-| `sec3_discharge_drugs.parquet` | **Section 3** | one row per discharge prescription |
-| `sec3_discharge_linked.parquet` | **Section 3** | one row per discharge active ingredient, with ATC / ATC-4 / RxCUI / DDInter |
-| `sec4_ingress_drugs.parquet` | **Section 4** | one row per admission mention occurrence, with offsets and link provenance |
-| `sec5_labelset_comparison.parquet` (+ `.meta.json`) | **Section 5A** | the GLiNER label-set ablation, on the 20 development patients |
-| `sec5_anamnesis_entities.parquet` (+ `.meta.json`) | **Section 5A** | the GLiNER spans over all 857 anamnesis reports |
-| `sec5_conditions_linked.parquet` | **Section 5C** | condition mentions with their context axes and UMLS link or abstention |
-| `sec6_alerts.parquet` | **Section 6** | one row per alert, with rule, identifiers and provenance |
-| `sec8_knowledge_graph.ttl` | **Section 8** | the RDF graph, 278,224 triples |
-| `demo_synthetic_spans.json` | **Section 9** | GLiNER spans for the synthetic demo patient, kept out of every cohort figure |
+| `anamnesis_entities.parquet` (+ `.meta.json`) | **Section 5** | GLiNER spans over all 857 anamnesis reports |
+| `admission_mentions.parquet` (+ `.meta.json`) | **Section 4** | few-shot admission mentions with their offsets |
+| `discharge_prescriptions.parquet` | **Section 3** | one row per discharge prescription |
+| `conditions_linked.parquet` | **Section 5** | condition mentions with their context axes and UMLS link or abstention |
+| `alerts.parquet` | **Section 6** | one row per alert, with the identifiers the rule fired on |
+| `knowledge_graph.ttl` | **Section 8** | the RDF graph |
 
-The two `.meta.json` sidecars are cache signatures, not results: each records the model, the label
-set, the threshold and a content hash of both the extractor source and the input texts, so changing
-any of them invalidates the cache instead of silently reusing spans from an older configuration.
+The two `.meta.json` sidecars are cache signatures, not results: each records the model and the
+settings that produced the file, so changing any of them invalidates the cache instead of silently
+reusing output from a different configuration. Only the GLiNER span cache ships with the repository,
+because it is the one artifact whose recomputation is expensive; the rest a run rebuilds in seconds.
 
 ## Setup
 
@@ -79,10 +80,9 @@ download automatically on first use.
 
 > **Why the spaCy model is pinned.** `python -m spacy download it_core_news_lg` installs whatever is
 > current - today 3.8.0, which spaCy itself warns is not compatible with the pinned `spacy==3.7.5`.
-> It also matters for reproducibility: the GLiNER cache sidecars in `outputs/` record the model
-> version in their signature, so an unpinned model **invalidates the cache** and re-tags all 857
-> reports with a different sentence segmenter than the one behind the reported figures. Install
-> 3.7.0 and the cache is reused, the run takes minutes, and the numbers reproduce.
+> It also matters for reproducibility: the model does the sentence segmentation GLiNER runs on, so a
+> different version would re-tag all 857 reports with a different segmenter than the one behind the
+> shipped span cache and the reported figures.
 
 ## UMLS access
 
@@ -128,14 +128,15 @@ Section 7.5 evaluation then cannot be computed.
 jupyter notebook notebooks/clinical_nlp_pipeline.ipynb   # then Run All
 ```
 
-Start Ollama before the run (`ollama serve`, or the desktop app), otherwise the Section 9
-demonstrations record a connection failure instead of a result.
+Start Ollama before the run (`ollama serve`, or the desktop app): the local model is used twice, by
+the admission extraction of Section 4 and by the demonstrations of Section 9.
 
 **How long it takes depends on the caches**, and both of them ship with the repository:
 
 | cache | in the repository? | cost if deleted |
 |---|---|---|
-| `outputs/` - GLiNER spans, parquet intermediates, the KG | yes | GLiNER pass ~15 min |
+| `outputs/anamnesis_entities.parquet` - GLiNER spans | yes | GLiNER pass over 857 reports, ~15 min |
+| `outputs/admission_mentions.parquet` - few-shot extraction | no, a run writes it | one local-LLM call per annotated patient |
 | `data/external/umls_cache/` - UMLS API results | yes, 692 KB | **~1 hour** for the ~7,200 distinct condition surface forms, at the client's 4 requests/second floor |
 
 So a fresh clone finishes in minutes. The UMLS cache holds the responses this project fetched with
@@ -145,29 +146,24 @@ the cache has never seen. The cache is keyed by UMLS release, and searches that 
 recorded too, so an interrupted run resumes instead of starting over. Deleting a cache triggers its
 recomputation, and that is the only situation in which the cold cost above applies.
 
-**Demo patient.** The Section 9 end-to-end demonstration uses one synthetic patient, defined and tagged
-inside the notebook: its anamnesis is a literal in Section 9 and its GLiNER spans come from the cohort's
-own `extract_entities`, cached to `outputs/demo_synthetic_spans.json` under a signature (label set,
-threshold, hash of the text) exactly like the cohort spans. Its spans live in `demo_anam_spans` and are
-never merged into `anamnesis_entities`, so no corpus-level figure can see them.
+**Demonstration patient.** Section 9 works on a real cohort patient, chosen deterministically. It
+belongs to the patients already processed above, so the demonstrations show the path end to end and
+say nothing about unseen input.
 
-**Memory note.** The notebook is tuned for a 4 GB GPU / 16 GB RAM machine: GLiNER is skipped when its
-cache exists, models are freed and reloaded between stages, and the sentence embedder and spaCy are
-freed before the local LLM section loads. With more RAM/VRAM these frees are simply harmless.
+**Memory note.** GLiNER is loaded only when its span cache is missing, and the local model runs in the
+Ollama process rather than in the kernel, so the notebook fits a 4 GB GPU / 16 GB RAM machine.
 
 ## Gold evaluation
 
 Section 7 evaluates against the single-annotator project gold in `data/annotations/`, on the 30
-held-out patients: **patient-level ingredient-multiset evaluation for discharge therapy, exact and
-relaxed mention detection for admission therapy, condition NER split into span detection, category
-on matched spans and typed NER, context evaluation on all three axes** (assertion, experiencer and
-temporality - the last is reported and then gates nothing, because it scores below its own majority
-baseline), **allergen extraction, and UMLS entity linking** against
-`gold_umls_links.csv` - a 120-mention stratified sample covering all 30 held-out patients.
+held-out patients: **patient-level ingredient-multiset evaluation for discharge therapy, exact-span
+detection for admission therapy, exact-span condition NER with and without the category, macro-F1 per
+context axis** (assertion and experiencer), **UMLS entity linking** against `gold_umls_links.csv` - a
+120-mention stratified sample covering all 30 held-out patients - and an alert comparison that runs
+the same four rules on annotated and on extracted inputs.
 
-The 20 development patients are used to select the NER label set and the ConText scope, and to inspect
-the numerical scale of the UMLS thresholds on their extracted mentions. No held-out annotation and no
-held-out text enters any selection step.
+The 20 development patients supply the four few-shot examples of Section 4 and nothing else. No
+held-out annotation and no held-out text enters any choice the notebook makes.
 
 > The dataset consists of pseudonymized clinical records used for an educational project only. No
 > re-identification is attempted and no extensive raw text is published outside the notebook.
