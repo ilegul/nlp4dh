@@ -14,42 +14,37 @@ Thumbs.db
 .DS_Store
 
 # Raw source dumps under data/external: large original downloads that exceed GitHub's file-size
-# limits. The pipeline only reads the normalized/ versions; provenance is documented in each
+# limits. The pipeline only reads the normalized versions; provenance is documented in each
 # resource's manifest.json.
 data/external/*/raw/
 
-# Credentials. The UMLS API key is read from the environment; .env.example is the only committed
-# template and holds no value.
+# Credentials. The UMLS API key is read from the environment, never from a file.
 .env
 .env.*
-!.env.example
 
-# The UMLS release archive is licensed content and must never be committed, nor anything
-# extracted from it.
+# The UMLS release archive is licensed content.
 data/external/umls/
+data/external/umls_index/
 *.rrf
 *.RRF
+*umls*.zip
 *UMLS*.zip
 *UMLS*.tar.gz
 **/umls_gold_export/
 
-# The one exception is data/external/umls_cache/: responses this project fetched with its own UTS
-# key, kept under version control on purpose. Without it the notebook cannot re-run the linking
-# without a key and hours of API calls. It holds no credential. THIS REPOSITORY IS PRIVATE and must
-# stay private - it also carries pseudonymized patient records.
+
 outputs/umls_cache/
 cache/umls/
 
-# outputs/ keeps ONE versioned artifact: the GLiNER spans, which take ~15 minutes to recompute.
-# Everything else a run writes there (the prescription table, the admission mentions, the linked
-# conditions, the alerts, the graph) is rebuilt in seconds and is not committed.
+data/external/umls_cache/dense_candidates.parquet
+data/external/umls_cache/tfidf_candidates.parquet
+
 outputs/*
 !outputs/anamnesis_entities.parquet
 !outputs/anamnesis_entities.meta.json
 
-# Documenti interni: restano sul disco, non viaggiano col repository. STATO.md e' il documento di
-# ripresa del lavoro e GUIDA_STUDIO_PROGETTO.* sono appunti d'esame - entrambi scritti per chi
-# sviluppa, non per chi valuta (STATO contiene la lista "cosa resta da fare" e note da preparare a
-# voce). Il repository consegnato deve contenere il notebook e i suoi input/output.
+# Internal documents
 STATO.md
-GUIDA_STUDIO_PROGETTO.*
+GUIDA.*
+
+
